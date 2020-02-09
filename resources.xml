@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="finances.xsl"?>
+<resources>
+	<section section="social" lang="en">
+		<sectionname section="social" lang="en">Social Services</sectionname>
+		<resource lang="en">
+			<name lang="en">Daniel Kids</name>
+			<link lang="en">https://www.danielkids.org/</link>
+			<description lang="en">Daniel offers an array of quality, efficient and effective mental health and social service programs aimed at enhancing the lives of children and families. Whether it be a therapeutic foster home for an abused child, independent living services for a homeless adolescent, intervention services for an adolescent on the path of juvenile delinquency or treatment for an emotionally disturbed, behaviorally disruptive child, Daniel’s quality continuum of care can help meet the needs of the children and families in the community it serves.</description></resource>
+		<resource lang="en">
+			<name lang="en">Embrace Families</name>
+			<link lang="en">https://embracefamilies.org/</link>
+			<description lang="en">Community based care that works with a collaborative network of state, local and private partners to ensure that every child in our community has a safe and stable home.</description></resource>
+		<resource lang="en">
+			<name lang="en">DCF - Independent Living Services</name>
+			<link lang="en">https://www.myflfamilies.com/service-programs/independent-living/</link>
+			<description lang="en">Services for Transitioning Youth and Young Adults</description></resource>
+		<resource lang="en">
+			<name lang="en">Keys to Independence</name>
+			<link lang="en">http://keystoindependencefl.com/</link>
+			<description lang="en">This program will reimburse youth and caregivers for the costs associated with driver’s education, driver’s licenses and other costs related to getting a driver’s license as well as motor vehicle insurance.</description></resource>
+	</section>
+	<section section="social" lang="es">
+		<sectionname section="social" lang="es">Servicios Sociales</sectionname>
+		<resource lang="es">
+			<name lang="es">Daniel Kids</name>
+			<link lang="es">https://www.danielkids.org/</link>
+			<description lang="es">Daniel ofrece una variedad de programas de servicios sociales y servicios de salud mental eficientes, efectivos, y de calidad dirigidos a mejorar las vidas de niños y familias. Sea un hogar de acogida terapéutica para un niño abusado, servicios de vida independiente para un adolescente indigente, servicios de intervención para un adolescente de camino a la delincuencia, o tratamiento para un niño emocionalmente perturbado o de conducta perturbadora, el cuidado de calidad de Daniel puede ayudar a satisfacer las necesidades de niños y familias en la comunidad.</description></resource>
+		<resource lang="es">
+			<name lang="es">Embrace Families</name>
+			<link lang="es">https://embracefamilies.org/</link>
+			<description lang="es">Atención comunitaria que colabora con una red entre asociados privados, locales y del estado para asegurar que cada niño en nuestra comunidad tenga un hogar estable y seguro.</description></resource>
+		<resource lang="es">
+			<name lang="es">DCF - Servicios de Vida Independiente</name>
+			<link lang="es">https://www.myflfamilies.com/service-programs/independent-living/</link>
+			<description lang="es">Servicios de transición para menores y adultos jóvenes</description></resource>
+		<resource lang="es">
+			<name lang="es">Secretos Hacia la Independencia</name>
+			<link lang="es">http://keystoindependencefl.com/</link>
+			<description lang="es">Este programa reembolsa a menores y sus cuidadores los costos asociados con educación de conductores, licencias de conducir y otros costos relacionados a la obtención de licencias de conducir y seguro de vehículos de motor.</description></resource>
+	</section>
+	<section section="education" lang="en">
+		<sectionname section="education" lang="en">Education</sectionname>
+		<resource lang="en">
+			<name lang="en">FAFSA</name>
+			<link lang="en">https://studentaid.ed.gov/sa/fafsa</link>
+			<description lang="en">Free Application for Federal Student Aid (FAFSA)</description></resource>
+		<resource lang="en">
+			<name lang="en">Osceola County Public Schools</name>
+			<link lang="en">https://www.osceolaschools.net/</link>
+			<description lang="en">The School District of Osceola County, Florida</description></resource>
+		<resource lang="en">
+			<name lang="en">Florida Virtual School</name>
+			<link lang="en">https://flvs.net/</link>
+			<description lang="en">Online public school</description></resource>
+		<resource lang="en">
+			<name lang="en">Osceola Technical College (oTECH)</name>
+			<link lang="en">https://otec.osceolaschools.net/</link>
+ 		<description lang="en">Career and technical education and dual enrollment</description></resource>
+    </section>
+	<section section="education" lang="es">
+		<sectionname section="education" lang="es">Educación</sectionname>
+		<resource lang="es">
+			<name lang="es">FAFSA</name>
+			<link lang="es">https://studentaid.ed.gov/sa/es/fafsa</link>
+			<description lang="es">Solicitud Gratuita de Ayuda Federal para Estudiantes (FAFSA)</description></resource>
+		<resource lang="es">
+			<name lang="es">Escuelas públicas del Condado de Osceola</name>
+			<link lang="es">https://www.osceolaschools.net/</link>
+			<description lang="es">Distrito Escolar del Condado de Osceola</description></resource>
+		<resource lang="es">
+			<name lang="es">Escuela Virtual de Florida</name>
+			<link lang="es">https://flvs.net/</link>
+			<description lang="es">Escuela pública en línea</description></resource>
+		<resource lang="es">
+			<name lang="es">Colegio Técnico de Osceola (oTECH)</name>
+			<link lang="es">https://otec.osceolaschools.net/</link>
+			<description lang="es">Educación técnica y de carrera y matrícula doble</description></resource>
+	</section>
+	<section section="finances" lang="en">
+		<sectionname section="finances" lang="en">Finances</sectionname>
+		<resource lang="en">
+			<name lang="en">Internal Revenue Service</name>
+			<link lang="en">https://www.irs.gov/filing</link>
+			<description lang="en">File your tax return</description></resource>
+		<resource lang="en">
+			<name lang="en">Types of Federal Student Aid</name>
+			<link lang="en">https://studentaid.ed.gov/sa/types</link>
+			<description lang="en">Learn about grants, loans, and work-study jobs and how they can help fund your education.</description></resource>
+		<resource lang="en">
+			<name lang="en">Get help with bills</name>
+			<link lang="en">https://www.usa.gov/help-with-bills</link>
+			<description lang="en">Learn about government programs to help pay for phone bills, medical bills, and other expenses. You can also learn how to apply for temporary assistance.</description></resource>
+		<resource lang="en">
+			<name lang="en">ACCESS Florida</name>
+			<link lang="en">https://www.myflfamilies.com/service-programs/access/map.shtml</link>
+			<description lang="en">The Florida Department of Children and Families Automated Community Connection to Economic Self Sufficiency (ACCESS). The ACCESS Florida system allows customers to connect with their public assistance information 24/7, through the online application and MyACCESS Account. The Economic Self-Sufficiency Program helps to promote strong and economically self-sufficient communities by determining eligibility for food, cash and medical assistance for individuals and families on the road to economic recovery.</description></resource>
+	</section>
+	<section section="finances" lang="es">
+		<sectionname section="finances" lang="es">Finanzas</sectionname>
+		<resource lang="es">
+			<name lang="es">Servicio de Rentas Internas</name>
+			<link lang="es">https://www.irs.gov/es/spanish</link>
+			<description lang="es">Reintegro de impuestos</description></resource>
+		<resource lang="es">
+			<name lang="es">Tipos de ayuda económica federal para estudiantes</name>
+			<link lang="es">https://studentaid.ed.gov/sa/types</link>
+			<description lang="es">Becas y subvenciones, fondos del Programa de Estudio y Trabajo, préstamos y becas de estudio ayudan a que la universidad o el instituto profesional sean más accesibles.</description></resource>
+		<resource lang="es">
+			<name lang="es">Obtén ayuda con el pago de facturas</name>
+			<link lang="es">https://www.usa.gov/espanol/pago-facturas</link>
+			<description lang="es">Ayuda con el pago de facturas de teléfono, servicios, gastos médicos y asistencia para familias necesitadas.</description></resource>
+		<resource lang="es">
+			<name lang="es">ACCESS Florida</name>
+			<link lang="es">https://www.myflfamilies.com/service-programs/access/map.shtml</link>
+			<description lang="es">La Conexión a la Comunidad Automatizada para la Autosuficiencia Económica (ACCESS) del Departamento de Niños y Familias de Florida. El sistema de ACCESS Florida permite conectar a la clientela con su información de asistencia pública 24/7, a través de la aplicación en línea y de la cuenta MyACCESS. El Programa de Autosuficiencia Económica ayuda a promover comunidades fuertes y económicamente autosuficientes al determinar elegibilidad para alimentos, asistencia medica y de dinero para individuos y familias de camino a la recuperación económica.</description></resource>
+	</section>
+	<section section="employment" lang="en">
+		<sectionname section="employment" lang="en">Employment</sectionname>
+		<resource lang="en">
+			<name lang="en">CareerSource Central Florida</name>
+			<link lang="en">http://careersourcecentralflorida.com/</link>
+			<description lang="en">CareerSource connects employers to job seekers in Lake, Orange, Osceola, Seminole and Sumter counties, provide worker resources and training, and prepare Central Florida residents for careers which meet local businesses’ needs.</description></resource>
+		<resource lang="en">
+			<name lang="en">Goodwill Job Connection</name>
+			<link lang="en">https://goodwilljobconnection.org/</link>
+			<description lang="en">Goodwill provides training, English classes, job fairs, and employment services.</description></resource>
+		<resource lang="en">
+			<name lang="en">Jobs Partnership of Florida</name>
+			<link lang="en">https://www.jobspartnership.org/</link>
+			<description lang="en">The Jobs Partnership of Florida is able to offer LifeWorks Training, Career Pathways, Community Resource Fairs, Career Fairs, the Job Connection website, educational opportunities, mentorship and other programs and resources.</description></resource>
+    </section>
+	<section section="employment" lang="es">
+		<sectionname section="employment" lang="es">Empleo</sectionname>
+		<resource lang="es">
+			<name lang="es">CareerSource de Florida Central</name>
+			<link lang="es">http://careersourcecentralflorida.com/</link>
+			<description lang="es">CareerSource pone en contacto empleadores y solicitantes de empleo en los condados de Lake, Orange, Osceola, Seminole y Sumter, proveen a los trabajadores recursos y entrenamiento, y preparan a los residentes de la Florida Central para carreras que satisfacen las necesidades de las empresas locales.</description></resource>
+		<resource lang="es">
+			<name lang="es">Goodwill Job Connection</name>
+			<link lang="es">https://goodwilljobconnection.org/</link>
+			<description lang="es">Goodwill provee entrenamiento, clases de inglés, ferias de empleo y servicios de empleo.</description></resource>
+		<resource lang="es">
+			<name lang="es">Sociedad de Trabajos de Florida</name>
+			<link lang="es">https://www.jobspartnership.org/</link>
+			<description lang="es">La Sociedad de Trabajos de Florida ofrece Entrenamiento LifeWorks, Senderos de Carrera, Ferias de Recursos Comunitarios, Ferias de Trabajo, el sitio web de Conexión de Trabajo, oportunidades educacionales, mentoría y otros programas y recursos.</description></resource>
+	  </section>
+	  <section section="health" lang="en">
+		<sectionname section="health" lang="en">Health</sectionname>
+		<resource lang="en">
+			<name lang="en">Health Insurance Marketplace</name>
+			<link lang="en">https://www.healthcare.gov/</link>
+			<description lang="en">The official site of the Health Insurance Marketplace. The Marketplace is a new way to find health coverage that fits your budget and meets your needs. With one application, you can see all your options and enroll.</description></resource>
+		<resource lang="en">
+			<name lang="en">STD Clinic at the Florida Department of Health in Osceola County</name>
+			<link lang="en">http://osceola.floridahealth.gov/programs-and-services/infectious-disease-services/std/index.html</link>
+			<description lang="en">The Florida Department of Health in Osceola County's STD clinic offers services at a reasonable and/or no cost basis to adults and adolescents, regardless of their citizenship status. Clinical services are provided for all clients including adolescents who are assured confidential STD clinical services by Florida Law.</description></resource>
+		<resource lang="en">
+			<name lang="en">PlannedParenthood</name>
+			<link lang="en">https://www.plannedparenthood.org/</link>
+			<description lang="en">Get care and answers about pregnancy, birth control, emergency contraception, STDs, and abortion.  </description></resource>
+    </section>
+	<section section="health" lang="es">
+		<sectionname section="health" lang="es">Salud</sectionname>
+		<resource lang="es">
+			<name lang="es">Mercado de Seguros de Salud</name>
+			<link lang="es">https://www.cuidadodesalud.gov/es/</link>
+			<description lang="es">El sitio web oficial del Mercado de Seguros de Salud a Bajo Costo. El mercado es una forma nueva de encontrar seguros de salud apropiados para su presupuesto y que llenen sus necesidades. Con una aplicación usted puede ver todas sus opciones y matricularse.</description></resource>
+		<resource lang="es">
+			<name lang="es">Clínica de Infecciones de Transmisión Sexual del Departamento de Salud de Florida en el Condado de Osceola</name>
+			<link lang="es">http://osceola.floridahealth.gov/programs-and-services/infectious-disease-services/std/index.html</link>
+			<description lang="es">La Clínica de Infecciones de Transmisión Sexual del Departamento de Salud de Florida en el Condado de Osceola ofrece servicios a un costo razonable o de bajo costo a adultos y adolescentes, sin importar el estatus de ciudadanía. Los servicios clínicos se proveen a todos los clientes, incluyendo adolescentes, a los cuales se les asegura confidencialidad según la ley de Florida.</description></resource>
+		<resource lang="es">
+			<name lang="es">PlannedParenthood</name>
+			<link lang="es">https://www.plannedparenthood.org/es</link>
+			<description lang="es">Obtenga cuidado médico y respuestas sobre el embarazo, métodos anticonceptivos, anticoncepción de emergencia, infecciones de transmisión sexual y abortos.</description></resource>
+	</section>
+	<section section="housing" lang="en">
+		<sectionname section="housing" lang="en">Housing</sectionname>
+		<resource lang="en">
+			<name lang="en">Section 8 Program</name>
+			<link lang="en">https://www.osceola.org/agencies-departments/human-services/housing/section-8-program/index.stml</link>
+			<description lang="en">The Section 8 Program is a federal rent subsidy which assists participants with monthly rental payments.</description></resource>
+		<resource lang="en">
+			<name lang="en">Get Help If You’re Currently or About to Be Homeless</name>
+			<link lang="en">https://www.usa.gov/housing-help-audiences</link>
+			<description lang="en">If you’re facing homelessness, these tips can help you prepare for and work through the situation.</description></resource>
+		<resource lang="en">
+			<name lang="en">Airbnb</name>
+			<link lang="en">https://www.airbnb.com/</link>
+			<description lang="en">Rent short or long term</description></resource>
+    </section>
+	<section section="housing" lang="es">
+		<sectionname section="housing" lang="es">Vivienda</sectionname>
+		<resource lang="es">
+			<name lang="es">Programa de Sección 8</name>
+			<link lang="es">https://www.osceola.org/agencies-departments/human-services/housing/section-8-program/index.stml</link>
+			<description lang="es">El programa de Sección 8 es un subsidio federal de renta que ayuda a los participantes con pagos mensuales para la renta.</description></resource>
+		<resource lang="es">
+			<name lang="es">Ayuda con asuntos de vivienda si eres indigente o a punto de ser indigente</name>
+			<link lang="es">https://www.usa.gov/espanol/ayuda-asuntos-vivienda</link>
+			<description lang="es">Ayuda para encontrar vivienda para grupos con necesidades específicas.</description></resource>
+		<resource lang="es">
+			<name lang="es">Airbnb</name>
+			<link lang="es">https://es.airbnb.com/</link>
+			<description lang="es">Renta a corto o a largo plazo</description></resource>
+	</section>
+	<section section="legal" lang="en">
+		<sectionname section="legal" lang="en">Legal Services</sectionname>
+		<resource lang="en">
+			<name lang="en">Legal Aid Society of Osceola</name>
+			<link lang="en">https://osceolabar.org/laso/</link>
+			<description lang="en">The Legal Aid Society of Osceola County was created by the Osceola County Bar Association and currently helps residents of Osceola get access to legal services.</description></resource>
+		<resource lang="en">
+			<name lang="en">Office of the Public Defender - 9th Judicial Circuit Orange and Osceola</name>
+			<link lang="en">http://www.myfloridapd.com/</link>
+			<description lang="en">The majority of their work focuses on representing people in court. Their trained staff also connects clients with programs dealing with substance abuse, anger management and a host of other issues aimed at keeping people from returning to court.</description></resource>
+		<resource lang="en">
+			<name lang="en">Florida Department of Juvenile Justice (DJJ)</name>
+			<link lang="en">http://www.djj.state.fl.us/</link>
+			<description lang="en">The mission of DJJ is to increase public safety by reducing juvenile delinquency through effective prevention, intervention and treatment services that strengthen families and turn around the lives of troubled youth.</description></resource>
+    </section>
+	<section section="legal" lang="es">
+		<sectionname section="legal" lang="es">Servicios Legales</sectionname>
+		<resource lang="es">
+			<name lang="es">Sociedad de Asistencia Legal de Osceola</name>
+			<link lang="es">https://osceolabar.org/laso/</link>
+			<description lang="es">La Sociedad de Asistencia Legal de Osceola fue creada por el Colegio de Abogados del Condado de Osceola y actualmente asiste a los residentes de Osceola a obtener acceso a servicios legales.</description></resource>
+		<resource lang="es">
+			<name lang="es">Oficina del Defensor Público – 9no Circuito Judicial: Orange y Osceola</name>
+			<link lang="es">http://www.myfloridapd.com/</link>
+			<description lang="es">La mayoría del trabajo que la Oficina del Defensor Público realiza se enfoca en representar a la gente en la corte. El personal también conecta los clientes con programas para el abuso de sustancias, manejo de la ira y muchos otros problemas dirigidos a prevenir que las personas regresen a la corte.</description></resource>
+		<resource lang="es">
+			<name lang="es">Departamento de Justicia Juvenil de Florida (DJJ)</name>
+			<link lang="es">http://www.djj.state.fl.us/</link>
+			<description lang="es">La misión del DJJ es aumentar la seguridad pública al reducir la delincuencia juvenil a través de la prevención efectiva, intervenciones y servicios de tratamiento que fortalecen familias y transforman jóvenes problemáticos.</description></resource>
+	</section>
+	<section section="transportation" lang="en">
+		<sectionname section="transportation" lang="en">Transportation</sectionname>
+		<resource lang="en">
+			<name lang="en">SunRail</name>
+			<link lang="en">https://sunrail.com/</link>
+			<description lang="en">SunRail is a rail service with 16 stations through Volusia, Seminole, Orange and Osceola counties.</description></resource>
+		<resource lang="en">
+			<name lang="en">Lynx</name>
+			<link lang="en">https://www.golynx.com/</link>
+			<description lang="en">Lynx buses provide daily public transportation for Orange, Seminole and Osceola counties. Small portion of Lake and Polk counties are also served.</description></resource>
+		<resource lang="en">
+			<name lang="en">Uber</name>
+			<link lang="en">https://www.uber.com/</link>
+			<description lang="en">Request a ride</description></resource>
+		<resource lang="en">
+			<name lang="en">Lyft</name>
+			<link lang="en">https://www.lyft.com/</link>
+			<description lang="en">Request a ride</description></resource>
+    </section>
+	<section section="transportation" lang="es">
+		<sectionname section="transportation" lang="es">Transportación</sectionname>
+		<resource lang="es">
+			<name lang="es">SunRail</name>
+			<link lang="es">https://sunrail.com/es/</link>
+			<description lang="es">El SunRail es un servicio ferroviario con 16 estaciones en los condados de Volusia, Seminole, Orange y Osceola.</description></resource>
+		<resource lang="es">
+			<name lang="es">Lynx</name>
+			<link lang="es">https://www.golynx.com/</link>
+			<description lang="es">Los autobuses de Lynx proveen transportación pública diaria para los condados de Orange, Seminole y Osceola. Porciones pequeñas de los condados de Lake y Polk también son servidas.</description></resource>
+		<resource lang="es">
+			<name lang="es">Uber</name>
+			<link lang="es">https://www.uber.com/us/es/</link>
+			<description lang="es">Obtenga un viaje ahora</description></resource>
+		<resource lang="es">
+			<name lang="es">Lyft</name>
+			<link lang="es">https://www.lyft.com/</link>
+			<description lang="es">Obtenga un viaje ahora</description></resource>
+  </section>
+</resources>
