@@ -8,17 +8,33 @@
 			<link lang="en">https://www.danielkids.org/</link>
 			<description lang="en">Daniel offers an array of quality, efficient and effective mental health and social service programs aimed at enhancing the lives of children and families. Whether it be a therapeutic foster home for an abused child, independent living services for a homeless adolescent, intervention services for an adolescent on the path of juvenile delinquency or treatment for an emotionally disturbed, behaviorally disruptive child, Daniel’s quality continuum of care can help meet the needs of the children and families in the community it serves.</description></resource>
 		<resource lang="en">
-			<name lang="en">Embrace Families</name>
-			<link lang="en">https://embracefamilies.org/</link>
-			<description lang="en">Community based care that works with a collaborative network of state, local and private partners to ensure that every child in our community has a safe and stable home.</description></resource>
+			<name lang="en">Daniel Kids: Florida's Independent Living Resource Center</name>
+			<link lang="en">https://www.danielkids.org/our-programs/floridas-i-l-resource-center/</link>
+			<description lang="en">Independent Living services for transitioning young adults include Extended Foster Care (EFC), Postsecondary Education Services and Support (PESS), and Aftercare Services.</description></resource>
+		<resource lang="en">
+			<name lang="en">Gulf Coast Jewish Family and Community Services</name>
+			<link lang="en">https://gulfcoastjewishfamilyandcommunityservices.org/</link>
+			<description lang="en">>Case management agency. The agency’s mission is to provide essential human services to individuals and families in time of need. We offer extensive counseling, family support services, food, shelter and human kindness to those in crisis. These services are provided throughout the State of Florida in 32 counties.</description></resource>
+		<resource lang="en">
+			<name lang="en">Department of Children and Families (DCF)</name>
+			<link lang="en">https://www.myflfamilies.com/</link>
+			<description lang="en">DCF programs include: abuse hotline, ACCESS Florida, adoption, adult protective services, child care, child welfare, community-based care, domestic violence, foster care, homelessness, mental health, refugee services, substance abuse</description></resource>
 		<resource lang="en">
 			<name lang="en">DCF - Independent Living Services</name>
 			<link lang="en">https://www.myflfamilies.com/service-programs/independent-living/</link>
 			<description lang="en">Services for Transitioning Youth and Young Adults</description></resource>
 		<resource lang="en">
+			<name lang="en">DCF - Independent Living</name>
+			<link lang="en">https://www.myflfamilies.com/service-programs/independent-living/links.shtml</link>
+			<description lang="en">Other resources and useful links</description></resource>
+		<resource lang="en">
 			<name lang="en">Keys to Independence</name>
 			<link lang="en">http://keystoindependencefl.com/</link>
 			<description lang="en">This program will reimburse youth and caregivers for the costs associated with driver’s education, driver’s licenses and other costs related to getting a driver’s license as well as motor vehicle insurance.</description></resource>
+		<resource lang="en">
+			<name lang="en">Embrace Families</name>
+			<link lang="en">https://embracefamilies.org/</link>
+			<description lang="en">Community based care that works with a collaborative network of state, local and private partners to ensure that every child in our community has a safe and stable home.</description></resource>
 	</section>
 	<section section="social" lang="es">
 		<sectionname section="social" lang="es">Servicios Sociales</sectionname>
@@ -27,17 +43,33 @@
 			<link lang="es">https://www.danielkids.org/</link>
 			<description lang="es">Daniel ofrece una variedad de programas de servicios sociales y servicios de salud mental eficientes, efectivos, y de calidad dirigidos a mejorar las vidas de niños y familias. Sea un hogar de acogida terapéutica para un niño abusado, servicios de vida independiente para un adolescente indigente, servicios de intervención para un adolescente de camino a la delincuencia, o tratamiento para un niño emocionalmente perturbado o de conducta perturbadora, el cuidado de calidad de Daniel puede ayudar a satisfacer las necesidades de niños y familias en la comunidad.</description></resource>
 		<resource lang="es">
-			<name lang="es">Embrace Families</name>
-			<link lang="es">https://embracefamilies.org/</link>
-			<description lang="es">Atención comunitaria que colabora con una red entre asociados privados, locales y del estado para asegurar que cada niño en nuestra comunidad tenga un hogar estable y seguro.</description></resource>
+			<name lang="es">Daniel Kids: el centro de recursos de vida independiente de Florida</name>
+			<link lang="es">https://www.danielkids.org/our-programs/floridas-i-l-resource-center/</link>
+			<description lang="es">Los servicios de vida independiente para la transición de adultos jóvenes incluyen hogar de acogida extendido, servicios y apoyo de educación secundaria, y servicios de post-tratamiento.</description></resource>
+		<resource lang="es">
+			<name lang="es">Gulf Coast Jewish Family and Community Services</name>
+			<link lang="es">https://gulfcoastjewishfamilyandcommunityservices.org/</link>
+			<description lang="en">Agencia de manejo de casos. La misión de la agencia es proveer servicios humanos esenciales para individuos y familias en tiempos de necesidad. Ofrecemos consejería extensiva, servicios de apoyo a la familia, comida, albergue y bondad humana a personas en crisis. Estos servicios se proveen a través del estado de Florida en 32 condados.</description></resource>
+		<resource lang="es">
+			<name lang="es">Departamento de Niños y Familias (DCF)</name>
+			<link lang="es">https://www.myflfamilies.com/</link>
+			<description lang="es">Los programas del departamento incluyen: línea directa de abuso, ACCESS Florida (Conexión Comunitaria Automatizada para Autosuficiencia Económica), adopción, servicios de protección de adultos, cuidado de niños, servicios sociales para menores, atención comunitaria, violencia doméstica, hogares de acogida, indigencia, salud mental, servicios para refugiados, abuso de sustancias.</description></resource>
 		<resource lang="es">
 			<name lang="es">DCF - Servicios de Vida Independiente</name>
 			<link lang="es">https://www.myflfamilies.com/service-programs/independent-living/</link>
 			<description lang="es">Servicios de transición para menores y adultos jóvenes</description></resource>
 		<resource lang="es">
+			<name lang="es">DCF - Vida Independiente</name>
+			<link lang="es">https://www.myflfamilies.com/service-programs/independent-living/links.shtml</link>
+			<description lang="en">Otros recursos y enlaces útiles</description></resource>
+		<resource lang="es">
 			<name lang="es">Secretos Hacia la Independencia</name>
 			<link lang="es">http://keystoindependencefl.com/</link>
 			<description lang="es">Este programa reembolsa a menores y sus cuidadores los costos asociados con educación de conductores, licencias de conducir y otros costos relacionados a la obtención de licencias de conducir y seguro de vehículos de motor.</description></resource>
+		<resource lang="es">
+			<name lang="es">Embrace Families</name>
+			<link lang="es">https://embracefamilies.org/</link>
+			<description lang="es">Atención comunitaria que colabora con una red entre asociados privados, locales y del estado para asegurar que cada niño en nuestra comunidad tenga un hogar estable y seguro.</description></resource>	
 	</section>
 	<section section="education" lang="en">
 		<sectionname section="education" lang="en">Education</sectionname>
@@ -46,17 +78,29 @@
 			<link lang="en">https://studentaid.ed.gov/sa/fafsa</link>
 			<description lang="en">Free Application for Federal Student Aid (FAFSA)</description></resource>
 		<resource lang="en">
-			<name lang="en">Osceola County Public Schools</name>
+			<name lang="en">Osceola County Public Schools (OCPS)</name>
 			<link lang="en">https://www.osceolaschools.net/</link>
 			<description lang="en">The School District of Osceola County, Florida</description></resource>
 		<resource lang="en">
-			<name lang="en">Florida Virtual School</name>
+			<name lang="en">Florida Virtual School (FLVS)</name>
 			<link lang="en">https://flvs.net/</link>
 			<description lang="en">Online public school</description></resource>
 		<resource lang="en">
 			<name lang="en">Osceola Technical College (oTECH)</name>
 			<link lang="en">https://otec.osceolaschools.net/</link>
  		<description lang="en">Career and technical education and dual enrollment</description></resource>
+		<resource lang="en">
+			<name lang="en">The Florida College System</name>
+			<link lang="en">https://www.floridacollegesystem.com/</link>
+			<description lang="en">28 colleges; low-cost, high-quality certificate and degree programs</description></resource>
+		<resource lang="en">
+			<name lang="en">State University System of Florida</name>
+			<link lang="en">https://www.flbog.edu/</link>
+			<description lang="en">12 institutions make it the second largest public university system in the country</description></resource>
+		<resource lang="en">
+			<name lang="en">GradSchools.com</name>
+			<link lang="en">https://www.gradschools.com/</link>
+			<description lang="en">Search master's, doctorate, PhDs, and graduate certificate programs</description></resource>
     </section>
 	<section section="education" lang="es">
 		<sectionname section="education" lang="es">Educación</sectionname>
@@ -65,17 +109,29 @@
 			<link lang="es">https://studentaid.ed.gov/sa/es/fafsa</link>
 			<description lang="es">Solicitud Gratuita de Ayuda Federal para Estudiantes (FAFSA)</description></resource>
 		<resource lang="es">
-			<name lang="es">Escuelas públicas del Condado de Osceola</name>
+			<name lang="es">Escuelas públicas del Condado de Osceola (OCPS)</name>
 			<link lang="es">https://www.osceolaschools.net/</link>
 			<description lang="es">Distrito Escolar del Condado de Osceola</description></resource>
 		<resource lang="es">
-			<name lang="es">Escuela Virtual de Florida</name>
+			<name lang="es">Escuela Virtual de Florida (FLVS)</name>
 			<link lang="es">https://flvs.net/</link>
 			<description lang="es">Escuela pública en línea</description></resource>
 		<resource lang="es">
 			<name lang="es">Colegio Técnico de Osceola (oTECH)</name>
 			<link lang="es">https://otec.osceolaschools.net/</link>
 			<description lang="es">Educación técnica y de carrera y matrícula doble</description></resource>
+		<resource lang="es">
+			<name lang="es">Sistema de Colegios de Florida</name>
+			<link lang="es">https://www.floridacollegesystem.com/</link>
+			<description lang="es">28 collegios; programas de grados y certificados económicos y de alta calidad</description></resource>
+		<resource lang="es">
+			<name lang="es">Sistema Universitario del Estado de Florida</name>
+			<link lang="es">https://www.flbog.edu/</link>
+			<description lang="en">12 instituciones lo hacen el segundo sistema universitario público más grande del país</description></resource>
+		<resource lang="es">
+			<name lang="es">GradSchools.com</name>
+			<link lang="es">https://www.gradschools.com/</link>
+			<description lang="es">Buscador de programas de maestría, doctorado, PhDs y certificados graduados</description></resource>
 	</section>
 	<section section="finances" lang="en">
 		<sectionname section="finances" lang="en">Finances</sectionname>
@@ -95,6 +151,30 @@
 			<name lang="en">ACCESS Florida</name>
 			<link lang="en">https://www.myflfamilies.com/service-programs/access/map.shtml</link>
 			<description lang="en">The Florida Department of Children and Families Automated Community Connection to Economic Self Sufficiency (ACCESS). The ACCESS Florida system allows customers to connect with their public assistance information 24/7, through the online application and MyACCESS Account. The Economic Self-Sufficiency Program helps to promote strong and economically self-sufficient communities by determining eligibility for food, cash and medical assistance for individuals and families on the road to economic recovery.</description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
 	</section>
 	<section section="finances" lang="es">
 		<sectionname section="finances" lang="es">Finanzas</sectionname>
@@ -114,6 +194,38 @@
 			<name lang="es">ACCESS Florida</name>
 			<link lang="es">https://www.myflfamilies.com/service-programs/access/map.shtml</link>
 			<description lang="es">La Conexión a la Comunidad Automatizada para la Autosuficiencia Económica (ACCESS) del Departamento de Niños y Familias de Florida. El sistema de ACCESS Florida permite conectar a la clientela con su información de asistencia pública 24/7, a través de la aplicación en línea y de la cuenta MyACCESS. El Programa de Autosuficiencia Económica ayuda a promover comunidades fuertes y económicamente autosuficientes al determinar elegibilidad para alimentos, asistencia medica y de dinero para individuos y familias de camino a la recuperación económica.</description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
 	</section>
 	<section section="employment" lang="en">
 		<sectionname section="employment" lang="en">Employment</sectionname>
@@ -129,6 +241,30 @@
 			<name lang="en">Jobs Partnership of Florida</name>
 			<link lang="en">https://www.jobspartnership.org/</link>
 			<description lang="en">The Jobs Partnership of Florida is able to offer LifeWorks Training, Career Pathways, Community Resource Fairs, Career Fairs, the Job Connection website, educational opportunities, mentorship and other programs and resources.</description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
     </section>
 	<section section="employment" lang="es">
 		<sectionname section="employment" lang="es">Empleo</sectionname>
@@ -144,6 +280,38 @@
 			<name lang="es">Sociedad de Trabajos de Florida</name>
 			<link lang="es">https://www.jobspartnership.org/</link>
 			<description lang="es">La Sociedad de Trabajos de Florida ofrece Entrenamiento LifeWorks, Senderos de Carrera, Ferias de Recursos Comunitarios, Ferias de Trabajo, el sitio web de Conexión de Trabajo, oportunidades educacionales, mentoría y otros programas y recursos.</description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
 	  </section>
 	  <section section="health" lang="en">
 		<sectionname section="health" lang="en">Health</sectionname>
@@ -159,6 +327,30 @@
 			<name lang="en">PlannedParenthood</name>
 			<link lang="en">https://www.plannedparenthood.org/</link>
 			<description lang="en">Get care and answers about pregnancy, birth control, emergency contraception, STDs, and abortion.  </description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
     </section>
 	<section section="health" lang="es">
 		<sectionname section="health" lang="es">Salud</sectionname>
@@ -174,6 +366,38 @@
 			<name lang="es">PlannedParenthood</name>
 			<link lang="es">https://www.plannedparenthood.org/es</link>
 			<description lang="es">Obtenga cuidado médico y respuestas sobre el embarazo, métodos anticonceptivos, anticoncepción de emergencia, infecciones de transmisión sexual y abortos.</description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
 	</section>
 	<section section="housing" lang="en">
 		<sectionname section="housing" lang="en">Housing</sectionname>
@@ -189,6 +413,30 @@
 			<name lang="en">Airbnb</name>
 			<link lang="en">https://www.airbnb.com/</link>
 			<description lang="en">Rent short or long term</description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
     </section>
 	<section section="housing" lang="es">
 		<sectionname section="housing" lang="es">Vivienda</sectionname>
@@ -204,6 +452,38 @@
 			<name lang="es">Airbnb</name>
 			<link lang="es">https://es.airbnb.com/</link>
 			<description lang="es">Renta a corto o a largo plazo</description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
 	</section>
 	<section section="legal" lang="en">
 		<sectionname section="legal" lang="en">Legal Services</sectionname>
@@ -219,6 +499,30 @@
 			<name lang="en">Florida Department of Juvenile Justice (DJJ)</name>
 			<link lang="en">http://www.djj.state.fl.us/</link>
 			<description lang="en">The mission of DJJ is to increase public safety by reducing juvenile delinquency through effective prevention, intervention and treatment services that strengthen families and turn around the lives of troubled youth.</description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
     </section>
 	<section section="legal" lang="es">
 		<sectionname section="legal" lang="es">Servicios Legales</sectionname>
@@ -234,6 +538,38 @@
 			<name lang="es">Departamento de Justicia Juvenil de Florida (DJJ)</name>
 			<link lang="es">http://www.djj.state.fl.us/</link>
 			<description lang="es">La misión del DJJ es aumentar la seguridad pública al reducir la delincuencia juvenil a través de la prevención efectiva, intervenciones y servicios de tratamiento que fortalecen familias y transforman jóvenes problemáticos.</description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
 	</section>
 	<section section="transportation" lang="en">
 		<sectionname section="transportation" lang="en">Transportation</sectionname>
@@ -253,6 +589,30 @@
 			<name lang="en">Lyft</name>
 			<link lang="en">https://www.lyft.com/</link>
 			<description lang="en">Request a ride</description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
     </section>
 	<section section="transportation" lang="es">
 		<sectionname section="transportation" lang="es">Transportación</sectionname>
@@ -272,5 +632,37 @@
 			<name lang="es">Lyft</name>
 			<link lang="es">https://www.lyft.com/</link>
 			<description lang="es">Obtenga un viaje ahora</description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="en"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
   </section>
 </resources>
