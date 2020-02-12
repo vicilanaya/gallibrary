@@ -98,9 +98,21 @@
 			<link lang="en">https://net1.valenciacollege.edu/continuing-education/accelerated-skills-training-programs/</link>
 			<description lang="en">Valencia College’s Accelerated Skills Training Programs focus on intensive, hands-on training designed to help you enter a new career field or advance your current skillset. You’ll have the opportunity to earn industry-recognized credentials, train in essential workplace skills and receive job placement support.</description></resource>
 		<resource lang="en">
-			<name lang="en">The Florida College System</name>
+			<name lang="en">District Postsecondary Institutions</name>
+			<link lang="en">http://www.fldoe.org/academics/career-adult-edu/dist-ps-instit.stml</link>
+			<description lang="en">Florida Department of Education</description></resource>
+		<resource lang="en">
+			<name lang="en">Apprenticeship Toolbox</name>
+			<link lang="en">http://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/apprenticeship-toolbox/various-links.stml</link>
+			<description lang="en">Florida Department of Education</description></resource>
+		<resource lang="en">
+			<name lang="en">The Florida College System (FCS)</name>
 			<link lang="en">https://www.floridacollegesystem.com/</link>
 			<description lang="en">28 colleges; low-cost, high-quality certificate and degree programs</description></resource>
+		<resource lang="en">
+			<name lang="en">Online Programs</name>
+			<link lang="en">https://www.floridacollegesystem.com/students/programs/online_programs.aspx</link>
+			<description lang="en">Distance learning courses and degrees offer students in Florida College System (FCS) institutions flexible and affordable access to higher education, providing students with multiple options.</description></resource>
 		<resource lang="en">
 			<name lang="en">State University System of Florida</name>
 			<link lang="en">https://www.flbog.edu/</link>
@@ -109,6 +121,10 @@
 			<name lang="en">GradSchools.com</name>
 			<link lang="en">https://www.gradschools.com/</link>
 			<description lang="en">Search master's, doctorate, PhDs, and graduate certificate programs</description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
 		<resource lang="en">
 			<name lang="en"></name>
 			<link lang="en"></link>
@@ -145,9 +161,21 @@
 			<link lang="es">https://net1.valenciacollege.edu/continuing-education/accelerated-skills-training-programs/</link>
 			<description lang="es">Los Programas Acelerados de Adiestramiento en Destrezas de Valencia College se enfocan en entrenamiento prácticos e intensivos diseñados para ayudarle a entrar a una carrera nueva o avanzar su colección actual de destrezas. Usted tendrá la oportunidad de ganarse credenciales reconocidas en la industria, adiestrarse en destrezas esenciales en el lugar de trabajo y recibir apoyo en su colocación.</description></resource>
 		<resource lang="es">
-			<name lang="es">Sistema de Colegios de Florida</name>
+			<name lang="es">Instituciones Terciarias de Distrito</name>
+			<link lang="es">http://www.fldoe.org/academics/career-adult-edu/dist-ps-instit.stml</link>
+			<description lang="es">Departamento de Educación de Florida</description></resource>
+		<resource lang="es">
+			<name lang="es">Caja de herrameintas para aprendices</name>
+			<link lang="es">http://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/apprenticeship-toolbox/various-links.stml</link>
+			<description lang="es">Departamento de Educación de Florida</description></resource>
+		<resource lang="es">
+			<name lang="es">Sistema de Colegios de Florida (FCS)</name>
 			<link lang="es">https://www.floridacollegesystem.com/</link>
 			<description lang="es">28 collegios; programas de grados y certificados económicos y de alta calidad</description></resource>
+		<resource lang="es">
+			<name lang="es">Programas en Línea</name>
+			<link lang="es">https://www.floridacollegesystem.com/students/programs/online_programs.aspx</link>
+			<description lang="es">Cursos y grados por aprendizaje a distancia ofrecen a estudiantes de las instituciones del Sistema de Colegios de Florida (FCS) acceso flexible y económico a educación superior, proveyendo a esos estudiantes con opciones múltiples.</description></resource>
 		<resource lang="es">
 			<name lang="es">Sistema Universitario del Estado de Florida</name>
 			<link lang="es">https://www.flbog.edu/</link>
@@ -156,14 +184,6 @@
 			<name lang="es">GradSchools.com</name>
 			<link lang="es">https://www.gradschools.com/</link>
 			<description lang="es">Buscador de programas de maestría, doctorado, PhDs y certificados graduados</description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
 	</section>
 	<section section="finances" lang="en">
 		<sectionname section="finances" lang="en">Finances</sectionname>
@@ -215,6 +235,10 @@
 			<name lang="en">The Emergency Food Assistance Program (TEFAP)</name>
 			<link lang="en">https://www.fdacs.gov/Food-Nutrition/Nutrition-Programs/The-Emergency-Food-Assistance-Program-TEFAP</link>
 			<description lang="en">TEFAP is a U.S. Department of Agriculture (USDA) food distribution program that provides nutritious, high-quality foods to low-income households, distributes food to participating food banks, food pantries, soup kitchens and other feeding sites, and supplies food to be served to individual households or as prepared meals in a community setting for eligible recipients.</description></resource>
+		<resource lang="en">
+			<name lang="en">Tax Refunds, Internal Revenue Service (IRS)</name>
+			<link lang="en">https://www.irs.gov/refunds</link>
+			<description lang="en">Check your tax refund status</description></resource>
 		<resource lang="en">
 			<name lang="en">Investor.gov</name>
 			<link lang="en">https://www.investor.gov/</link>
@@ -270,6 +294,10 @@
 			<name lang="es">El Programa de Asistencia Alimentaria de Emergencia (TEFAP)</name>
 			<link lang="es">https://www.fdacs.gov/Food-Nutrition/Nutrition-Programs/The-Emergency-Food-Assistance-Program-TEFAP</link>
 			<description lang="es">El Programa de Asistencia Alimentaria de Emergencia (TEFAP) es un programa de distribución de comida del Departamento de Agricultura de Estados Unidos (USDA) que provee alimentos nutritivos y de alta calidad a hogares de bajos ingresos, distribuye comida a bancos de alimentos, almacenes, comedores comunitarios y otros sitios de alimentación participantes. El programa también suministra alimentos listos para servirse en hogares individuales o como comidas preparadas a niveles comunitarios para recipientes eligibles.</description></resource>
+		<resource lang="es">
+			<name lang="es">Reintegro de Impuestos, Internal Revenue Service (IRS)</name>
+			<link lang="es">https://www.irs.gov/refunds</link>
+			<description lang="es">Verifique el estatus de su reintegro de impuestos</description></resource>
 		<resource lang="es">
 			<name lang="es">Investor.gov</name>
 			<link lang="es">https://www.investor.gov/espanol</link>
@@ -688,22 +716,6 @@
 			<name lang="es"></name>
 			<link lang="es"></link>
 			<description lang="es"></description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
 	</section>
 	<section section="travel" lang="en">
 		<sectionname section="travel" lang="en">Travel</sectionname>
@@ -758,5 +770,89 @@
 			<name lang="es">Smart Traveler Enrollment Program(STEP)</name>
 			<link lang="es">https://step.state.gov/step/</link>
 			<description lang="es">EL Programa de Inscripción de Smart Traveler es un servicio gratuito que les permite a los ciudadanos y nacionales estadounidenses que viajan y viven en el extranjero inscribir su viaje con la embajada o consulado estadounidense más cercanos.</description></resource>
+	</section>
+	<section section="vitaldocs" lang="en">
+		<sectionname section="vitaldocs" lang="en">Vital Documents</sectionname>
+		<resource lang="en">
+			<name lang="en">IDignity Osceola</name>
+			<link lang="en">https://osceola.idignity.org/</link>
+			<description lang="en">IDignity provides assistance in obtaining Florida ID cards and licenses, birth certificates, Social Security cards, replacement citizenship or immigration records and other documents needed to obtain an ID/license. There is no charge for our services to those in need.</description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+	</section>
+	<section section="vitaldocs" lang="es">
+		<sectionname section="vitaldocs" lang="es">Documentos Importantes</sectionname>
+		<resource lang="es">
+			<name lang="es">IDignity Osceola</name>
+			<link lang="es">https://osceola.idignity.org/</link>
+			<description lang="es">IDignity provee asistencia para obtener licencias y tarjetas de identificación de Florida, certificados de nacimiento, tarjetas ded Seguro Social, reemplazo de documentos de ciudadanío o inmigración y otros documentos necesarios para obtener licencias y tarjetas de identificación. Los servicios son gratuitos para las personas necesitadas.</description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+	</section>
+	<section section="miscellaneous" lang="en">
+		<sectionname section="miscellaneous" lang="en">Miscellaneous</sectionname>
+		<resource lang="en">
+			<name lang="en">The Osceola Library System</name>
+			<link lang="en">http://www.osceolalibrary.org/</link>
+			<description lang="en">The Library has six branches, a collection of over 275,000 volumes, and serves over 120,000 library customers.</description></resource>
+		<resource lang="en">
+			<name lang="en">The Right Service at the Right Time</name>
+			<link lang="en">http://rightservicefl.org</link>
+			<description lang="en">Search for a service in all counties</description></resource>
+		<resource lang="en">
+			<name lang="en">Change of Address</name>
+			<link lang="en">https://moversguide.usps.com/mgo/disclaimer</link>
+			<description lang="en">United States Postal Service (USPS)</description></resource>
+		<resource lang="en">
+			<name lang="en">2-1-1 Help Line, Heart of Florida United Way</name>
+			<link lang="en">https://www.hfuw.org/gethelp/</link>
+			<description lang="en">2-1-1 is free and completely confidential, available 24/7. You can access 2-1-1 by phone, email, chat or text (just text your zip code to 898-211). Reaching out will get you connected to a multilingual 2-1-1 specialist in your area who can put you in touch with local organizations providing critical services to improve and save lives.</description></resource>
+		<resource lang="en">
+			<name lang="en">National Suicide Prevention Lifeline</name>
+			<link lang="en">https://suicidepreventionlifeline.org/</link>
+			<description lang="en">Call 1-800-273-8255. The National Suicide Prevention Lifeline is a United States-based suicide prevention network of 161 crisis centers that provides a 24/7, toll-free hotline available to anyone in suicidal crisis or emotional distress.</description></resource>
+		<resource lang="en">
+			<name lang="en">login.gov</name>
+			<link lang="en">https://login.gov/</link>
+			<description lang="en">Simple, secure access to government services online</description></resource>
+	</section>
+	<section section="miscellaneous" lang="es">
+		<sectionname section="miscellaneous" lang="es">Misceláneos</sectionname>
+		<resource lang="es">
+			<name lang="es">El Sistema de Bibliotecas de Osceola</name>
+			<link lang="es">http://www.osceolalibrary.org/</link>
+			<description lang="es">La Biblioteca cuenta con seis sucursales, una colección de más de 275.000 volúmenes, y atiende a más de 120.000 clientes de la biblioteca.</description></resource>
+		<resource lang="es">
+			<name lang="es">El Servicio Adecuado en el Momento Adecuado</name>
+			<link lang="es">http://rightservicefl.org/</link>
+			<description lang="es">Busca servicios en todos los condados</description></resource>
+		<resource lang="es">
+			<name lang="es">Cambie su dirección</name>
+			<link lang="es">https://moversguide.usps.com/mgo/disclaimer</link>
+			<description lang="es">Servicio Postal de Estados Unidos (USPS)</description></resource>
+		<resource lang="es">
+			<name lang="es">Línea de ayuda 2-1-1, Heart of Florida United Way</name>
+			<link lang="es">https://www.hfuw.org/gethelp/</link>
+			<description lang="es">El 2-1-1 es gratis, completamente confidencial y disponible 24/7. Puede acceder 2-1-1 por teléfono, correo electrónico, chat o texto (simplemente envie su código postal  al 898-211). Al contactarse se conectará con un especialista 2-1-1 multilingual en su área que le puede poner en contacto con organizaciones locales que proveen servicios críticos que mejoran y salvan vidas.</description></resource>
+		<resource lang="es">
+			<name lang="es">Red Nacional de Prevención del Suicidio</name>
+			<link lang="es">https://suicidepreventionlifeline.org/help-yourself/en-espanol/</link>
+			<description lang="es">Llame 1-888-628-9454. Red Nacional de Prevención del Suicidio es una red de prevención basada en los Estados Unidos que cuenta con 161 centros de crisis que proveen una línea directa gratuita disponible 24/7 a cualquier persona en crisis de suicidio o aflicción emocional.</description></resource>
+		<resource lang="es">
+			<name lang="es">login.gov</name>
+			<link lang="es">https://login.gov/es/</link>
+			<description lang="es">Acceso simple y seguro a los servicios en línea del Gobierno</description></resource>
 	</section>
 </resources>
