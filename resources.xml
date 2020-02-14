@@ -778,13 +778,37 @@
 			<link lang="en">https://osceola.idignity.org/</link>
 			<description lang="en">IDignity provides assistance in obtaining Florida ID cards and licenses, birth certificates, Social Security cards, replacement citizenship or immigration records and other documents needed to obtain an ID/license. There is no charge for our services to those in need.</description></resource>
 		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
+			<name lang="en">Vote Osceola</name>
+			<link lang="en">https://www.voteosceola.com/en-us/Voter-Information/Check-Your-Voter-Status</link>
+			<description lang="en">Voter Information in Osceola County</description></resource>
 		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
+			<name lang="en">Florida Online Voter Registration System</name>
+			<link lang="en">https://registertovoteflorida.gov/</link>
+			<description lang="en">This system can be used to submit an application online for new registration or to make changes to your existing registration record or to prefill a voter registration application form.</description></resource>
+		<resource lang="en">
+			<name lang="en">Vote.gov</name>
+			<link lang="en">https://vote.gov/</link>
+			<description lang="en">Register to vote</description></resource>
+		<resource lang="en">
+			<name lang="en">Osceola County Tax Collector</name>
+			<link lang="en">https://osceolataxcollector.org/</link>
+			<description lang="en">Florida birth certificates</description></resource>
+		<resource lang="en">
+			<name lang="en">Office of Vital Statistics, Florida Department of Health in Osceola County</name>
+			<link lang="en">http://osceola.floridahealth.gov/certificates/index.html</link>
+			<description lang="en">Birth certificates, death certificates</description></resource>
+		<resource lang="en">
+			<name lang="en">Social Security Administration</name>
+			<link lang="en">https://www.ssa.gov/</link>
+			<description lang="en">Social security card</description></resource>
+		<resource lang="en">
+			<name lang="en">U.S. Passport</name>
+			<link lang="en">https://travel.state.gov/content/travel/en/passports.html/</link>
+			<description lang="en">Apply for or renew your passport</description></resource>
+		<resource lang="en">
+			<name lang="en">Other vital documents</name>
+			<link lang="en">https://www.usa.gov/replace-vital-documents</link>
+			<description lang="en">Driver licence, ID card, social security card, Medicaid card, U.S. passport, permanent resident (green) card, U.S. military ID</description></resource>
 	</section>
 	<section section="vitaldocs" lang="es">
 		<sectionname section="vitaldocs" lang="es">Documentos Importantes</sectionname>
@@ -793,13 +817,37 @@
 			<link lang="es">https://osceola.idignity.org/</link>
 			<description lang="es">IDignity provee asistencia para obtener licencias y tarjetas de identificación de Florida, certificados de nacimiento, tarjetas ded Seguro Social, reemplazo de documentos de ciudadanío o inmigración y otros documentos necesarios para obtener licencias y tarjetas de identificación. Los servicios son gratuitos para las personas necesitadas.</description></resource>
 		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
+			<name lang="es">Vote Osceola</name>
+			<link lang="es">https://www.voteosceola.com/es-us/Informacin-del-Elector/Verifique-Su-Estatus-Electoral</link>
+			<description lang="es">Información sobre votqantes en el Condado de Osceola</description></resource>
 		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
+			<name lang="es">Sistema de solicitud de inscripción como votante de Florida</name>
+			<link lang="es">https://registertovoteflorida.gov/</link>
+			<description lang="es">Este sistema se puede utilizar para subministrar en línea una solicitud de inscripción como votante, para actualizar un registro de inscripción o para rellenar un formulario de solicitud de inscripción como votante.</description></resource>
+		<resource lang="es">
+			<name lang="es">Vote.gov en Español</name>
+			<link lang="es">https://vote.gov/es/</link>
+			<description lang="es">Inscríbase para votar</description></resource>
+		<resource lang="es">
+			<name lang="es">Recaudador de Impuestos del Condado de Osceola</name>
+			<link lang="es">https://osceolataxcollector.org/</link>
+			<description lang="es">Certificados de nacimentos de Florida</description></resource>
+		<resource lang="es">
+			<name lang="es">Oficina de Asuntos Demográficos, Departamento de Salud de Florida en el Condado de Osceola</name>
+			<link lang="es">http://osceola.floridahealth.gov/certificates/index.html</link>
+			<description lang="es">Certificados de nacimentos, certificados de defunción</description></resource>
+		<resource lang="es">
+			<name lang="es">Administración del Seguro Social</name>
+			<link lang="es">https://www.ssa.gov/espanol/</link>
+			<description lang="es">Tarjeta de seguro social</description></resource>
+		<resource lang="es">
+			<name lang="es">Pasaporte de Estados Unidos</name>
+			<link lang="es">https://travel.state.gov/content/travel/es/pasaportes.html</link>
+			<description lang="es">Aplique or renueve su pasaporte</description></resource>
+		<resource lang="es">
+			<name lang="es">Otros documentos importantes</name>
+			<link lang="es">https://www.usa.gov/replace-vital-documents</link>
+			<description lang="es">Licencia de conducir, identificación, tarjeta de seguro social, tarjeta de Medicaid, pasaporte de Estados Unidos, tarjeta de residente permanente (green card), tarjeta de identificación militar de Estados Unidos</description></resource>
 	</section>
 	<section section="miscellaneous" lang="en">
 		<sectionname section="miscellaneous" lang="en">Miscellaneous</sectionname>
