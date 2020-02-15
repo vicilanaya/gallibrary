@@ -318,6 +318,10 @@
 			<link lang="en">https://www.jobspartnership.org/</link>
 			<description lang="en">The Jobs Partnership of Florida is able to offer LifeWorks Training, Career Pathways, Community Resource Fairs, Career Fairs, the Job Connection website, educational opportunities, mentorship and other programs and resources.</description></resource>
 		<resource lang="en">
+			<name lang="en">State of Florida Department of Economic Opportunity</name>
+			<link lang="en">www.floridajobs.org/</link>
+			<description lang="en">Reemployment assistance, business growth, workforce</description></resource>
+		<resource lang="en">
 			<name lang="en">Labor Laws and Issues</name>
 			<link lang="en">https://www.usa.gov/labor-laws</link>
 			<description lang="en">Learn about some important employment laws and issues.</description></resource>
@@ -329,6 +333,14 @@
 			<name lang="en">Occupational Outlook Handbook (OOH) - U.S. Bureau of Labor Statistics</name>
 			<link lang="en">https://www.bls.gov/ooh/</link>
 			<description lang="en">The Occupational Outlook Handbook (OOH) is a career resource offering information on the hundreds of occupations that provide the majority of jobs in the United States. Each occupational profile describes the typical duties performed by the occupation, the work environment of that occupation, the typical education and training needed to enter the occupation, the median pay for workers in the occupation, and the job outlook over the coming decade for that occupation. Each profile is in a standard format that makes it easy to compare occupations, such as by projected employment change.</description></resource>
+		<resource lang="en">
+			<name lang="en">City of Kissimmee</name>
+			<link lang="en">https://www.kissimmee.org/departments/human-resources-risk-management/employment-opportunities</link>
+			<description lang="en">Employment opportunities</description></resource>
+		<resource lang="en">
+			<name lang="en">City of Saint Cloud</name>
+			<link lang="en">https://www.governmentjobs.com/careers/stcloud</link>
+			<description lang="en">Job opportunities</description></resource>
 		<resource lang="en">
 			<name lang="en">Osceola County Job Center</name>
 			<link lang="en">https://www.governmentjobs.com/careers/osceola</link>
@@ -357,6 +369,10 @@
 			<link lang="es">https://www.jobspartnership.org/</link>
 			<description lang="es">La Sociedad de Trabajos de Florida ofrece Entrenamiento LifeWorks, Senderos de Carrera, Ferias de Recursos Comunitarios, Ferias de Trabajo, el sitio web de Conexión de Trabajo, oportunidades educacionales, mentoría y otros programas y recursos.</description></resource>
 		<resource lang="es">
+			<name lang="es">Departamento de Oportunidad Económica de Florida</name>
+			<link lang="es">http://www.floridajobs.org/espanol</link>
+			<description lang="es">Asistencia para el reempleo, desarrollo empresarial, fuerza laboral</description></resource>
+		<resource lang="es">
 			<name lang="es">Leyes y Asuntos Laborales</name>
 			<link lang="es">https://www.usa.gov/labor-laws</link>
 			<description lang="es">Aprenda sobre algunos leyes y asuntos laborales importantes</description></resource>
@@ -368,6 +384,14 @@
 			<name lang="es">Manual de Pronóstico Ocupacional (OOH) - Agencia de Estadísticas Laborales de Estados Unidos</name>
 			<link lang="es">https://www.bls.gov/ooh/</link>
 			<description lang="es">El Manual de Pronóstico Ocupacional (OOH) es un recurso de carrera que ofrece información sobre los cientos de ocupaciones que proveen la mayoría de los trabajos e Estados Unidos. Cada perfil ocupacional describe los deberes típicos de la ocupación, el ambiente laboral de la ocupación, la educación y entrenamiento típicos necesarios para entra a la ocupación, la paga mediana de los trabajadores en la ocupación, y el pronóstico de la ocupación en la próxima década. Cada perfil esta en un formato estándar que hace fácil el comparar ocupaciones.</description></resource>
+		<resource lang="es">
+			<name lang="es">Ciudad de Kissimmee</name>
+			<link lang="es">https://www.kissimmee.org/departments/human-resources-risk-management/employment-opportunities</link>
+			<description lang="es">Oportunidades de empleo</description></resource>
+		<resource lang="es">
+			<name lang="es">Ciudad de Saint Cloud</name>
+			<link lang="es">https://www.governmentjobs.com/careers/stcloud</link>
+			<description lang="es">Oportunidades de trabajo</description></resource>
 		<resource lang="es">
 			<name lang="es">Centro de Empleo del Condado de Osceola</name>
 			<link lang="es">https://www.governmentjobs.com/careers/osceola</link>
@@ -506,13 +530,9 @@
 			<link lang="en">https://www.airbnb.com/</link>
 			<description lang="en">Rent short or long term</description></resource>
 		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
-		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
+			<name lang="en">Osceola County Property Appraiser</name>
+			<link lang="en">https://www.property-appraiser.org/</link>
+			<description lang="en">The Property Appraiser assesses all property according to its “just value”.</description></resource>
 		<resource lang="en">
 			<name lang="en"></name>
 			<link lang="en"></link>
@@ -533,13 +553,9 @@
 			<link lang="es">https://es.airbnb.com/</link>
 			<description lang="es">Renta a corto o a largo plazo</description></resource>
 		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
+			<name lang="es">Tasador de Propiedades del Condado de Osceola</name>
+			<link lang="es">https://www.property-appraiser.org/</link>
+			<description lang="es">El Tasador de Propiedades evalúa todos los bienes de acuerdo a su “valor justo”.</description></resource>
 		<resource lang="es">
 			<name lang="es"></name>
 			<link lang="es"></link>
@@ -560,25 +576,33 @@
 			<link lang="en">http://www.djj.state.fl.us/</link>
 			<description lang="en">The mission of DJJ is to increase public safety by reducing juvenile delinquency through effective prevention, intervention and treatment services that strengthen families and turn around the lives of troubled youth.</description></resource>
 		<resource lang="en">
+			<name lang="en">Seal and Expunge Process, Florida Department of Law Enforcement (FDLE)</name>
+			<link lang="en">https://www.fdle.state.fl.us/Seal-and-Expunge-Process/Seal-and-Expunge-Home.aspx</link>
+			<description lang="en">Seal or expunge criminal history record</description></resource>
+		<resource lang="en">
 			<name lang="en">Osceola County Courthouse</name>
 			<link lang="en">https://www.ninthcircuit.org/about/courthouses/osceola-county-courthouse</link>
 			<description lang="en">The facility houses the Courts, Court Administration, the Clerk of Court, the State Attorney, the Public Defender, and ancillary services of the Sheriff.</description></resource>
+		<resource lang="en">
+			<name lang="en">e-Notify, Florida’s Court Event Notification System</name>
+			<link lang="en">https://enotify.flcourts.org/</link>
+			<description lang="en">Text and e-mail reminders about your upcoming court events</description></resource>
 		<resource lang="en">
 			<name lang="en">Osceola County Sheriff's Office</name>
 			<link lang="en">https://www.osceolasheriff.org/</link>
 			<description lang="en">The Osceola County Sheriff's Office offers a wide range of services. In addition to protecting life and property, the agency is responsible for enforcing court orders, administering writs of execution, maintaining courtroom security, investigating crimes, registering sex offenders, predators and felons in our county and many other functions as designated by state law.</description></resource>
 		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
+			<name lang="en">Osceola County Corrections</name>
+			<link lang="en">https://www.osceola.org/agencies-departments/corrections/index.stml</link>
+			<description lang="en">County jail</description></resource>
 		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
+			<name lang="en">Florida Department of Corrections</name>
+			<link lang="en">http://www.dc.state.fl.us/</link>
+			<description lang="en">State prisons</description></resource>
 		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
+			<name lang="en">Federal Bureau of Prisons</name>
+			<link lang="en">https://www.bop.gov/</link>
+			<description lang="en">Federal prisons</description></resource>
     </section>
 	<section section="legal" lang="es">
 		<sectionname section="legal" lang="es">Servicios Legales</sectionname>
@@ -595,25 +619,33 @@
 			<link lang="es">http://www.djj.state.fl.us/</link>
 			<description lang="es">La misión del DJJ es aumentar la seguridad pública al reducir la delincuencia juvenil a través de la prevención efectiva, intervenciones y servicios de tratamiento que fortalecen familias y transforman jóvenes problemáticos.</description></resource>
 		<resource lang="es">
+			<name lang="es">Proceso de Sellar y Eliminar, Agencia Policial de Florida (FDLE)</name>
+			<link lang="es">https://www.fdle.state.fl.us/Seal-and-Expunge-Process/Seal-and-Expunge-Home.aspx</link>
+			<description lang="es">Selle y elimine su historial criminal</description></resource>
+		<resource lang="es">
 			<name lang="es">Juzgado del Condado de Osceola</name>
 			<link lang="es">https://www.ninthcircuit.org/about/courthouses/osceola-county-courthouse</link>
 			<description lang="es">Las instalaciones alojan las cortes, la administración de las cortes, el Secretario de la Corte, el Defensor Público y servicios auxiliares del Sheriff.</description></resource>
+		<resource lang="es">
+			<name lang="es">e-Notify, Florida’s Court Event Notification System</name>
+			<link lang="es">https://enotify.flcourts.org/</link>
+			<description lang="es">Recordatorios por texto y correo electrónico sobre sus citas pendientes en el tribunal</description></resource>
 		<resource lang="es">
 			<name lang="es">Oficina del Sheriff del Condado de Osceola</name>
 			<link lang="es">https://www.osceolasheriff.org/#</link>
 			<description lang="es">La Oficina del Sheriff del Condado de Osceola ofrece una gama de servicios. En adición a proteger vidas y propiedades, la agencia es responsable por enforzar órdenes de la corte, administrar órdenes de ejecución, mantener seguridad en la sala de corte, investigar crímenes, registrar ofensores sexuales, depredadores y felones en el condado y muchas otras funciones designadas por la ley.</description></resource>
 		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
+			<name lang="es">Departamento de Corrección del Condado de Osceola</name>
+			<link lang="es">https://www.osceola.org/agencies-departments/corrections/index.stml</link>
+			<description lang="es">Cárcel del condado</description></resource>
 		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
+			<name lang="es">Departamento de Corrección de Florida</name>
+			<link lang="es">http://www.dc.state.fl.us/</link>
+			<description lang="es">Prisiones estatales</description></resource>
 		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
+			<name lang="es">Agencia Federal de Prisiones</name>
+			<link lang="es">https://www.bop.gov/</link>
+			<description lang="es">Prisiones federales</description></resource>
 	</section>
 	<section section="transportation" lang="en">
 		<sectionname section="transportation" lang="en">Transportation</sectionname>
@@ -653,14 +685,6 @@
 			<name lang="en"></name>
 			<link lang="en"></link>
 			<description lang="en"></description></resource>
-		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
-		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
     </section>
 	<section section="transportation" lang="es">
 		<sectionname section="transportation" lang="es">Transportación</sectionname>
@@ -688,18 +712,6 @@
 			<name lang="es">Recaudador de Impuestos del Condado de Osceola</name>
 			<link lang="es">https://osceolataxcollector.org/</link>
 			<description lang="es">Licencia de conducir, examen de destrezas de conducir, y registración de veículos de motor</description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
 		<resource lang="es">
 			<name lang="es"></name>
 			<link lang="es"></link>
@@ -872,9 +884,25 @@
 			<link lang="en">https://suicidepreventionlifeline.org/</link>
 			<description lang="en">Call 1-800-273-8255. The National Suicide Prevention Lifeline is a United States-based suicide prevention network of 161 crisis centers that provides a 24/7, toll-free hotline available to anyone in suicidal crisis or emotional distress.</description></resource>
 		<resource lang="en">
+			<name lang="en">National Domestic Violence Hotline</name>
+			<link lang="en">https://www.thehotline.org/</link>
+			<description lang="en">Call 1-800-799-7233, 1-800-787-3224 (TTY). Advocates are available 24/7 in more than 200 languages. All calls are free and confidential.</description></resource>
+		<resource lang="en">
 			<name lang="en">login.gov</name>
 			<link lang="en">https://login.gov/</link>
 			<description lang="en">Simple, secure access to government services online</description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
+		<resource lang="en">
+			<name lang="en"></name>
+			<link lang="en"></link>
+			<description lang="en"></description></resource>
 	</section>
 	<section section="miscellaneous" lang="es">
 		<sectionname section="miscellaneous" lang="es">Misceláneos</sectionname>
@@ -899,8 +927,20 @@
 			<link lang="es">https://suicidepreventionlifeline.org/help-yourself/en-espanol/</link>
 			<description lang="es">Llame 1-888-628-9454. Red Nacional de Prevención del Suicidio es una red de prevención basada en los Estados Unidos que cuenta con 161 centros de crisis que proveen una línea directa gratuita disponible 24/7 a cualquier persona en crisis de suicidio o aflicción emocional.</description></resource>
 		<resource lang="es">
+			<name lang="es">Línea Telefónica de Ayuda contra la Violencia Doméstica</name>
+			<link lang="es">https://espanol.thehotline.org/</link>
+			<description lang="es">Llame 1-800-799-7233, 1-800-787-3224 (TTY). Los asesores están disponibles 24/7 en más de 200 lenguages. Todas las llamadas son gratuitas y confidenciales.</description></resource>
+		<resource lang="es">
 			<name lang="es">login.gov</name>
 			<link lang="es">https://login.gov/es/</link>
 			<description lang="es">Acceso simple y seguro a los servicios en línea del Gobierno</description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
+		<resource lang="es">
+			<name lang="es"></name>
+			<link lang="es"></link>
+			<description lang="es"></description></resource>
 	</section>
 </resources>
