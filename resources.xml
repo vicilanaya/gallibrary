@@ -603,6 +603,10 @@
 			<name lang="en">Federal Bureau of Prisons</name>
 			<link lang="en">https://www.bop.gov/</link>
 			<description lang="en">Federal prisons</description></resource>
+		<resource lang="en">
+			<name lang="en">Sex Offender Registry Websites</name>
+			<link lang="en">https://www.fbi.gov/scams-and-safety/sex-offender-registry</link>
+			<description lang="en">State and national websites</description></resource>
     </section>
 	<section section="legal" lang="es">
 		<sectionname section="legal" lang="es">Servicios Legales</sectionname>
@@ -646,6 +650,10 @@
 			<name lang="es">Agencia Federal de Prisiones</name>
 			<link lang="es">https://www.bop.gov/</link>
 			<description lang="es">Prisiones federales</description></resource>
+		<resource lang="es">
+			<name lang="es">Buscadores de Delincuentes Sexuales y Depredadores</name>
+			<link lang="es">https://www.fbi.gov/scams-and-safety/sex-offender-registry</link>
+			<description lang="es">Sitios web estatales y nacional</description></resource>
 	</section>
 	<section section="transportation" lang="en">
 		<sectionname section="transportation" lang="en">Transportation</sectionname>
@@ -891,10 +899,6 @@
 			<name lang="en">login.gov</name>
 			<link lang="en">https://login.gov/</link>
 			<description lang="en">Simple, secure access to government services online</description></resource>
-		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
 		<resource lang="en">
 			<name lang="en"></name>
 			<link lang="en"></link>
