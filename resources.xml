@@ -121,18 +121,6 @@
 			<name lang="en">GradSchools.com</name>
 			<link lang="en">https://www.gradschools.com/</link>
 			<description lang="en">Search master's, doctorate, PhDs, and graduate certificate programs</description></resource>
-		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
-		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
-		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
     </section>
 	<section section="education" lang="es">
 		<sectionname section="education" lang="es">Educación</sectionname>
@@ -534,10 +522,6 @@
 			<link lang="en">https://www.floridadisaster.org/planprepare/shelters/</link>
 			<description lang="en">Florida Division of Emergency Management</description></resource>
 		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
-		<resource lang="en">
 			<name lang="en">Osceola County Property Appraiser</name>
 			<link lang="en">https://www.property-appraiser.org/</link>
 			<description lang="en">The Property Appraiser assesses all property according to its “just value”.</description></resource>
@@ -560,10 +544,6 @@
 			<name lang="es">Refugios de Desastres</name>
 			<link lang="es">https://www.floridadisaster.org/planprepare/shelters/</link>
 			<description lang="es">División de Manejo de Emergencias de Florida</description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
 		<resource lang="es">
 			<name lang="es">Tasador de Propiedades del Condado de Osceola</name>
 			<link lang="es">https://www.property-appraiser.org/</link>
@@ -911,14 +891,6 @@
 			<name lang="en">login.gov</name>
 			<link lang="en">https://login.gov/</link>
 			<description lang="en">Simple, secure access to government services online</description></resource>
-		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
-		<resource lang="en">
-			<name lang="en"></name>
-			<link lang="en"></link>
-			<description lang="en"></description></resource>
 	</section>
 	<section section="miscellaneous" lang="es">
 		<sectionname section="miscellaneous" lang="es">Misceláneos</sectionname>
@@ -950,13 +922,5 @@
 			<name lang="es">login.gov</name>
 			<link lang="es">https://login.gov/es/</link>
 			<description lang="es">Acceso simple y seguro a los servicios en línea del Gobierno</description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
-		<resource lang="es">
-			<name lang="es"></name>
-			<link lang="es"></link>
-			<description lang="es"></description></resource>
 	</section>
 </resources>
