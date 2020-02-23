@@ -888,6 +888,10 @@
 			<link lang="en">https://www.thehotline.org/</link>
 			<description lang="en">Call 1-800-799-7233, 1-800-787-3224 (TTY). Advocates are available 24/7 in more than 200 languages. All calls are free and confidential.</description></resource>
 		<resource lang="en">
+			<name lang="en">MyFlorida</name>
+			<link lang="en">http://www.myflorida.com/</link>
+			<description lang="en">The Official Page for Sunshine State Government</description></resource>
+		<resource lang="en">
 			<name lang="en">login.gov</name>
 			<link lang="en">https://login.gov/</link>
 			<description lang="en">Simple, secure access to government services online</description></resource>
@@ -918,6 +922,10 @@
 			<name lang="es">Línea Telefónica de Ayuda contra la Violencia Doméstica</name>
 			<link lang="es">https://espanol.thehotline.org/</link>
 			<description lang="es">Llame 1-800-799-7233, 1-800-787-3224 (TTY). Los asesores están disponibles 24/7 en más de 200 lenguages. Todas las llamadas son gratuitas y confidenciales.</description></resource>
+		<resource lang="es">
+			<name lang="es">MyFlorida</name>
+			<link lang="es">http://www.myflorida.com/</link>
+			<description lang="es">La Página Oficial de Gobierno del Estado del Sol</description></resource>
 		<resource lang="es">
 			<name lang="es">login.gov</name>
 			<link lang="es">https://login.gov/es/</link>
