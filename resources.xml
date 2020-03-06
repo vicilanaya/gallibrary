@@ -74,6 +74,10 @@
 	<section section="education" lang="en">
 		<sectionname section="education" lang="en">Education</sectionname>
 		<resource lang="en">
+			<name lang="en">UStrive</name>
+			<link lang="en">https://www.ustrive.com/</link>
+			<description lang="en">Find a mentor to help guide the college application process.</description></resource>
+		<resource lang="en">
 			<name lang="en">Get your GED (General Education Development/Diploma)</name>
 			<link lang="en">http://fatdec.com/</link>
 			<description lang="en">Florida Adult and Technical Distance Education Consortium (FATDEC)</description></resource>
@@ -124,6 +128,10 @@
     </section>
 	<section section="education" lang="es">
 		<sectionname section="education" lang="es">Educación</sectionname>
+		<resource lang="es">
+			<name lang="es">UStrive</name>
+			<link lang="es">https://www.ustrive.com/</link>
+			<description lang="es">Encuentre un mentor que le ayude através del proceso de solicitud de ingreso a la universidad.</description></resource>
 		<resource lang="es">
 			<name lang="es">Obtenga su GED (General Education Development/Diploma)</name>
 			<link lang="es">http://fatdec.com/</link>
@@ -310,6 +318,10 @@
 			<link lang="en">www.floridajobs.org/</link>
 			<description lang="en">Reemployment assistance, business growth, workforce</description></resource>
 		<resource lang="en">
+			<name lang="en">Job Corps</name>
+			<link lang="en">https://www.jobcorps.gov/</link>
+			<description lang="en">Job Corps is the largest free residential education and job training program for young adults ages 16-24.</description></resource>
+		<resource lang="en">
 			<name lang="en">Labor Laws and Issues</name>
 			<link lang="en">https://www.usa.gov/labor-laws</link>
 			<description lang="en">Learn about some important employment laws and issues.</description></resource>
@@ -361,6 +373,10 @@
 			<link lang="es">http://www.floridajobs.org/espanol</link>
 			<description lang="es">Asistencia para el reempleo, desarrollo empresarial, fuerza laboral</description></resource>
 		<resource lang="es">
+			<name lang="es">Job Corps</name>
+			<link lang="es">https://www.jobcorps.gov/es</link>
+			<description lang="es">Job Corps es el mayor programa sin costo de educación residencial y capacitación laboral para adultos jóvenes de 16 a 24 años de edad.</description></resource>
+		<resource lang="es">
 			<name lang="es">Leyes y Asuntos Laborales</name>
 			<link lang="es">https://www.usa.gov/labor-laws</link>
 			<description lang="es">Aprenda sobre algunos leyes y asuntos laborales importantes</description></resource>
@@ -393,8 +409,12 @@
 			<link lang="es">https://www.usajobs.gov/</link>
 			<description lang="es">Encuentre el trabajo adecuado en el gobierno federal</description></resource>
 	  </section>
-	  <section section="health" lang="en">
+	<section section="health" lang="en">
 		<sectionname section="health" lang="en">Health</sectionname>
+		<resource lang="en">
+			<name lang="en">DAREBEE</name>
+			<link lang="en">https://darebee.com/</link>
+			<description lang="en">Fitness Made Easy - an independent global fitness resource</description></resource>
 		<resource lang="en">
 			<name lang="en">Health Insurance Marketplace</name>
 			<link lang="en">https://www.healthcare.gov/</link>
@@ -450,6 +470,10 @@
     </section>
 	<section section="health" lang="es">
 		<sectionname section="health" lang="es">Salud</sectionname>
+		<resource lang="es">
+			<name lang="es">DAREBEE</name>
+			<link lang="es">https://darebee.com/</link>
+			<description lang="es">Fitness hecho fácil - un recurso de fitness global independiente</description></resource>
 		<resource lang="es">
 			<name lang="es">Mercado de Seguros de Salud</name>
 			<link lang="es">https://www.cuidadodesalud.gov/es/</link>
@@ -572,6 +596,10 @@
 			<link lang="en">https://www.ninthcircuit.org/about/courthouses/osceola-county-courthouse</link>
 			<description lang="en">The facility houses the Courts, Court Administration, the Clerk of Court, the State Attorney, the Public Defender, and ancillary services of the Sheriff.</description></resource>
 		<resource lang="en">
+			<name lang="en">Florida Traffic Watch</name>
+			<link lang="en">https://floridatrafficwatch.org/</link>
+			<description lang="en">Driving License Notifications To Your Phone. Free service to the residents of the following counties: Miami-Dade, Broward, Palm Beach, Orange</description></resource>
+		<resource lang="en">
 			<name lang="en">e-Notify, Florida’s Court Event Notification System</name>
 			<link lang="en">https://enotify.flcourts.org/</link>
 			<description lang="en">Text and e-mail reminders about your upcoming court events</description></resource>
@@ -619,7 +647,11 @@
 			<link lang="es">https://www.ninthcircuit.org/about/courthouses/osceola-county-courthouse</link>
 			<description lang="es">Las instalaciones alojan las cortes, la administración de las cortes, el Secretario de la Corte, el Defensor Público y servicios auxiliares del Sheriff.</description></resource>
 		<resource lang="es">
-			<name lang="es">e-Notify, Florida’s Court Event Notification System</name>
+			<name lang="es">Florida Traffic Watch</name>
+			<link lang="es">https://floridatrafficwatch.org/</link>
+			<description lang="es">Reciba notificaciones sobre su licencia de conducir en su móbil. Servicio gratis para residentes de los siguientes condados: Miami-Dade, Broward, Palm Beach, Orange.</description></resource>
+		<resource lang="es">
+			<name lang="es">e-Notify, Sistema de notificaciones de eventos en las cortes de Florida</name>
 			<link lang="es">https://enotify.flcourts.org/</link>
 			<description lang="es">Recordatorios por texto y correo electrónico sobre sus citas pendientes en el tribunal</description></resource>
 		<resource lang="es">
@@ -901,7 +933,7 @@
 		<resource lang="es">
 			<name lang="es">El Sistema de Bibliotecas de Osceola</name>
 			<link lang="es">http://www.osceolalibrary.org/</link>
-			<description lang="es">La Biblioteca cuenta con seis sucursales, una colección de más de 275.000 volúmenes, y atiende a más de 120.000 clientes de la biblioteca.</description></resource>
+			<description lang="es">La Biblioteca cuenta con seis sucursales, una colección de más de 275,000 volúmenes, y atiende a más de 120,000 clientes de la biblioteca.</description></resource>
 		<resource lang="es">
 			<name lang="es">El Servicio Adecuado en el Momento Adecuado</name>
 			<link lang="es">http://rightservicefl.org/</link>
