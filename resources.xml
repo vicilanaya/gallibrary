@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<!-- <?xml-stylesheet type="text/xsl" href="index.xsl"?> -->
 <resources>
 	<section section="social" lang="en">
 		<sectionname section="social" lang="en">Social Services</sectionname>
 		<resource lang="en">
-			<name lang="en">Daniel Kids</name>
+			<name lang="en"><a href="https://www.danielkids.org/" target="_blank">Daniel Kids</a></name>
 			<link lang="en">https://www.danielkids.org/</link>
 			<description lang="en">Daniel offers an array of quality, efficient and effective mental health and social service programs aimed at enhancing the lives of children and families. Whether it be a therapeutic foster home for an abused child, independent living services for a homeless adolescent, intervention services for an adolescent on the path of juvenile delinquency or treatment for an emotionally disturbed, behaviorally disruptive child, Daniel’s quality continuum of care can help meet the needs of the children and families in the community it serves.</description></resource>
 		<resource lang="en">
@@ -14,7 +14,7 @@
 		<resource lang="en">
 			<name lang="en">Gulf Coast Jewish Family and Community Services</name>
 			<link lang="en">https://gulfcoastjewishfamilyandcommunityservices.org/</link>
-			<description lang="en">>Case management agency. The agency’s mission is to provide essential human services to individuals and families in time of need. We offer extensive counseling, family support services, food, shelter and human kindness to those in crisis. These services are provided throughout the State of Florida in 32 counties.</description></resource>
+			<description lang="en">Case management agency. The agency’s mission is to provide essential human services to individuals and families in time of need. We offer extensive counseling, family support services, food, shelter and human kindness to those in crisis. These services are provided throughout the State of Florida in 32 counties.</description></resource>
 		<resource lang="en">
 			<name lang="en">Department of Children and Families (DCF)</name>
 			<link lang="en">https://www.myflfamilies.com/</link>
@@ -281,7 +281,7 @@
 		<resource lang="es">
 			<name lang="es">Programa de Manutención de Menores de Florida</name>
 			<link lang="es">https://childsupport.floridarevenue.com/</link>
-			<description lang="es">El propósito del Programa de Manutención de Menores es ayudar a los niños a obtener el apoyo financiero que necesitan cuando no lo reciben de uno u ambos padres. Los servicios están disponibles aún si un padre vive en otro estado u otro país. El Departamento de Rentas de Florida provee servicios de manutención de menores en 65 de los 67 condados en el estado, y se asocia con la Fiscalía Estatal para los servicios en el condado de Miami-Dade y con la Oficina del Secretario del Juzgado para los servicios del condado de Manatee.</description></resource>
+			<description lang="es">El propósito del Programa de Manutención de Menores es ayudar a los niños a obtener el apoyo financiero que necesitan cuando no lo reciben de uno u ambos padres. Los servicios están disponibles aún si un padre vive en otro estado u otro país. El Departamento de Rentas de Florida provee servicios de manutención de menores en 65 de los 67 condados en el estado, y se asocia con la Fiscalía Estatal para los servicios en el condado de Miami-Dade y con la Oficina del Secretario del Juzgado para los servicios del Condado de Manatee.</description></resource>
 		<resource lang="es">
 			<name lang="es">MyMoney.gov</name>
 			<link lang="es">https://www.mymoney.gov/es/Pages/default.aspx</link>
@@ -387,7 +387,7 @@
 		<resource lang="es">
 			<name lang="es">Manual de Pronóstico Ocupacional (OOH) - Agencia de Estadísticas Laborales de Estados Unidos</name>
 			<link lang="es">https://www.bls.gov/ooh/</link>
-			<description lang="es">El Manual de Pronóstico Ocupacional (OOH) es un recurso de carrera que ofrece información sobre los cientos de ocupaciones que proveen la mayoría de los trabajos e Estados Unidos. Cada perfil ocupacional describe los deberes típicos de la ocupación, el ambiente laboral de la ocupación, la educación y entrenamiento típicos necesarios para entra a la ocupación, la paga mediana de los trabajadores en la ocupación, y el pronóstico de la ocupación en la próxima década. Cada perfil esta en un formato estándar que hace fácil el comparar ocupaciones.</description></resource>
+			<description lang="es">El Manual de Pronóstico Ocupacional (OOH) es un recurso de carrera que ofrece información sobre los cientos de ocupaciones que proveen la mayoría de los trabajos en Estados Unidos. Cada perfil ocupacional describe los deberes típicos de la ocupación, el ambiente laboral de la ocupación, la educación y entrenamiento típicos necesarios para entra a la ocupación, la paga mediana de los trabajadores en la ocupación, y el pronóstico de la ocupación en la próxima década. Cada perfil esta en un formato estándar que hace fácil el comparar ocupaciones.</description></resource>
 		<resource lang="es">
 			<name lang="es">Ciudad de Kissimmee</name>
 			<link lang="es">https://www.kissimmee.org/departments/human-resources-risk-management/employment-opportunities</link>
@@ -399,7 +399,7 @@
 		<resource lang="es">
 			<name lang="es">Centro de Empleo del Condado de Osceola</name>
 			<link lang="es">https://www.governmentjobs.com/careers/osceola</link>
-			<description lang="es">Centro de empleo en línea del condado de Osceola</description></resource>
+			<description lang="es">Centro de empleo en línea del Condado de Osceola</description></resource>
 		<resource lang="es">
 			<name lang="es">Carreras con el Estado de Florida - PeopleFirst</name>
 			<link lang="es">https://jobs.myflorida.com/</link>
