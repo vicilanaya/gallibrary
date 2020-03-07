@@ -4,7 +4,7 @@
 	<section section="social" lang="en">
 		<sectionname section="social" lang="en">Social Services</sectionname>
 		<resource lang="en">
-			<name lang="en"><a href="https://www.danielkids.org/" target="_blank">Daniel Kids</a></name>
+			<name lang="en">Daniel Kids</name>
 			<link lang="en">https://www.danielkids.org/</link>
 			<description lang="en">Daniel offers an array of quality, efficient and effective mental health and social service programs aimed at enhancing the lives of children and families. Whether it be a therapeutic foster home for an abused child, independent living services for a homeless adolescent, intervention services for an adolescent on the path of juvenile delinquency or treatment for an emotionally disturbed, behaviorally disruptive child, Daniel’s quality continuum of care can help meet the needs of the children and families in the community it serves.</description></resource>
 		<resource lang="en">
@@ -649,7 +649,7 @@
 		<resource lang="es">
 			<name lang="es">Florida Traffic Watch</name>
 			<link lang="es">https://floridatrafficwatch.org/</link>
-			<description lang="es">Reciba notificaciones sobre su licencia de conducir en su móbil. Servicio gratis para residentes de los siguientes condados: Miami-Dade, Broward, Palm Beach, Orange.</description></resource>
+			<description lang="es">Reciba notificaciones sobre su licencia de conducir en su móvil. Servicio gratis para residentes de los siguientes condados: Miami-Dade, Broward, Palm Beach, Orange.</description></resource>
 		<resource lang="es">
 			<name lang="es">e-Notify, Sistema de notificaciones de eventos en las cortes de Florida</name>
 			<link lang="es">https://enotify.flcourts.org/</link>
