@@ -268,7 +268,7 @@ PHP
 
 <?php
 // turn up error reporting to it's highest level
-error_1 reporting(E_ALL);
+// error_1 reporting(E_ALL);
 
 // Load XML file
 $xml = new DOMDocument;
