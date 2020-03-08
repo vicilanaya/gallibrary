@@ -25,33 +25,30 @@
 
 
 
-
-
 <xsl:template match="/">
 	<html>
 	<body>
 
 		<xsl:for-each select="resources/section">
 		
-			<h2><xsl:value-of select="sectionname"/></h2>
-		  
-			<xsl:for-each select="resource">
-				<dl>
-					<dt><a href=""><xsl:value-of select="name"/></a></dt>
-						<dd><xsl:value-of select="link"/></dd>
-					<dd><xsl:value-of select="description"/></dd>
-				</dl>
-			</xsl:for-each>
+			<section class="section">
+				<h2><xsl:value-of select="sectionname"/></h2>
+			  
+				<xsl:for-each select="resource">
+					<dl>
+						<dt><a class="xmlhref" href="" target="_blank"><xsl:value-of select="name"/></a></dt>
+							<!-- <dd><xsl:value-of select="link"/></dd> -->
+						<dd><xsl:value-of select="description"/></dd>
+					</dl>
+				</xsl:for-each>
+			</section>
 			
 		</xsl:for-each>
-		
-
+					
+					
 	</body>
 	</html>
 </xsl:template>
-
-
-
 
 
 </xsl:stylesheet>

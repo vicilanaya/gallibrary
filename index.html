@@ -65,7 +65,7 @@
 
 
 </head>
-<body onload="displayResult()">
+<body onload="displayXML()">
 	<div id="wrapper">
 		
 <!-- nav --><!-- nav --><!-- nav --><!-- nav --><!-- nav --><!-- nav --><!-- nav -->
@@ -108,8 +108,8 @@
 					</div>
 			</div>
 		</nav>
-			
 
+			
 <!-- aside --><!-- aside --><!-- aside --><!-- aside --><!-- aside --><!-- aside -->
 		<aside>
 			<div>
@@ -120,8 +120,8 @@
 				
 				<div>
 					<ul>
-						<li><a id="english">[English]</a></li>
-						<li><a id="spanish">[Español]</a></li>
+						<li><a id="english" href="">[English]</a></li>
+						<li><a id="spanish" href="">[Español]</a></li>
 					</ul>
 				</div>
 
@@ -131,7 +131,7 @@
 						<li><a href="#bottom">[Go to Bottom]</a></li>
 					</ul>
 					<ul>
-						<li><a id="print">[Print]</a></li>
+						<li><a class="print" href="">[Print]</a></li>
 					</ul>
 				</div>
 				
@@ -141,16 +141,17 @@
 						<li><a href="#bottom">[Ir abajo]</a></li>
 					</ul>
 					<ul>
-						<li><a id="print">[Imprimir]</a></li>
+						<li><a class="print" href="">[Imprimir]</a></li>
 					</ul>
 				</div>
 			</div>
 		</aside>
 
+
 <!-- header --><!-- header --><!-- header --><!-- header --><!-- header --><!-- header -->
 		<header>
 
-			<a href="index.shtml"><div class="h1"><h1>GAL Resource Library</h1></div></a>
+			<a href="index.html"><div class="h1"><h1>GAL Resource Library</h1></div></a>
 			
 			<div class="headerparagraph">
 			
@@ -171,13 +172,11 @@
 				</div>
 				
 			</div>			
-		</header>
-		
+		</header>	
 
 	
-	
 <!-- main --><!-- main --><!-- main --><!-- main --><!-- main --><!-- main --><!-- main -->
-		<main>
+		<main id="top">
 			<div id="content">
 			
 				<section id="section1">
@@ -242,67 +241,107 @@
 				
 				<section id="section2">
 					
-					
-<!-- <div id="demo"> -->
-<!-- <button type="button" onclick="loadXMLDoc()">Change Content</button> -->
-<!-- </div> -->
+					<!-- use xsl file to format xml file and display -->
+					<script>
+						function displayXML()
+						{
+						xml = loadXMLDoc("resources.xml");
+						xsl = loadXMLDoc("resources.xsl");
+						// code for IE
+						if (window.ActiveXObject || xhttp.responseType == "msxml-document")
+						  {
+						  ex = xml.transformNode(xsl);
+						  document.getElementById("section2").innerHTML = ex;
+						  }
+						// code for Chrome, Firefox, Opera, etc.
+						else if (document.implementation && document.implementation.createDocument)
+						  {
+						  xsltProcessor = new XSLTProcessor();
+						  xsltProcessor.importStylesheet(xsl);
+						  resultDocument = xsltProcessor.transformToFragment(xml, document);
+						  document.getElementById("section2").appendChild(resultDocument);
+						  }
+						}
 
-<!-- <script> -->
-<!-- function loadXMLDoc() { -->
-  <!-- var xhttp = new XMLHttpRequest(); -->
-  <!-- xhttp.onreadystatechange = function() { -->
-    <!-- if (this.readyState == 4 && this.status == 200) { -->
-      <!-- document.getElementById("demo").innerHTML = -->
-      <!-- this.responseText; -->
-    <!-- } -->
-  <!-- }; -->
-  <!-- xhttp.open("GET", "resources", true); -->
-  <!-- xhttp.send(); -->
-<!-- } -->
-<!-- </script> -->
-					
-					
-
-
-PHP
-
-<?php
-// turn up error reporting to it's highest level
-// error_1 reporting(E_ALL);
-
-// Load XML file
-$xml = new DOMDocument;
-$xml->load('resources.xml');
-
-// Load XSL file
-$xsl = new DOMDocument;
-$xsl->load('resources.xsl');
-
-// Configure the transformer
-$proc = new XSLTProcessor;
-
-// Attach the xsl rules
-$proc->importStyleSheet($xsl);
-
-echo $proc->transformToXML($xml);
-?>
+						function loadXMLDoc(filename)
+						{
+						if (window.ActiveXObject)
+						  {
+						  xhttp = new ActiveXObject("Msxml2.XMLHTTP");
+						  }
+						else
+						  {
+						  xhttp = new XMLHttpRequest();
+						  }
+						xhttp.open("GET", filename, false);
+						try {xhttp.responseType = "msxml-document"} catch(err) {} // Helping IE11
+						xhttp.send("");
+						return xhttp.responseXML;
+						}
+					</script>
 
 
+					<!-- update URLs for each link node -->
+					<script>
+						var xhttp = new XMLHttpRequest();
+						xhttp.onreadystatechange = function() {
+							if (this.readyState == 4 && this.status == 200) {
+								myFunction(this);
+							}
+						};
+						xhttp.open("GET", "resources.xml", true);
+						xhttp.send();
 
-					
-					
-					
+						function myFunction(xml) {
+							var i, xmlDoc, hyperlinks, links, sections;
+							
+							xmlDoc = xml.responseXML;
+							hyperlinks = document.getElementsByClassName("xmlhref");
+							links = xmlDoc.getElementsByTagName("link");
+							for (i = 0; i < links.length; i++) { 
+								hyperlinks[i].href = links[i].childNodes[0].data;
+							}
+							
+							<!-- sections = document.getElementsByClassName("section"); -->
+						}
+					</script>
+
+
+
+
+<!-- use xsl file to format xml filke and display -->
+<!-- <?php -->
+<!-- // turn up error reporting to it's highest level -->
+<!-- // error_1 reporting(E_ALL); -->
+
+<!-- // Load XML file -->
+<!-- $xml = new DOMDocument; -->
+<!-- $xml->load('resources.xml'); -->
+
+<!-- // Load XSL file -->
+<!-- $xsl = new DOMDocument; -->
+<!-- $xsl->load('resources.xsl'); -->
+
+<!-- // Configure the transformer -->
+<!-- $proc = new XSLTProcessor; -->
+
+<!-- // Attach the xsl rules -->
+<!-- $proc->importStyleSheet($xsl); -->
+
+<!-- echo $proc->transformToXML($xml); -->
+<!-- ?> -->
+
+
+	
 				</section>				
 			</div>
 		</main>
 
 
-
 <!-- footer --><!-- footer --><!-- footer --><!-- footer --><!-- footer --><!-- footer -->
-
-		<footer>
+		<footer id="bottom">
 			<div class="en">
-				<a href="#top" class="skiplink">Go to Top</a><br>
+				<a href="#top">Go to Top</a><br>
 				This website was created for the <a href="https://galosceola.org/">Guardian ad Litem</a> Program of Osceola County, FL (9th Judicial Circuit) by Florence Vicil Anaya.<br>
 				All Rights Reserved. Copyright &copy; 2019&#45;<script>
 																var myDate = new Date()
@@ -316,9 +355,13 @@ echo $proc->transformToXML($xml);
 				<!-- Credit: Printer SVG by shuai tawf from <a href="https://thenounproject.com/search/?q=printer&i=2995952">the Noun Project</a>. Used under a <a href="https://creativecommons.org/">Creative Commons</a> license.<br> -->
 			
 				Date last modified: <!--#config timefmt="%d %B %Y" --><!--#echo var="LAST_MODIFIED" -->
+					<script>
+						var x = document.lastModified;
+						document.write(x)
+					</script>
 			</div>	
 			<div class="es">
-				<a href="#top" class="skiplink">Hacia Arriba</a><br>
+				<a href="#top">Hacia Arriba</a><br>
 				Este sitio web fue creado por Florence Vicil Anaya para el programa del <a href="https://galosceola.org/"><em>Guardian ad Litem</em></a> del condado de Osceola, FL (circuito judicial 9no).<br>
 				Todos los derechos reservados. Copyright &copy; 2019&#45;<script>
 																		var myDate = new Date()
@@ -332,8 +375,12 @@ echo $proc->transformToXML($xml);
 				<!-- Crédito: <em>Printer SVG by shuai tawf from <a href="https://thenounproject.com/search/?q=printer&i=2995952">the Noun Project</a></em>. Usado bajo una licencia de <a href="https://creativecommons.org/"><em>Creative Commons</em></a>.<br> -->
 			
 				Fecha de la última modificación: <!--#config timefmt="%d %B %Y" --><!--#echo var="LAST_MODIFIED" -->
+					<script>
+						var x = document.lastModified;
+						document.write(x)
+					</script>
 			</div>
-			<div id="bottom"></div>
+			<!-- <div id="bottom"></div> -->
 		</footer>
 
 		
@@ -341,11 +388,106 @@ echo $proc->transformToXML($xml);
 
 
 
-	<!-- jquery scripts -->
+<!-- jquery scripts -->
+<script type="text/javascript">
 	
-	
-	<!-- js scripts -->
+	$("document").ready(function() {
+		<!-- alert("ready!!!"); -->
+		
+		// set english to show, spanish to hide by default at page load
+		$('.es').hide();
+		$('.en').show();
+		<!-- $('section section').attr('lang').val('es').hide(); -->
+		<!-- $('section section').attr('lang').val('en').show(); -->
+		<!-- $("section[lang='es']").hide(); -->
+		<!-- $("section[lang='en']").show(); -->
+		<!-- $("section:has(section[lang='es'])").hide(); -->
+		<!-- $("section:has(section[lang='en'])").show(); -->
+		$("section:has(section)").hide();
+		<!-- $("section:has(section)").show(); -->
+		// hide es, show en when english clicked
+		$("#english").click(function() {
+			$('.es').hide();
+			$('.en').show();
+			<!-- $('section section').attr('lang' === 'es').hide(); -->
+			<!-- $('section section').attr('lang' === 'en').show(); -->
+		<!-- }); -->
+		// hide en, show es when spanish clicked
+		$("#spanish").click(function() {
+			$('.en').hide();
+			$('.es').show();
+			<!-- $('section section').attr('lang' === 'en').hide(); -->
+			<!-- $('section section').attr('lang' === 'es').show(); -->
+		});
+		
+		<!-- // finances link hidden by default at page load -->
+		<!-- $('.finances').slideUp(); -->
+		<!-- // show finances link when employment is hovered -->
+		<!-- $('.employment').hover(function() { -->
+			<!-- $('.finances').slideDown(); -->
+		<!-- }); -->
+		
+		// open print dialog box when print is clicked
+		$(".print").click(function() {
+			window.print();
+		});
+		
+		// go to top
+		<!-- $('#top').click(function() { -->
+			<!-- // safari -->
+			<!-- document.body.scrollTop = 0; -->
+			<!-- // chrome, firefox, ie, opera -->
+			<!-- document.documentElement.scrollTop = 0; -->
+		<!-- }); -->
+		<!-- $('#top2').click(function() { -->
+			<!-- // safari -->
+			<!-- document.body.scrollTop = 0; -->
+			<!-- // chrome, firefox, ie, opera -->
+			<!-- document.documentElement.scrollTop = 0; -->
+		<!-- }); -->
+		
+	}); <!-- end of jquery code -->
 
+</script>
+
+
+<!-- js scripts -->
+<!-- <script> -->
+		
+	<!-- // process xmlhttprequest object -->
+	<!-- function loadXMLDoc(section, language) { -->
+		<!-- var xhttp = new XMLHttpRequest(); -->
+		<!-- xhttp.onreadystatechange = function() { -->
+			<!-- if (this.readyState == 4 && this.status == 200) { -->
+				<!-- displayXMLdata(this, section, language); -->
+			<!-- } -->
+		<!-- }; -->
+		<!-- xhttp.open("GET", "resources.xml", true); -->
+		<!-- xhttp.send(); -->
+	<!-- } // end loadXMLDoc method -->
+	
+	<!-- // process xml data and present it -->
+	<!-- function displayXMLdata(xhttp, section, language) { -->
+		
+		<!-- var xmlDoc = xhttp.responseXML; -->
+		<!-- var x = xmlDoc.getElementsByTagName("/resources/section"[section][language]); -->
+		<!-- var sectionName = x.getElementsByTagName("/resources/section/sectionname").nodeValue; -->
+		<!-- var resourceName = xmlDoc.getElementsByTagName("/resources/section/resource/name").nodeValue; -->
+		<!-- var resourceLink = xmlDoc.getElementsByTagName("/resources/section/resource/link").nodeValue; -->
+		<!-- var resourceDescription = xmlDoc.getElementsByTagName("/resources/section/resource/description").nodeValue; -->
+		
+		<!-- var h2 = "<h2>" + sectionName + "</h2>"; -->
+		<!-- var h3dt = "<h3>" + resourceName + "</h3>"; -->
+		<!-- var anchordd = '<a href="' + resourceLink + '"><dd>' + h3dt + '</dd></a>'; -->
+		<!-- var dd = "<dd>" + resourceDescription + "</dd></dl>"; -->
+		
+		<!-- document.getElementById("subheading").innerHTML = h2; -->
+		<!-- document.getElementById("resource").innerHTML = anchordd + dd; -->
+		
+		
+		
+	<!-- } // end displayXMLdata method -->
+<!-- </script> -->
 
 
 
