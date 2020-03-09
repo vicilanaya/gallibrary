@@ -31,8 +31,9 @@
 
 		<xsl:for-each select="resources/section">
 		
-			<section class="section">
+			<section class="xmlsection" lang="">
 				<h2><xsl:value-of select="sectionname"/></h2>
+				<!-- <b><xsl:value-of select="lang"/></b> -->
 			  
 				<xsl:for-each select="resource">
 					<dl>

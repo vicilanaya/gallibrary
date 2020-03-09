@@ -263,6 +263,7 @@
 						  }
 						}
 
+
 						function loadXMLDoc(filename)
 						{
 						if (window.ActiveXObject)
@@ -286,14 +287,15 @@
 						var xhttp = new XMLHttpRequest();
 						xhttp.onreadystatechange = function() {
 							if (this.readyState == 4 && this.status == 200) {
-								myFunction(this);
+								updateURLs(this);
 							}
 						};
 						xhttp.open("GET", "resources.xml", true);
 						xhttp.send();
 
-						function myFunction(xml) {
-							var i, xmlDoc, hyperlinks, links, sections;
+
+						function updateURLs(xml) {
+							var xmlDoc, hyperlinks, links, i;
 							
 							xmlDoc = xml.responseXML;
 							hyperlinks = document.getElementsByClassName("xmlhref");
@@ -301,15 +303,51 @@
 							for (i = 0; i < links.length; i++) { 
 								hyperlinks[i].href = links[i].childNodes[0].data;
 							}
-							
-							<!-- sections = document.getElementsByClassName("section"); -->
 						}
 					</script>
 
 
+					<!-- update lang for each xml section -->
+					<script>
+						var xhttp = new XMLHttpRequest();
+						xhttp.onreadystatechange = function() {
+							if (this.readyState == 4 && this.status == 200) {
+								updateLang(this);
+							}
+						};
+						xhttp.open("GET", "resources.xml", true);
+						xhttp.send();
+						
+						
+						function updateLang(xml) {
+							var xmlDoc, xmlsections, langs, i;
+							
+							xmlDoc = xml.responseXML;
+							xmlsections = document.getElementsByClassName("xmlsection");
+							<!-- alert(xmlsections[0]); -->
+							langs = xmlDoc.getElementsByTagName("lang");
+							<!-- alert(langs[0]); -->
+							<!-- langs = xmlDoc.getElementsByTagName("section").attr('lang'); -->
+							<!-- langs = xmlDoc.getElementsByTagName("section").attr('lang').val(); -->
+							for (i = 0; i < langs.length; i++) { 
+								<!-- $(xmlsections[i]).addClass(langs[i]); -->
+								<!-- $(xmlsections[i]).addClass(langs[i].childNodes[0].data); -->
+								xmlsections[i].lang = langs[i].childNodes[0].data;
+								<!-- xmlsections[i].lang = langs[i]; -->
+							}
+						}
+					</script>
+						<!-- var element, name, arr; -->
+						<!-- element = document.getElementById("myDIV"); -->
+						<!-- name = "mystyle"; -->
+						<!-- arr = element.className.split(" "); -->
+						<!-- if (arr.indexOf(name) == -1) { -->
+						<!-- element.className += " " + name; -->
+						<!-- } -->
 
 
-<!-- use xsl file to format xml filke and display -->
+
+<!-- use xsl file to format xml file and display -->
 <!-- <?php -->
 <!-- // turn up error reporting to it's highest level -->
 <!-- // error_1 reporting(E_ALL); -->
@@ -394,16 +432,18 @@
 	$("document").ready(function() {
 		<!-- alert("ready!!!"); -->
 		
+		// add lang class to xmlsection class
+		<!-- $("xmlsection").addClass(""); -->
 		// set english to show, spanish to hide by default at page load
 		$('.es').hide();
 		$('.en').show();
 		<!-- $('section section').attr('lang').val('es').hide(); -->
 		<!-- $('section section').attr('lang').val('en').show(); -->
-		<!-- $("section[lang='es']").hide(); -->
-		<!-- $("section[lang='en']").show(); -->
+		$("section[lang='es']").hide();
+		$("section[lang='en']").show();
 		<!-- $("section:has(section[lang='es'])").hide(); -->
 		<!-- $("section:has(section[lang='en'])").show(); -->
-		$("section:has(section)").hide();
+		<!-- $("section:has(section)").hide(); -->
 		<!-- $("section:has(section)").show(); -->
 		// hide es, show en when english clicked
 		$("#english").click(function() {
@@ -411,7 +451,7 @@
 			$('.en').show();
 			<!-- $('section section').attr('lang' === 'es').hide(); -->
 			<!-- $('section section').attr('lang' === 'en').show(); -->
-		<!-- }); -->
+		});
 		// hide en, show es when spanish clicked
 		$("#spanish").click(function() {
 			$('.en').hide();

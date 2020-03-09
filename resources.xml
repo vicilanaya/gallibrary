@@ -2,6 +2,7 @@
 <!-- <?xml-stylesheet type="text/xsl" href="resources.xsl"?> -->
 <resources>
 	<section section="social" lang="en">
+		<lang>en</lang>
 		<sectionname section="social" lang="en">Social Services</sectionname>
 		<resource lang="en">
 			<name lang="en">Daniel Kids</name>
@@ -37,6 +38,7 @@
 			<description lang="en">Community based care that works with a collaborative network of state, local and private partners to ensure that every child in our community has a safe and stable home.</description></resource>
 	</section>
 	<section section="social" lang="es">
+		<lang>es</lang>
 		<sectionname section="social" lang="es">Servicios Sociales</sectionname>
 		<resource lang="es">
 			<name lang="es">Daniel Kids</name>
@@ -72,6 +74,7 @@
 			<description lang="es">Atención comunitaria que colabora con una red entre asociados privados, locales y del estado para asegurar que cada niño en nuestra comunidad tenga un hogar estable y seguro.</description></resource>	
 	</section>
 	<section section="education" lang="en">
+		<lang>en</lang>
 		<sectionname section="education" lang="en">Education</sectionname>
 		<resource lang="en">
 			<name lang="en">UStrive</name>
@@ -127,6 +130,7 @@
 			<description lang="en">Search master's, doctorate, PhDs, and graduate certificate programs</description></resource>
     </section>
 	<section section="education" lang="es">
+		<lang>es</lang>
 		<sectionname section="education" lang="es">Educación</sectionname>
 		<resource lang="es">
 			<name lang="es">UStrive</name>
@@ -182,6 +186,7 @@
 			<description lang="es">Buscador de programas de maestría, doctorado, PhDs y certificados graduados</description></resource>
 	</section>
 	<section section="finances" lang="en">
+		<lang>en</lang>
 		<sectionname section="finances" lang="en">Finances</sectionname>
 		<resource lang="en">
 			<name lang="en">Internal Revenue Service</name>
@@ -241,6 +246,7 @@
 			<description lang="en">Online resource from the U.S. Securities and Exchange Commission’s (SEC) Office of Investor Education and Advocacy to help you make sound investment decisions and avoid fraud.</description></resource>
 	</section>
 	<section section="finances" lang="es">
+		<lang>es</lang>
 		<sectionname section="finances" lang="es">Finanzas</sectionname>
 		<resource lang="es">
 			<name lang="es">Servicio de Rentas Internas</name>
@@ -300,6 +306,7 @@
 			<description lang="es">Recurso educativo en línea para inversionistas, publicado por la SEC. Aquí podrá encontrar alertas informativas para los inversionistas y publicaciones acerca de una amplia gama de temas, incluyendo diferentes productos de inversión, maneras de evitar el fraude y recomendaciones para la selección de un profesional financiero.</description></resource>
 	</section>
 	<section section="employment" lang="en">
+		<lang>en</lang>
 		<sectionname section="employment" lang="en">Employment</sectionname>
 		<resource lang="en">
 			<name lang="en">CareerSource Central Florida</name>
@@ -355,6 +362,7 @@
 			<description lang="en">Find your fit in the federal government</description></resource>
     </section>
 	<section section="employment" lang="es">
+		<lang>es</lang>
 		<sectionname section="employment" lang="es">Empleo</sectionname>
 		<resource lang="es">
 			<name lang="es">CareerSource de Florida Central</name>
@@ -410,6 +418,7 @@
 			<description lang="es">Encuentre el trabajo adecuado en el gobierno federal</description></resource>
 	  </section>
 	<section section="health" lang="en">
+		<lang>en</lang>
 		<sectionname section="health" lang="en">Health</sectionname>
 		<resource lang="en">
 			<name lang="en">DAREBEE</name>
@@ -469,6 +478,7 @@
 			<description lang="en"></description></resource>
     </section>
 	<section section="health" lang="es">
+		<lang>es</lang>
 		<sectionname section="health" lang="es">Salud</sectionname>
 		<resource lang="es">
 			<name lang="es">DAREBEE</name>
@@ -528,6 +538,7 @@
 			<description lang="es"></description></resource>
 	</section>
 	<section section="housing" lang="en">
+		<lang>en</lang>
 		<sectionname section="housing" lang="en">Housing</sectionname>
 		<resource lang="en">
 			<name lang="en">Section 8 Program</name>
@@ -551,6 +562,7 @@
 			<description lang="en">The Property Appraiser assesses all property according to its “just value”.</description></resource>
     </section>
 	<section section="housing" lang="es">
+		<lang>es</lang>
 		<sectionname section="housing" lang="es">Vivienda</sectionname>
 		<resource lang="es">
 			<name lang="es">Programa de Sección 8</name>
@@ -574,6 +586,7 @@
 			<description lang="es">El Tasador de Propiedades evalúa todos los bienes de acuerdo a su “valor justo”.</description></resource>
 	</section>
 	<section section="legal" lang="en">
+		<lang>en</lang>
 		<sectionname section="legal" lang="en">Legal Services</sectionname>
 		<resource lang="en">
 			<name lang="en">Legal Aid Society of Osceola</name>
@@ -625,6 +638,7 @@
 			<description lang="en">State and national websites</description></resource>
     </section>
 	<section section="legal" lang="es">
+		<lang>es</lang>
 		<sectionname section="legal" lang="es">Servicios Legales</sectionname>
 		<resource lang="es">
 			<name lang="es">Sociedad de Asistencia Legal de Osceola</name>
@@ -676,6 +690,7 @@
 			<description lang="es">Sitios web estatales y nacional</description></resource>
 	</section>
 	<section section="transportation" lang="en">
+		<lang>en</lang>
 		<sectionname section="transportation" lang="en">Transportation</sectionname>
 		<resource lang="en">
 			<name lang="en">SunRail</name>
@@ -719,6 +734,7 @@
 			<description lang="en">One of the best ways to get cheap car insurance is by comparing car insurance quotes and companies.</description></resource>
     </section>
 	<section section="transportation" lang="es">
+		<lang>es</lang>
 		<sectionname section="transportation" lang="es">Transportación</sectionname>
 		<resource lang="es">
 			<name lang="es">SunRail</name>
@@ -762,6 +778,7 @@
 			<description lang="es">Una de las mejores formas de obtener un seguro de auto barato es comparar cotizaciones y compañías.</description></resource>
 	</section>
 	<section section="travel" lang="en">
+		<lang>en</lang>
 		<sectionname section="travel" lang="en">Travel</sectionname>
 		<resource lang="en">
 			<name lang="en">Amtrak</name>
@@ -789,6 +806,7 @@
 			<description lang="en">The Smart Traveler Enrollment Program (STEP) is a free service to allow U.S. citizens and nationals traveling and living abroad to enroll their trip with the nearest U.S. Embassy or Consulate.</description></resource>
 	</section>
 	<section section="travel" lang="es">
+		<lang>es</lang>
 		<sectionname section="travel" lang="es">Viajar</sectionname>
 		<resource lang="es">
 			<name lang="es">Amtrak</name>
@@ -816,6 +834,7 @@
 			<description lang="es">EL Programa de Inscripción de Smart Traveler es un servicio gratuito que les permite a los ciudadanos y nacionales estadounidenses que viajan y viven en el extranjero inscribir su viaje con la embajada o consulado estadounidense más cercanos.</description></resource>
 	</section>
 	<section section="vitaldocs" lang="en">
+		<lang>en</lang>
 		<sectionname section="vitaldocs" lang="en">Vital Documents</sectionname>
 		<resource lang="en">
 			<name lang="en">IDignity Osceola</name>
@@ -855,6 +874,7 @@
 			<description lang="en">Driver licence, ID card, social security card, Medicaid card, U.S. passport, permanent resident (green) card, U.S. military ID</description></resource>
 	</section>
 	<section section="vitaldocs" lang="es">
+		<lang>es</lang>
 		<sectionname section="vitaldocs" lang="es">Documentos Importantes</sectionname>
 		<resource lang="es">
 			<name lang="es">IDignity Osceola</name>
@@ -894,6 +914,7 @@
 			<description lang="es">Licencia de conducir, identificación, tarjeta de seguro social, tarjeta de Medicaid, pasaporte de Estados Unidos, tarjeta de residente permanente (green card), tarjeta de identificación militar de Estados Unidos</description></resource>
 	</section>
 	<section section="miscellaneous" lang="en">
+		<lang>en</lang>
 		<sectionname section="miscellaneous" lang="en">Miscellaneous</sectionname>
 		<resource lang="en">
 			<name lang="en">The Osceola Library System</name>
@@ -929,6 +950,7 @@
 			<description lang="en">Simple, secure access to government services online</description></resource>
 	</section>
 	<section section="miscellaneous" lang="es">
+		<lang>es</lang>
 		<sectionname section="miscellaneous" lang="es">Misceláneos</sectionname>
 		<resource lang="es">
 			<name lang="es">El Sistema de Bibliotecas de Osceola</name>
