@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- <?xml-stylesheet type="text/xsl" href="resources.xsl"?> -->
+<?xml-stylesheet type="text/xsl" href="resources.xsl"?>
 <resources>
 	<section section="social" lang="en">
 		<lang>en</lang>
