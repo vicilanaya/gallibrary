@@ -60,12 +60,17 @@ body a:visited {
 	display: none;
 }
 #content{
+	font-size: 115%;	
+	font-family: verdana, san-serif;
 	/* position: sticky; */
 	/* top: 9%; */
 }
 .disclaimer, footer {
 	font-size: small;
 }
+/* dl { */
+	/* background-color: #FFFFFF; */
+/* } */
 footer, h1, h2  {
 	text-align: center;
 }
@@ -87,7 +92,7 @@ h1 {
 	font-size: 300%;
 	font-family: verdana, san-serif;
 }
-h2 { 
+h2 {
 	background-color: #B22234;
 	color: #FFFFFF;
 	font-weight: bold;
@@ -103,8 +108,7 @@ img {	/* logo */
 nav {
 	margin-right: 3%;
 	font-family: verdana, san-serif;
-	/* position: sticky; */
-	/* top: 0; */
+	font-weight: bold;
 }
 nav a:link {
 	color: #3C3B6E;
@@ -145,6 +149,10 @@ nav ul {
 	padding-top: 1%;
 	padding-bottom: 1%;
 }
+/* section { */
+	/* position: sticky; */
+	/* top: 9%; */
+/* } */
 
 
 

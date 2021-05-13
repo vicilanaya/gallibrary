@@ -48,7 +48,7 @@
 
 <!-- header --><!-- header --><!-- header --><!-- header --><!-- header --><!-- header --><!-- header --><!-- header -->
 	<header id="top">
-		<div id="logo"><img src="logosvg.svg" alt="Guardian ad litem logo" /></div>
+		<div id="logo"><img src="logosvg.svg" alt="Guardian ad Litem logo, child with heart, For children" /></div>
 		<h1 id="h1">GAL Resource Library</h1>
 	</header>
 	
@@ -169,7 +169,7 @@
 			</section>
 			
 		</xsl:for-each>
-		</div>
+		</div><!-- end id="content" -->
 	</main>
 	
 
