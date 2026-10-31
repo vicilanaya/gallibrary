@@ -1,17 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<?php
+/**
+ * GAL Resource Library home page.
+ * Replaces resources.xml + resources.xsl (browser XSLT is being removed from Chrome).
+ * Sections and resources come from MySQL; everything else is static markup.
+ */
+declare(strict_types=1);
 
-<xsl:template match="/">
-	<!-- <!DOCTYPE html/> -->
-	<html>
+require_once __DIR__ . '/inc/db.php';
+require_once __DIR__ . '/inc/html.php';
+
+try {
+    $pdo       = db();
+    $sections  = get_sections($pdo);
+    $resources = get_resources_by_section($pdo);
+} catch (Throwable $e) {
+    // Log the details for the site owner; never show them to visitors.
+    error_log('GAL Resource Library: ' . $e->getMessage());
+    http_response_code(503);
+    header('Content-Type: text/html; charset=utf-8');
+    header('Retry-After: 300');
+    echo '<!DOCTYPE html><html><head><meta charset="utf-8"><title>GAL Resource Library</title></head><body>',
+         '<p>The GAL Resource Library is temporarily unavailable. Please try again later.</p>',
+         '<p>La GAL Resource Library no está disponible temporalmente. Por favor intente más tarde.</p>',
+         '</body></html>';
+    exit;
+}
+
+header('Content-Type: text/html; charset=utf-8');
+?>
+<!DOCTYPE html>
+<html>
 	<head>
+		<meta charset="utf-8"/>
 		
 		<title>GAL Resource Library | Guardian ad Litem</title>
 	
 		<meta name="description" content="Resources for Foster Children in Transition to Adulthood in Osceola County, FL"/>
 		<meta name="author" content="Florence Vicil Anaya"/>
 		<meta name="author" content="Guardian ad Litem, Osceola, FL"/>
-		<meta charset="utf-8"/>
 		<meta name="robots" content="Homepage"/>
 		<meta name="robots" content="index, follow"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -57,17 +83,11 @@
 <!-- main --><!-- main --><!-- main --><!-- main --><!-- main --><!-- main --><!-- main --><!-- main --><!-- main -->
 	<main>
 		<nav>
-			<!-- dyamically generate nav list -->
+			<!-- generated from the sections table -->
 			<ul>
-				<xsl:for-each select="resources/section">
-					<li>
-						<xsl:attribute name="lang"><xsl:value-of select="lang"/></xsl:attribute>
-						<a>
-							<xsl:attribute name="href">#<xsl:value-of select="sectionname"/></xsl:attribute>
-							<xsl:value-of select="sectionname"/>
-						</a>
-					</li>
-				</xsl:for-each>
+<?php foreach ($sections as $section): ?>
+				<li lang="<?= h($section['lang']) ?>"><a href="#<?= h(section_anchor($section['slug'], $section['lang'])) ?>"><?= h($section['name']) ?></a></li>
+<?php endforeach; ?>
 			</ul>
 		</nav>
 	
@@ -92,27 +112,30 @@
 			<h2>What to do after high school?</h2>
 						
 			<ul>
-				<li>Learn a profession or trade by earning an <a href="#Education">academic degree or certificate</a></li>
-				<li>Get <a href="#Employment">a job</a></li>
-				<li>Join the <a href="https://www.usa.gov/join-military">military</a></li>
+				<li>Learn a profession or trade by earning an <a href="#education">academic degree or certificate</a></li>
+				<li>Get <a href="#employment">a job</a></li>
+				<li>Join the <a href="https://www.usa.gov/join-military">military</a>
 					<ul>
 						<li>Other uniformed services mostly require a degree:</li>
 							<li><a href="https://www.usphs.gov/">US Public Health Service</a></li>
 							<li><a href="https://www.noaa.gov/">National Oceanic and Atmospheric Administration</a></li>
 					</ul>
-				<li>Do an apprenticeship:</li>
+				</li>
+				<li>Do an apprenticeship:
 					<ul>
 						<li><a href="https://apprenticeflorida.com/">In Florida</a></li>
 						<li><a href="https://www.apprenticeship.gov/">Outside of Florida</a></li>
 					</ul>
-				<li>Volunteer:</li>
+				</li>
+				<li>Volunteer:
 					<ul>
 						<li><a href="https://www.volunteerflorida.org/">Volunteer Florida</a></li>
 						<li><a href="https://www.nationalservice.gov/">Corporation for National and Community Service</a></li>
 						<li><a href="https://www.peacecorps.gov/">Peace Corps</a></li>
 					</ul>
+				</li>
 				<li>Start a <a href="https://www.sba.gov/">business</a></li>
-				<li><a href="#Travel">Travel</a></li>
+				<li><a href="#travel">Travel</a></li>
 			</ul>
 		</section>
 		
@@ -121,54 +144,46 @@
 			<h2>¿Qué se puede hacer después de la escuela superior?</h2>
 						
 			<ul>
-				<li>Aprender una profesión u oficio obteniendo un <a href="#Educación">grado académico o un certificado</a></li>
-				<li>Obtener <a href="#Empleo">empleo</a></li>
-				<li>Entrar a las <a href="https://www.usa.gov/espanol/enlistarse-fuerzas-armadas">fuerzas armadas</a></li>
+				<li>Aprender una profesión u oficio obteniendo un <a href="#education-es">grado académico o un certificado</a></li>
+				<li>Obtener <a href="#employment-es">empleo</a></li>
+				<li>Entrar a las <a href="https://www.usa.gov/espanol/enlistarse-fuerzas-armadas">fuerzas armadas</a>
 					<ul>
 						<li>Otros servicios uniformados mayormente requieren un grado:</li>
 							<li><a href="https://www.usphs.gov/">US Public Health Service</a></li>
 							<li><a href="https://www.noaa.gov/">National Oceanic and Atmospheric Administration</a></li>
 					</ul>
-				<li>Trabajar como aprendiz:</li>
+				</li>
+				<li>Trabajar como aprendiz:
 					<ul>
 						<li><a href="https://apprenticeflorida.com/">En Florida</a></li>
 						<li><a href="https://www.apprenticeship.gov/">Fuera de Florida</a></li>
 					</ul>
-				<li>Trabajar como voluntario:</li>
+				</li>
+				<li>Trabajar como voluntario:
 					<ul>
 						<li><a href="https://www.volunteerflorida.org/">Volunteer Florida</a></li>
 						<li><a href="https://www.nationalservice.gov/">Corporación para el Servicio Nacional y Comunitario</a></li>
 						<li><a href="https://www.peacecorps.gov/">Cuerpos de Paz</a></li>
 					</ul>
+				</li>
 				<li>Comenzar un <a href="https://www.sba.gov/?lang=es">negocio</a></li>
-				<li><a href="#Viajar">Viajar</a></li>
+				<li><a href="#travel-es">Viajar</a></li>
 			</ul>
 		</section>
 		
 	
-		<!-- dynamically generate sections and definition lists -->
-		<xsl:for-each select="resources/section">
-		
-			<section>
-				<xsl:attribute name="lang"><xsl:value-of select="lang"/></xsl:attribute>
-			
-				<h2>
-					<xsl:attribute name="id"><xsl:value-of select="sectionname"/></xsl:attribute>
-					<xsl:value-of select="sectionname"/>
-				</h2>
-			  
-				<xsl:for-each select="resource">
+		<!-- generated from the sections and resources tables -->
+<?php foreach ($sections as $section): ?>
+			<section lang="<?= h($section['lang']) ?>">
+				<h2 id="<?= h(section_anchor($section['slug'], $section['lang'])) ?>" data-legacy-id="<?= h($section['name']) ?>"><?= h($section['name']) ?></h2>
+<?php foreach ($resources[$section['id']] ?? [] as $resource): ?>
 					<dl>
-						<dt><a target="_blank">
-							<xsl:attribute name="href"><xsl:value-of select="link"/></xsl:attribute>
-							<xsl:value-of select="name"/></a></dt>
-						<dd><xsl:value-of select="description"/></dd>
+						<dt><a target="_blank" href="<?= h(safe_url($resource['link'])) ?>"><?= h($resource['name']) ?></a></dt>
+						<dd><?= h($resource['description']) ?></dd>
 					</dl>
-				</xsl:for-each>
-				
+<?php endforeach; ?>
 			</section>
-			
-		</xsl:for-each>
+<?php endforeach; ?>
 		</div><!-- end id="content" -->
 	</main>
 	
@@ -183,7 +198,7 @@
 			
 			<p><span lang="en">Web Development</span><span lang="es">Desarrollo Web</span>&#58; <a href="mailto:vicilanaya@gmail.com">vicilanaya@gmail.com</a></p>
 			
-			<!-- <p>Date last modified: <?php echo date('j F Y H:i', getlastmod()); ?></p> -->
+			<?php // Disabled: <p>Date last modified: echo date('j F Y H:i', getlastmod())</p> ?>
 			<!--#config timefmt="%d %B %Y" --><!--#echo var="LAST_MODIFIED" -->
 			<!-- <script> -->
 						<!-- var x = document.lastModified; -->
@@ -199,8 +214,4 @@
 		
 	</div><!-- end wrapper -->			
 	</body>
-	</html>
-</xsl:template>
-
-
-</xsl:stylesheet>
+</html>

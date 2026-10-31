@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="resources.xsl"?>
+<!-- Archive of the original content. The live site now reads from MySQL
+     (imported once with tools/import_xml.php). Edit data in phpMyAdmin, not here. -->
 <resources>
 	<section section="social" lang="en">
 		<lang>en</lang>
@@ -7,35 +8,63 @@
 		<resource lang="en">
 			<name lang="en">Daniel Kids</name>
 			<link lang="en">https://www.danielkids.org/</link>
-			<description lang="en">Daniel offers an array of quality, efficient and effective mental health and social service programs aimed at enhancing the lives of children and families. Whether it be a therapeutic foster home for an abused child, independent living services for a homeless adolescent, intervention services for an adolescent on the path of juvenile delinquency or treatment for an emotionally disturbed, behaviorally disruptive child, Daniel’s quality continuum of care can help meet the needs of the children and families in the community it serves.</description></resource>
+			<description lang="en">Daniel offers an array of quality, efficient and effective mental
+				health and social service programs aimed at enhancing the lives of children and
+				families. Whether it be a therapeutic foster home for an abused child, independent
+				living services for a homeless adolescent, intervention services for an adolescent
+				on the path of juvenile delinquency or treatment for an emotionally disturbed,
+				behaviorally disruptive child, Daniel’s quality continuum of care can help meet the
+				needs of the children and families in the community it serves.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Daniel Kids: Florida's Independent Living Resource Center</name>
 			<link lang="en">https://www.danielkids.org/our-programs/floridas-i-l-resource-center/</link>
-			<description lang="en">Independent Living services for transitioning young adults include Extended Foster Care (EFC), Postsecondary Education Services and Support (PESS), and Aftercare Services.</description></resource>
+			<description lang="en">Independent Living services for transitioning young adults
+				include Extended Foster Care (EFC), Postsecondary Education Services and Support
+				(PESS), and Aftercare Services.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Gulf Coast Jewish Family and Community Services</name>
 			<link lang="en">https://gulfcoastjewishfamilyandcommunityservices.org/</link>
-			<description lang="en">Case management agency. The agency’s mission is to provide essential human services to individuals and families in time of need. We offer extensive counseling, family support services, food, shelter and human kindness to those in crisis. These services are provided throughout the State of Florida in 32 counties.</description></resource>
+			<description lang="en">Case management agency. The agency’s mission is to provide
+				essential human services to individuals and families in time of need. We offer
+				extensive counseling, family support services, food, shelter and human kindness to
+				those in crisis. These services are provided throughout the State of Florida in 32
+				counties.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Department of Children and Families (DCF)</name>
 			<link lang="en">https://www.myflfamilies.com/</link>
-			<description lang="en">DCF programs include: abuse hotline, ACCESS Florida, adoption, adult protective services, child care, child welfare, community-based care, domestic violence, foster care, homelessness, mental health, refugee services, substance abuse</description></resource>
+			<description lang="en">DCF programs include: abuse hotline, ACCESS Florida, adoption,
+				adult protective services, child care, child welfare, community-based care, domestic
+				violence, foster care, homelessness, mental health, refugee services, substance
+				abuse</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">DCF - Independent Living Services</name>
 			<link lang="en">https://www.myflfamilies.com/service-programs/independent-living/</link>
-			<description lang="en">Services for Transitioning Youth and Young Adults</description></resource>
+			<description lang="en">Services for Transitioning Youth and Young Adults</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">DCF - Independent Living</name>
-			<link lang="en">https://www.myflfamilies.com/service-programs/independent-living/links.shtml</link>
-			<description lang="en">Other resources and useful links</description></resource>
+			<link lang="en">
+				https://www.myflfamilies.com/service-programs/independent-living/links.shtml</link>
+			<description lang="en">Other resources and useful links</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Keys to Independence</name>
 			<link lang="en">http://keystoindependencefl.com/</link>
-			<description lang="en">This program will reimburse youth and caregivers for the costs associated with driver’s education, driver’s licenses and other costs related to getting a driver’s license as well as motor vehicle insurance.</description></resource>
+			<description lang="en">This program will reimburse youth and caregivers for the costs
+				associated with driver’s education, driver’s licenses and other costs related to
+				getting a driver’s license as well as motor vehicle insurance.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Embrace Families</name>
 			<link lang="en">https://embracefamilies.org/</link>
-			<description lang="en">Community based care that works with a collaborative network of state, local and private partners to ensure that every child in our community has a safe and stable home.</description></resource>
+			<description lang="en">Community based care that works with a collaborative network of
+				state, local and private partners to ensure that every child in our community has a
+				safe and stable home.</description>
+		</resource>
 	</section>
 	<section section="social" lang="es">
 		<lang>es</lang>
@@ -43,35 +72,65 @@
 		<resource lang="es">
 			<name lang="es">Daniel Kids</name>
 			<link lang="es">https://www.danielkids.org/</link>
-			<description lang="es">Daniel ofrece una variedad de programas de servicios sociales y servicios de salud mental eficientes, efectivos, y de calidad dirigidos a mejorar las vidas de niños y familias. Sea un hogar de acogida terapéutica para un niño abusado, servicios de vida independiente para un adolescente indigente, servicios de intervención para un adolescente de camino a la delincuencia, o tratamiento para un niño emocionalmente perturbado o de conducta perturbadora, el cuidado de calidad de Daniel puede ayudar a satisfacer las necesidades de niños y familias en la comunidad.</description></resource>
+			<description lang="es">Daniel ofrece una variedad de programas de servicios sociales y
+				servicios de salud mental eficientes, efectivos, y de calidad dirigidos a mejorar
+				las vidas de niños y familias. Sea un hogar de acogida terapéutica para un niño
+				abusado, servicios de vida independiente para un adolescente indigente, servicios de
+				intervención para un adolescente de camino a la delincuencia, o tratamiento para un
+				niño emocionalmente perturbado o de conducta perturbadora, el cuidado de calidad de
+				Daniel puede ayudar a satisfacer las necesidades de niños y familias en la
+				comunidad.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Daniel Kids: el centro de recursos de vida independiente de Florida</name>
 			<link lang="es">https://www.danielkids.org/our-programs/floridas-i-l-resource-center/</link>
-			<description lang="es">Los servicios de vida independiente para la transición de adultos jóvenes incluyen hogar de acogida extendido, servicios y apoyo de educación secundaria, y servicios de post-tratamiento.</description></resource>
+			<description lang="es">Los servicios de vida independiente para la transición de adultos
+				jóvenes incluyen hogar de acogida extendido, servicios y apoyo de educación
+				secundaria, y servicios de post-tratamiento.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Gulf Coast Jewish Family and Community Services</name>
 			<link lang="es">https://gulfcoastjewishfamilyandcommunityservices.org/</link>
-			<description lang="es">Agencia de manejo de casos. La misión de la agencia es proveer servicios humanos esenciales para individuos y familias en tiempos de necesidad. Ofrecemos consejería extensiva, servicios de apoyo a la familia, comida, albergue y bondad humana a personas en crisis. Estos servicios se proveen a través del estado de Florida en 32 condados.</description></resource>
+			<description lang="es">Agencia de manejo de casos. La misión de la agencia es proveer
+				servicios humanos esenciales para individuos y familias en tiempos de necesidad.
+				Ofrecemos consejería extensiva, servicios de apoyo a la familia, comida, albergue y
+				bondad humana a personas en crisis. Estos servicios se proveen a través del estado
+				de Florida en 32 condados.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Departamento de Niños y Familias (DCF)</name>
 			<link lang="es">https://www.myflfamilies.com/</link>
-			<description lang="es">Los programas del departamento incluyen: línea directa de abuso, ACCESS Florida (Conexión Comunitaria Automatizada para Autosuficiencia Económica), adopción, servicios de protección de adultos, cuidado de niños, servicios sociales para menores, atención comunitaria, violencia doméstica, hogares de acogida, indigencia, salud mental, servicios para refugiados, abuso de sustancias.</description></resource>
+			<description lang="es">Los programas del departamento incluyen: línea directa de abuso,
+				ACCESS Florida (Conexión Comunitaria Automatizada para Autosuficiencia Económica),
+				adopción, servicios de protección de adultos, cuidado de niños, servicios sociales
+				para menores, atención comunitaria, violencia doméstica, hogares de acogida,
+				indigencia, salud mental, servicios para refugiados, abuso de sustancias.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">DCF - Servicios de Vida Independiente</name>
 			<link lang="es">https://www.myflfamilies.com/service-programs/independent-living/</link>
-			<description lang="es">Servicios de transición para menores y adultos jóvenes</description></resource>
+			<description lang="es">Servicios de transición para menores y adultos jóvenes</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">DCF - Vida Independiente</name>
-			<link lang="es">https://www.myflfamilies.com/service-programs/independent-living/links.shtml</link>
-			<description lang="es">Otros recursos y enlaces útiles</description></resource>
+			<link lang="es">
+				https://www.myflfamilies.com/service-programs/independent-living/links.shtml</link>
+			<description lang="es">Otros recursos y enlaces útiles</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Secretos Hacia la Independencia</name>
 			<link lang="es">http://keystoindependencefl.com/</link>
-			<description lang="es">Este programa reembolsa a menores y sus cuidadores los costos asociados con educación de conductores, licencias de conducir y otros costos relacionados a la obtención de licencias de conducir y seguro de vehículos de motor.</description></resource>
+			<description lang="es">Este programa reembolsa a menores y sus cuidadores los costos
+				asociados con educación de conductores, licencias de conducir y otros costos
+				relacionados a la obtención de licencias de conducir y seguro de vehículos de motor.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Embrace Families</name>
 			<link lang="es">https://embracefamilies.org/</link>
-			<description lang="es">Atención comunitaria que colabora con una red entre asociados privados, locales y del estado para asegurar que cada niño en nuestra comunidad tenga un hogar estable y seguro.</description></resource>	
+			<description lang="es">Atención comunitaria que colabora con una red entre asociados
+				privados, locales y del estado para asegurar que cada niño en nuestra comunidad
+				tenga un hogar estable y seguro.</description>
+		</resource>
 	</section>
 	<section section="education" lang="en">
 		<lang>en</lang>
@@ -79,111 +138,166 @@
 		<resource lang="en">
 			<name lang="en">UStrive</name>
 			<link lang="en">https://www.ustrive.com/</link>
-			<description lang="en">Find a mentor to help guide the college application process.</description></resource>
+			<description lang="en">Find a mentor to help guide the college application process.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Get your GED (General Education Development/Diploma)</name>
 			<link lang="en">http://fatdec.com/</link>
-			<description lang="en">Florida Adult and Technical Distance Education Consortium (FATDEC)</description></resource>
+			<description lang="en">Florida Adult and Technical Distance Education Consortium
+				(FATDEC)</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">FAFSA</name>
 			<link lang="en">https://studentaid.ed.gov/sa/fafsa</link>
-			<description lang="en">Free Application for Federal Student Aid (FAFSA)</description></resource>
+			<description lang="en">Free Application for Federal Student Aid (FAFSA)</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Osceola County Public Schools (OCPS)</name>
 			<link lang="en">https://www.osceolaschools.net/</link>
-			<description lang="en">The School District of Osceola County, Florida</description></resource>
+			<description lang="en">The School District of Osceola County, Florida</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Florida Virtual School (FLVS)</name>
 			<link lang="en">https://flvs.net/</link>
-			<description lang="en">Online public school</description></resource>
+			<description lang="en">Online public school</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Osceola Technical College (oTECH)</name>
 			<link lang="en">https://otec.osceolaschools.net/</link>
-			<description lang="en">Career and technical education and dual enrollment</description></resource>
+			<description lang="en">Career and technical education and dual enrollment</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Accelerated Skills Training Programs</name>
-			<link lang="en">https://net1.valenciacollege.edu/continuing-education/accelerated-skills-training-programs/</link>
-			<description lang="en">Valencia College’s Accelerated Skills Training Programs focus on intensive, hands-on training designed to help you enter a new career field or advance your current skillset. You’ll have the opportunity to earn industry-recognized credentials, train in essential workplace skills and receive job placement support.</description></resource>
+			<link lang="en">
+				https://net1.valenciacollege.edu/continuing-education/accelerated-skills-training-programs/</link>
+			<description lang="en">Valencia College’s Accelerated Skills Training Programs focus on
+				intensive, hands-on training designed to help you enter a new career field or
+				advance your current skillset. You’ll have the opportunity to earn
+				industry-recognized credentials, train in essential workplace skills and receive job
+				placement support.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">District Postsecondary Institutions</name>
 			<link lang="en">http://www.fldoe.org/academics/career-adult-edu/dist-ps-instit.stml</link>
-			<description lang="en">Florida Department of Education</description></resource>
+			<description lang="en">Florida Department of Education</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Apprenticeship Toolbox</name>
-			<link lang="en">http://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/apprenticeship-toolbox/various-links.stml</link>
-			<description lang="en">Florida Department of Education</description></resource>
+			<link lang="en">
+				http://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/apprenticeship-toolbox/various-links.stml</link>
+			<description lang="en">Florida Department of Education</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">The Florida College System (FCS)</name>
 			<link lang="en">https://www.floridacollegesystem.com/</link>
-			<description lang="en">28 colleges; low-cost, high-quality certificate and degree programs</description></resource>
+			<description lang="en">28 colleges; low-cost, high-quality certificate and degree
+				programs</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Online Programs</name>
-			<link lang="en">https://www.floridacollegesystem.com/students/programs/online_programs.aspx</link>
-			<description lang="en">Distance learning courses and degrees offer students in Florida College System (FCS) institutions flexible and affordable access to higher education, providing students with multiple options.</description></resource>
+			<link lang="en">
+				https://www.floridacollegesystem.com/students/programs/online_programs.aspx</link>
+			<description lang="en">Distance learning courses and degrees offer students in Florida
+				College System (FCS) institutions flexible and affordable access to higher
+				education, providing students with multiple options.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">State University System of Florida</name>
 			<link lang="en">https://www.flbog.edu/</link>
-			<description lang="en">12 institutions make it the second largest public university system in the country</description></resource>
+			<description lang="en">12 institutions make it the second largest public university
+				system in the country</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">GradSchools.com</name>
 			<link lang="en">https://www.gradschools.com/</link>
-			<description lang="en">Search master's, doctorate, PhDs, and graduate certificate programs</description></resource>
-    </section>
+			<description lang="en">Search master's, doctorate, PhDs, and graduate certificate
+				programs</description>
+		</resource>
+	</section>
 	<section section="education" lang="es">
 		<lang>es</lang>
 		<sectionname section="education" lang="es">Educación</sectionname>
 		<resource lang="es">
 			<name lang="es">UStrive</name>
 			<link lang="es">https://www.ustrive.com/</link>
-			<description lang="es">Encuentre un mentor que le ayude através del proceso de solicitud de ingreso a la universidad.</description></resource>
+			<description lang="es">Encuentre un mentor que le ayude através del proceso de solicitud
+				de ingreso a la universidad.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Obtenga su GED (General Education Development/Diploma)</name>
 			<link lang="es">http://fatdec.com/</link>
-			<description lang="es">Florida Adult and Technical Distance Education Consortium (FATDEC)</description></resource>
+			<description lang="es">Florida Adult and Technical Distance Education Consortium
+				(FATDEC)</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">FAFSA</name>
 			<link lang="es">https://studentaid.ed.gov/sa/es/fafsa</link>
-			<description lang="es">Solicitud Gratuita de Ayuda Federal para Estudiantes (FAFSA)</description></resource>
+			<description lang="es">Solicitud Gratuita de Ayuda Federal para Estudiantes (FAFSA)</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Escuelas públicas del Condado de Osceola (OCPS)</name>
 			<link lang="es">https://www.osceolaschools.net/</link>
-			<description lang="es">Distrito Escolar del Condado de Osceola</description></resource>
+			<description lang="es">Distrito Escolar del Condado de Osceola</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Escuela Virtual de Florida (FLVS)</name>
 			<link lang="es">https://flvs.net/</link>
-			<description lang="es">Escuela pública en línea</description></resource>
+			<description lang="es">Escuela pública en línea</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Colegio Técnico de Osceola (oTECH)</name>
 			<link lang="es">https://otec.osceolaschools.net/</link>
-			<description lang="es">Educación técnica y de carrera y matrícula doble</description></resource>
+			<description lang="es">Educación técnica y de carrera y matrícula doble</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Programas Acelerados de Adiestramiento en Destrezas</name>
-			<link lang="es">https://net1.valenciacollege.edu/continuing-education/accelerated-skills-training-programs/</link>
-			<description lang="es">Los Programas Acelerados de Adiestramiento en Destrezas de Valencia College se enfocan en entrenamiento prácticos e intensivos diseñados para ayudarle a entrar a una carrera nueva o avanzar su colección actual de destrezas. Usted tendrá la oportunidad de ganarse credenciales reconocidas en la industria, adiestrarse en destrezas esenciales en el lugar de trabajo y recibir apoyo en su colocación.</description></resource>
+			<link lang="es">
+				https://net1.valenciacollege.edu/continuing-education/accelerated-skills-training-programs/</link>
+			<description lang="es">Los Programas Acelerados de Adiestramiento en Destrezas de
+				Valencia College se enfocan en entrenamiento prácticos e intensivos diseñados para
+				ayudarle a entrar a una carrera nueva o avanzar su colección actual de destrezas.
+				Usted tendrá la oportunidad de ganarse credenciales reconocidas en la industria,
+				adiestrarse en destrezas esenciales en el lugar de trabajo y recibir apoyo en su
+				colocación.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Instituciones Terciarias de Distrito</name>
 			<link lang="es">http://www.fldoe.org/academics/career-adult-edu/dist-ps-instit.stml</link>
-			<description lang="es">Departamento de Educación de Florida</description></resource>
+			<description lang="es">Departamento de Educación de Florida</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Caja de herrameintas para aprendices</name>
-			<link lang="es">http://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/apprenticeship-toolbox/various-links.stml</link>
-			<description lang="es">Departamento de Educación de Florida</description></resource>
+			<link lang="es">
+				http://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/apprenticeship-toolbox/various-links.stml</link>
+			<description lang="es">Departamento de Educación de Florida</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Sistema de Colegios de Florida (FCS)</name>
 			<link lang="es">https://www.floridacollegesystem.com/</link>
-			<description lang="es">28 collegios; programas de grados y certificados económicos y de alta calidad</description></resource>
+			<description lang="es">28 collegios; programas de grados y certificados económicos y de
+				alta calidad</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Programas en Línea</name>
-			<link lang="es">https://www.floridacollegesystem.com/students/programs/online_programs.aspx</link>
-			<description lang="es">Cursos y grados por aprendizaje a distancia ofrecen a estudiantes de las instituciones del Sistema de Colegios de Florida (FCS) acceso flexible y económico a educación superior, proveyendo a esos estudiantes con opciones múltiples.</description></resource>
+			<link lang="es">
+				https://www.floridacollegesystem.com/students/programs/online_programs.aspx</link>
+			<description lang="es">Cursos y grados por aprendizaje a distancia ofrecen a estudiantes
+				de las instituciones del Sistema de Colegios de Florida (FCS) acceso flexible y
+				económico a educación superior, proveyendo a esos estudiantes con opciones
+				múltiples.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Sistema Universitario del Estado de Florida</name>
 			<link lang="es">https://www.flbog.edu/</link>
-			<description lang="es">12 instituciones lo hacen el segundo sistema universitario público más grande del país</description></resource>
+			<description lang="es">12 instituciones lo hacen el segundo sistema universitario
+				público más grande del país</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">GradSchools.com</name>
 			<link lang="es">https://www.gradschools.com/</link>
-			<description lang="es">Buscador de programas de maestría, doctorado, PhDs y certificados graduados</description></resource>
+			<description lang="es">Buscador de programas de maestría, doctorado, PhDs y certificados
+				graduados</description>
+		</resource>
 	</section>
 	<section section="finances" lang="en">
 		<lang>en</lang>
@@ -191,59 +305,107 @@
 		<resource lang="en">
 			<name lang="en">Internal Revenue Service</name>
 			<link lang="en">https://www.irs.gov/filing</link>
-			<description lang="en">File your tax return</description></resource>
+			<description lang="en">File your tax return</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Types of Federal Student Aid</name>
 			<link lang="en">https://studentaid.ed.gov/sa/types</link>
-			<description lang="en">Learn about grants, loans, and work-study jobs and how they can help fund your education.</description></resource>
+			<description lang="en">Learn about grants, loans, and work-study jobs and how they can
+				help fund your education.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Get help with bills</name>
 			<link lang="en">https://www.usa.gov/help-with-bills</link>
-			<description lang="en">Learn about government programs to help pay for phone bills, medical bills, and other expenses. You can also learn how to apply for temporary assistance.</description></resource>
+			<description lang="en">Learn about government programs to help pay for phone bills,
+				medical bills, and other expenses. You can also learn how to apply for temporary
+				assistance.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">ACCESS Florida</name>
 			<link lang="en">https://www.myflfamilies.com/service-programs/access/map.shtml</link>
-			<description lang="en">The Florida Department of Children and Families Automated Community Connection to Economic Self Sufficiency (ACCESS). The ACCESS Florida system allows customers to connect with their public assistance information 24/7, through the online application and MyACCESS Account. The Economic Self-Sufficiency Program helps to promote strong and economically self-sufficient communities by determining eligibility for food, cash and medical assistance for individuals and families on the road to economic recovery.</description></resource>
+			<description lang="en">The Florida Department of Children and Families Automated
+				Community Connection to Economic Self Sufficiency (ACCESS). The ACCESS Florida
+				system allows customers to connect with their public assistance information 24/7,
+				through the online application and MyACCESS Account. The Economic Self-Sufficiency
+				Program helps to promote strong and economically self-sufficient communities by
+				determining eligibility for food, cash and medical assistance for individuals and
+				families on the road to economic recovery.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Get your free annual credit reports</name>
 			<link lang="en">https://www.ftc.gov/faq/consumer-protection/get-my-free-credit-report</link>
-			<description lang="en">You're entitled to one free copy of your credit report every 12 months from each of the three nationwide credit reporting companies.</description></resource>
+			<description lang="en">You're entitled to one free copy of your credit report every 12
+				months from each of the three nationwide credit reporting companies.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Government Benefits</name>
 			<link lang="en">https://www.usa.gov/benefits</link>
-			<description lang="en">Get information on government programs that may help you pay for food, housing, health care, and other basic living expenses. Find out about eligibility requirements for programs like food stamps, welfare, and Medicaid, and how to apply for them.</description></resource>
+			<description lang="en">Get information on government programs that may help you pay for
+				food, housing, health care, and other basic living expenses. Find out about
+				eligibility requirements for programs like food stamps, welfare, and Medicaid, and
+				how to apply for them.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Government Benefit Finder</name>
 			<link lang="en">https://www.benefits.gov/</link>
-			<description lang="en">Get help finding federal benefits you may be eligible for in the United States.</description></resource>
+			<description lang="en">Get help finding federal benefits you may be eligible for in the
+				United States.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Get help paying for child care</name>
-			<link lang="en">https://www.acf.hhs.gov/occ/resource/ccdf-grantee-state-and-territory-contacts</link>
-			<description lang="en">State and Territory Child Care and Development Fund Administrators</description></resource>
+			<link lang="en">
+				https://www.acf.hhs.gov/occ/resource/ccdf-grantee-state-and-territory-contacts</link>
+			<description lang="en">State and Territory Child Care and Development Fund
+				Administrators</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Women, Infants &amp; Children (WIC)</name>
-			<link lang="en">http://osceola.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/wic/index.html</link>
-			<description lang="en">A federal assistance program of the Food and Nutrition Service of the United States Department of Agriculture for healthcare and nutrition of low-income pregnant women, breastfeeding women, and children under the age of five.</description></resource>
+			<link lang="en">
+				http://osceola.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/wic/index.html</link>
+			<description lang="en">A federal assistance program of the Food and Nutrition Service of
+				the United States Department of Agriculture for healthcare and nutrition of
+				low-income pregnant women, breastfeeding women, and children under the age of five.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">The Florida Child Support Program</name>
 			<link lang="en">https://childsupport.floridarevenue.com/</link>
-			<description lang="en">The Child Support Program's purpose is to help children get the financial support they need when it is not received from one or both parents. The services are available even if a parent lives in another state or country. The Florida Department of Revenue provides child support services in all but two Florida counties. We partner with the State Attorney's Office for services in Miami-Dade County and the Manatee County Clerk of Court for services in Manatee County.</description></resource>
+			<description lang="en">The Child Support Program's purpose is to help children get the
+				financial support they need when it is not received from one or both parents. The
+				services are available even if a parent lives in another state or country. The
+				Florida Department of Revenue provides child support services in all but two Florida
+				counties. We partner with the State Attorney's Office for services in Miami-Dade
+				County and the Manatee County Clerk of Court for services in Manatee County.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">MyMoney.gov</name>
 			<link lang="en">https://www.mymoney.gov</link>
-			<description lang="en">This website is a product of the Congressionally chartered Federal Financial Literacy and Education Commission, which is made up of more than 20 Federal entities that are coordinating and collaborating to strengthen financial capability and increase access to financial services for all Americans.</description></resource>
+			<description lang="en">This website is a product of the Congressionally chartered
+				Federal Financial Literacy and Education Commission, which is made up of more than
+				20 Federal entities that are coordinating and collaborating to strengthen financial
+				capability and increase access to financial services for all Americans.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">The Emergency Food Assistance Program (TEFAP)</name>
-			<link lang="en">https://www.fdacs.gov/Food-Nutrition/Nutrition-Programs/The-Emergency-Food-Assistance-Program-TEFAP</link>
-			<description lang="en">TEFAP is a U.S. Department of Agriculture (USDA) food distribution program that provides nutritious, high-quality foods to low-income households, distributes food to participating food banks, food pantries, soup kitchens and other feeding sites, and supplies food to be served to individual households or as prepared meals in a community setting for eligible recipients.</description></resource>
+			<link lang="en">
+				https://www.fdacs.gov/Food-Nutrition/Nutrition-Programs/The-Emergency-Food-Assistance-Program-TEFAP</link>
+			<description lang="en">TEFAP is a U.S. Department of Agriculture (USDA) food
+				distribution program that provides nutritious, high-quality foods to low-income
+				households, distributes food to participating food banks, food pantries, soup
+				kitchens and other feeding sites, and supplies food to be served to individual
+				households or as prepared meals in a community setting for eligible recipients.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Tax Refunds, Internal Revenue Service (IRS)</name>
 			<link lang="en">https://www.irs.gov/refunds</link>
-			<description lang="en">Check your tax refund status</description></resource>
+			<description lang="en">Check your tax refund status</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Investor.gov</name>
 			<link lang="en">https://www.investor.gov/</link>
-			<description lang="en">Online resource from the U.S. Securities and Exchange Commission’s (SEC) Office of Investor Education and Advocacy to help you make sound investment decisions and avoid fraud.</description></resource>
+			<description lang="en">Online resource from the U.S. Securities and Exchange
+				Commission’s (SEC) Office of Investor Education and Advocacy to help you make sound
+				investment decisions and avoid fraud.</description>
+		</resource>
 	</section>
 	<section section="finances" lang="es">
 		<lang>es</lang>
@@ -251,59 +413,117 @@
 		<resource lang="es">
 			<name lang="es">Servicio de Rentas Internas</name>
 			<link lang="es">https://www.irs.gov/es/spanish</link>
-			<description lang="es">Reintegro de impuestos</description></resource>
+			<description lang="es">Reintegro de impuestos</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Tipos de ayuda económica federal para estudiantes</name>
 			<link lang="es">https://studentaid.ed.gov/sa/types</link>
-			<description lang="es">Becas y subvenciones, fondos del Programa de Estudio y Trabajo, préstamos y becas de estudio ayudan a que la universidad o el instituto profesional sean más accesibles.</description></resource>
+			<description lang="es">Becas y subvenciones, fondos del Programa de Estudio y Trabajo,
+				préstamos y becas de estudio ayudan a que la universidad o el instituto profesional
+				sean más accesibles.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Obtén ayuda con el pago de facturas</name>
 			<link lang="es">https://www.usa.gov/espanol/pago-facturas</link>
-			<description lang="es">Ayuda con el pago de facturas de teléfono, servicios, gastos médicos y asistencia para familias necesitadas.</description></resource>
+			<description lang="es">Ayuda con el pago de facturas de teléfono, servicios, gastos
+				médicos y asistencia para familias necesitadas.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">ACCESS Florida</name>
 			<link lang="es">https://www.myflfamilies.com/service-programs/access/map.shtml</link>
-			<description lang="es">La Conexión a la Comunidad Automatizada para la Autosuficiencia Económica (ACCESS) del Departamento de Niños y Familias de Florida. El sistema de ACCESS Florida permite conectar a la clientela con su información de asistencia pública 24/7, a través de la aplicación en línea y de la cuenta MyACCESS. El Programa de Autosuficiencia Económica ayuda a promover comunidades fuertes y económicamente autosuficientes al determinar elegibilidad para alimentos, asistencia medica y de dinero para individuos y familias de camino a la recuperación económica.</description></resource>
+			<description lang="es">La Conexión a la Comunidad Automatizada para la Autosuficiencia
+				Económica (ACCESS) del Departamento de Niños y Familias de Florida. El sistema de
+				ACCESS Florida permite conectar a la clientela con su información de asistencia
+				pública 24/7, a través de la aplicación en línea y de la cuenta MyACCESS. El
+				Programa de Autosuficiencia Económica ayuda a promover comunidades fuertes y
+				económicamente autosuficientes al determinar elegibilidad para alimentos, asistencia
+				medica y de dinero para individuos y familias de camino a la recuperación económica.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Solicite su informe de crédito gratuito</name>
-			<link lang="es">https://www.consumidor.ftc.gov/articulos/s0155-informes-de-credito-gratuitos</link>
-			<description lang="es">La Ley de Informe Imparcial de Crédito requiere que, a su pedido, cada una de las compañías de informes de los consumidores a nivel nacional — Equifax, Experian y TransUnion — le provea cada 12 meses una copia gratuita de su informe de crédito.</description></resource>
+			<link lang="es">
+				https://www.consumidor.ftc.gov/articulos/s0155-informes-de-credito-gratuitos</link>
+			<description lang="es">La Ley de Informe Imparcial de Crédito requiere que, a su pedido,
+				cada una de las compañías de informes de los consumidores a nivel nacional —
+				Equifax, Experian y TransUnion — le provea cada 12 meses una copia gratuita de su
+				informe de crédito.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Programas de beneficios sociales del Gobierno</name>
 			<link lang="es">https://www.usa.gov/espanol/programas-sociales</link>
-			<description lang="es">Información sobre programas gubernamentales que pueden ayudarlo a pagar por alimentos, vivienda y atención médica, entre otros. Averigüe los requisitos de elegibilidad para programas como cupones de alimentos, asistencia social y Medicaid, y cómo solicitarlos.</description></resource>
+			<description lang="es">Información sobre programas gubernamentales que pueden ayudarlo a
+				pagar por alimentos, vivienda y atención médica, entre otros. Averigüe los
+				requisitos de elegibilidad para programas como cupones de alimentos, asistencia
+				social y Medicaid, y cómo solicitarlos.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Buscador de Beneficios</name>
 			<link lang="es">https://www.benefits.gov/es/</link>
-			<description lang="es">Comience el cuestionario para encontrar los beneficios adecuados para usted.</description></resource>
+			<description lang="es">Comience el cuestionario para encontrar los beneficios adecuados
+				para usted.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Obtén ayuda para pagar el cuido de niños</name>
-			<link lang="es">https://www.acf.hhs.gov/occ/resource/ccdf-grantee-state-and-territory-contacts</link>
-			<description lang="es">Administradores del Fondo Estatal y de Territorios para el Cuidado de Niños y el Desarrollo</description></resource>
+			<link lang="es">
+				https://www.acf.hhs.gov/occ/resource/ccdf-grantee-state-and-territory-contacts</link>
+			<description lang="es">Administradores del Fondo Estatal y de Territorios para el
+				Cuidado de Niños y el Desarrollo</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Programa para Mujeres, Infantes y Niños (WIC)</name>
-			<link lang="es">http://osceola.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/wic/index.html</link>
-			<description lang="es">Un programa de asistencia federal del Servicio de Alimentos y Nutrición del Departamento de Agricultura de Estados Unidos para la atención médica y nutrición de las mujeres embarazadas de bajos ingresos, mujeres amamantando y niños menores de 5 años.</description></resource>
+			<link lang="es">
+				http://osceola.floridahealth.gov/programs-and-services/clinical-and-nutrition-services/wic/index.html</link>
+			<description lang="es">Un programa de asistencia federal del Servicio de Alimentos y
+				Nutrición del Departamento de Agricultura de Estados Unidos para la atención médica
+				y nutrición de las mujeres embarazadas de bajos ingresos, mujeres amamantando y
+				niños menores de 5 años.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Programa de Manutención de Menores de Florida</name>
 			<link lang="es">https://childsupport.floridarevenue.com/</link>
-			<description lang="es">El propósito del Programa de Manutención de Menores es ayudar a los niños a obtener el apoyo financiero que necesitan cuando no lo reciben de uno u ambos padres. Los servicios están disponibles aún si un padre vive en otro estado u otro país. El Departamento de Rentas de Florida provee servicios de manutención de menores en 65 de los 67 condados en el estado, y se asocia con la Fiscalía Estatal para los servicios en el condado de Miami-Dade y con la Oficina del Secretario del Juzgado para los servicios del Condado de Manatee.</description></resource>
+			<description lang="es">El propósito del Programa de Manutención de Menores es ayudar a
+				los niños a obtener el apoyo financiero que necesitan cuando no lo reciben de uno u
+				ambos padres. Los servicios están disponibles aún si un padre vive en otro estado u
+				otro país. El Departamento de Rentas de Florida provee servicios de manutención de
+				menores en 65 de los 67 condados en el estado, y se asocia con la Fiscalía Estatal
+				para los servicios en el condado de Miami-Dade y con la Oficina del Secretario del
+				Juzgado para los servicios del Condado de Manatee.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">MyMoney.gov</name>
 			<link lang="es">https://www.mymoney.gov/es/Pages/default.aspx</link>
-			<description lang="es">Este sitio web es un producto de la Comisión Federal de Educación Financiera que fue creado por el Congreso, y que se compone de más de 20 entidades federales que están coordinando y colaborando para fortalecer la capacidad financiera y aumentar el acceso a los servicios financieros para todos los Americanos.</description></resource>
+			<description lang="es">Este sitio web es un producto de la Comisión Federal de Educación
+				Financiera que fue creado por el Congreso, y que se compone de más de 20 entidades
+				federales que están coordinando y colaborando para fortalecer la capacidad
+				financiera y aumentar el acceso a los servicios financieros para todos los
+				Americanos.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">El Programa de Asistencia Alimentaria de Emergencia (TEFAP)</name>
-			<link lang="es">https://www.fdacs.gov/Food-Nutrition/Nutrition-Programs/The-Emergency-Food-Assistance-Program-TEFAP</link>
-			<description lang="es">El Programa de Asistencia Alimentaria de Emergencia (TEFAP) es un programa de distribución de comida del Departamento de Agricultura de Estados Unidos (USDA) que provee alimentos nutritivos y de alta calidad a hogares de bajos ingresos, distribuye comida a bancos de alimentos, almacenes, comedores comunitarios y otros sitios de alimentación participantes. El programa también suministra alimentos listos para servirse en hogares individuales o como comidas preparadas a niveles comunitarios para recipientes eligibles.</description></resource>
+			<link lang="es">
+				https://www.fdacs.gov/Food-Nutrition/Nutrition-Programs/The-Emergency-Food-Assistance-Program-TEFAP</link>
+			<description lang="es">El Programa de Asistencia Alimentaria de Emergencia (TEFAP) es un
+				programa de distribución de comida del Departamento de Agricultura de Estados Unidos
+				(USDA) que provee alimentos nutritivos y de alta calidad a hogares de bajos
+				ingresos, distribuye comida a bancos de alimentos, almacenes, comedores comunitarios
+				y otros sitios de alimentación participantes. El programa también suministra
+				alimentos listos para servirse en hogares individuales o como comidas preparadas a
+				niveles comunitarios para recipientes eligibles.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Reintegro de Impuestos, Internal Revenue Service (IRS)</name>
 			<link lang="es">https://www.irs.gov/refunds</link>
-			<description lang="es">Verifique el estatus de su reintegro de impuestos</description></resource>
+			<description lang="es">Verifique el estatus de su reintegro de impuestos</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Investor.gov</name>
 			<link lang="es">https://www.investor.gov/espanol</link>
-			<description lang="es">Recurso educativo en línea para inversionistas, publicado por la SEC. Aquí podrá encontrar alertas informativas para los inversionistas y publicaciones acerca de una amplia gama de temas, incluyendo diferentes productos de inversión, maneras de evitar el fraude y recomendaciones para la selección de un profesional financiero.</description></resource>
+			<description lang="es">Recurso educativo en línea para inversionistas, publicado por la
+				SEC. Aquí podrá encontrar alertas informativas para los inversionistas y
+				publicaciones acerca de una amplia gama de temas, incluyendo diferentes productos de
+				inversión, maneras de evitar el fraude y recomendaciones para la selección de un
+				profesional financiero.</description>
+		</resource>
 	</section>
 	<section section="employment" lang="en">
 		<lang>en</lang>
@@ -311,279 +531,422 @@
 		<resource lang="en">
 			<name lang="en">CareerSource Central Florida</name>
 			<link lang="en">http://careersourcecentralflorida.com/</link>
-			<description lang="en">CareerSource connects employers to job seekers in Lake, Orange, Osceola, Seminole and Sumter counties, provide worker resources and training, and prepare Central Florida residents for careers which meet local businesses’ needs.</description></resource>
+			<description lang="en">CareerSource connects employers to job seekers in Lake, Orange,
+				Osceola, Seminole and Sumter counties, provide worker resources and training, and
+				prepare Central Florida residents for careers which meet local businesses’ needs.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Goodwill Job Connection</name>
 			<link lang="en">https://goodwilljobconnection.org/</link>
-			<description lang="en">Goodwill provides training, English classes, job fairs, and employment services.</description></resource>
+			<description lang="en">Goodwill provides training, English classes, job fairs, and
+				employment services.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Jobs Partnership of Florida</name>
 			<link lang="en">https://www.jobspartnership.org/</link>
-			<description lang="en">The Jobs Partnership of Florida is able to offer LifeWorks Training, Career Pathways, Community Resource Fairs, Career Fairs, the Job Connection website, educational opportunities, mentorship and other programs and resources.</description></resource>
+			<description lang="en">The Jobs Partnership of Florida is able to offer LifeWorks
+				Training, Career Pathways, Community Resource Fairs, Career Fairs, the Job
+				Connection website, educational opportunities, mentorship and other programs and
+				resources.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">State of Florida Department of Economic Opportunity</name>
-			<link lang="en">www.floridajobs.org/</link>
-			<description lang="en">Reemployment assistance, business growth, workforce</description></resource>
+			<link lang="en">https://www.floridajobs.org/</link>
+			<description lang="en">Reemployment assistance, business growth, workforce</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Job Corps</name>
 			<link lang="en">https://www.jobcorps.gov/</link>
-			<description lang="en">Job Corps is the largest free residential education and job training program for young adults ages 16-24.</description></resource>
+			<description lang="en">Job Corps is the largest free residential education and job
+				training program for young adults ages 16-24.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Labor Laws and Issues</name>
 			<link lang="en">https://www.usa.gov/labor-laws</link>
-			<description lang="en">Learn about some important employment laws and issues.</description></resource>
+			<description lang="en">Learn about some important employment laws and issues.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Unemployment Help</name>
 			<link lang="en">https://www.usa.gov/unemployment</link>
-			<description lang="en">Learn how to apply for unemployment benefits, workers’ compensation, welfare or temporary assistance, and other programs and services that can help if you lose your job.</description></resource>
+			<description lang="en">Learn how to apply for unemployment benefits, workers’
+				compensation, welfare or temporary assistance, and other programs and services that
+				can help if you lose your job.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Occupational Outlook Handbook (OOH) - U.S. Bureau of Labor Statistics</name>
 			<link lang="en">https://www.bls.gov/ooh/</link>
-			<description lang="en">The Occupational Outlook Handbook (OOH) is a career resource offering information on the hundreds of occupations that provide the majority of jobs in the United States. Each occupational profile describes the typical duties performed by the occupation, the work environment of that occupation, the typical education and training needed to enter the occupation, the median pay for workers in the occupation, and the job outlook over the coming decade for that occupation. Each profile is in a standard format that makes it easy to compare occupations, such as by projected employment change.</description></resource>
+			<description lang="en">The Occupational Outlook Handbook (OOH) is a career resource
+				offering information on the hundreds of occupations that provide the majority of
+				jobs in the United States. Each occupational profile describes the typical duties
+				performed by the occupation, the work environment of that occupation, the typical
+				education and training needed to enter the occupation, the median pay for workers in
+				the occupation, and the job outlook over the coming decade for that occupation. Each
+				profile is in a standard format that makes it easy to compare occupations, such as
+				by projected employment change.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">City of Kissimmee</name>
-			<link lang="en">https://www.kissimmee.org/departments/human-resources-risk-management/employment-opportunities</link>
-			<description lang="en">Employment opportunities</description></resource>
+			<link lang="en">
+				https://www.kissimmee.org/departments/human-resources-risk-management/employment-opportunities</link>
+			<description lang="en">Employment opportunities</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">City of Saint Cloud</name>
 			<link lang="en">https://www.governmentjobs.com/careers/stcloud</link>
-			<description lang="en">Job opportunities</description></resource>
+			<description lang="en">Job opportunities</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Osceola County Job Center</name>
 			<link lang="en">https://www.governmentjobs.com/careers/osceola</link>
-			<description lang="en">Osceola County’s Online Employment Center</description></resource>
+			<description lang="en">Osceola County’s Online Employment Center</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">State of Florida Careers - PeopleFirst</name>
 			<link lang="en">https://jobs.myflorida.com/</link>
-			<description lang="en">Search for a career in one of the many locations in Florida.</description></resource>
+			<description lang="en">Search for a career in one of the many locations in Florida.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">USAJobs</name>
 			<link lang="en">https://www.usajobs.gov/</link>
-			<description lang="en">Find your fit in the federal government</description></resource>
-    </section>
+			<description lang="en">Find your fit in the federal government</description>
+		</resource>
+	</section>
 	<section section="employment" lang="es">
 		<lang>es</lang>
 		<sectionname section="employment" lang="es">Empleo</sectionname>
 		<resource lang="es">
 			<name lang="es">CareerSource de Florida Central</name>
 			<link lang="es">http://careersourcecentralflorida.com/</link>
-			<description lang="es">CareerSource pone en contacto empleadores y solicitantes de empleo en los condados de Lake, Orange, Osceola, Seminole y Sumter, proveen a los trabajadores recursos y entrenamiento, y preparan a los residentes de la Florida Central para carreras que satisfacen las necesidades de las empresas locales.</description></resource>
+			<description lang="es">CareerSource pone en contacto empleadores y solicitantes de
+				empleo en los condados de Lake, Orange, Osceola, Seminole y Sumter, proveen a los
+				trabajadores recursos y entrenamiento, y preparan a los residentes de la Florida
+				Central para carreras que satisfacen las necesidades de las empresas locales.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Goodwill Job Connection</name>
 			<link lang="es">https://goodwilljobconnection.org/</link>
-			<description lang="es">Goodwill provee entrenamiento, clases de inglés, ferias de empleo y servicios de empleo.</description></resource>
+			<description lang="es">Goodwill provee entrenamiento, clases de inglés, ferias de empleo
+				y servicios de empleo.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Sociedad de Trabajos de Florida</name>
 			<link lang="es">https://www.jobspartnership.org/</link>
-			<description lang="es">La Sociedad de Trabajos de Florida ofrece Entrenamiento LifeWorks, Senderos de Carrera, Ferias de Recursos Comunitarios, Ferias de Trabajo, el sitio web de Conexión de Trabajo, oportunidades educacionales, mentoría y otros programas y recursos.</description></resource>
+			<description lang="es">La Sociedad de Trabajos de Florida ofrece Entrenamiento
+				LifeWorks, Senderos de Carrera, Ferias de Recursos Comunitarios, Ferias de Trabajo,
+				el sitio web de Conexión de Trabajo, oportunidades educacionales, mentoría y otros
+				programas y recursos.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Departamento de Oportunidad Económica de Florida</name>
 			<link lang="es">http://www.floridajobs.org/espanol</link>
-			<description lang="es">Asistencia para el reempleo, desarrollo empresarial, fuerza laboral</description></resource>
+			<description lang="es">Asistencia para el reempleo, desarrollo empresarial, fuerza
+				laboral</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Job Corps</name>
 			<link lang="es">https://www.jobcorps.gov/es</link>
-			<description lang="es">Job Corps es el mayor programa sin costo de educación residencial y capacitación laboral para adultos jóvenes de 16 a 24 años de edad.</description></resource>
+			<description lang="es">Job Corps es el mayor programa sin costo de educación residencial
+				y capacitación laboral para adultos jóvenes de 16 a 24 años de edad.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Leyes y Asuntos Laborales</name>
 			<link lang="es">https://www.usa.gov/labor-laws</link>
-			<description lang="es">Aprenda sobre algunos leyes y asuntos laborales importantes</description></resource>
+			<description lang="es">Aprenda sobre algunos leyes y asuntos laborales importantes</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Beneficios por desempleo</name>
 			<link lang="es">https://www.usa.gov/espanol/desempleo</link>
-			<description lang="es">Comience el proceso para recibir ayuda con los beneficios del seguro de desempleo, capacitación laboral y para encontrar un trabajo.</description></resource>
+			<description lang="es">Comience el proceso para recibir ayuda con los beneficios del
+				seguro de desempleo, capacitación laboral y para encontrar un trabajo.</description>
+		</resource>
 		<resource lang="es">
-			<name lang="es">Manual de Pronóstico Ocupacional (OOH) - Agencia de Estadísticas Laborales de Estados Unidos</name>
+			<name lang="es">Manual de Pronóstico Ocupacional (OOH) - Agencia de Estadísticas
+				Laborales de Estados Unidos</name>
 			<link lang="es">https://www.bls.gov/ooh/</link>
-			<description lang="es">El Manual de Pronóstico Ocupacional (OOH) es un recurso de carrera que ofrece información sobre los cientos de ocupaciones que proveen la mayoría de los trabajos en Estados Unidos. Cada perfil ocupacional describe los deberes típicos de la ocupación, el ambiente laboral de la ocupación, la educación y entrenamiento típicos necesarios para entra a la ocupación, la paga mediana de los trabajadores en la ocupación, y el pronóstico de la ocupación en la próxima década. Cada perfil esta en un formato estándar que hace fácil el comparar ocupaciones.</description></resource>
+			<description lang="es">El Manual de Pronóstico Ocupacional (OOH) es un recurso de
+				carrera que ofrece información sobre los cientos de ocupaciones que proveen la
+				mayoría de los trabajos en Estados Unidos. Cada perfil ocupacional describe los
+				deberes típicos de la ocupación, el ambiente laboral de la ocupación, la educación y
+				entrenamiento típicos necesarios para entra a la ocupación, la paga mediana de los
+				trabajadores en la ocupación, y el pronóstico de la ocupación en la próxima década.
+				Cada perfil esta en un formato estándar que hace fácil el comparar ocupaciones.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Ciudad de Kissimmee</name>
-			<link lang="es">https://www.kissimmee.org/departments/human-resources-risk-management/employment-opportunities</link>
-			<description lang="es">Oportunidades de empleo</description></resource>
+			<link lang="es">
+				https://www.kissimmee.org/departments/human-resources-risk-management/employment-opportunities</link>
+			<description lang="es">Oportunidades de empleo</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Ciudad de Saint Cloud</name>
 			<link lang="es">https://www.governmentjobs.com/careers/stcloud</link>
-			<description lang="es">Oportunidades de trabajo</description></resource>
+			<description lang="es">Oportunidades de trabajo</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Centro de Empleo del Condado de Osceola</name>
 			<link lang="es">https://www.governmentjobs.com/careers/osceola</link>
-			<description lang="es">Centro de empleo en línea del Condado de Osceola</description></resource>
+			<description lang="es">Centro de empleo en línea del Condado de Osceola</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Carreras con el Estado de Florida - PeopleFirst</name>
 			<link lang="es">https://jobs.myflorida.com/</link>
-			<description lang="es">Busque una carrera en una de nuestras muchas localidades.</description></resource>
+			<description lang="es">Busque una carrera en una de nuestras muchas localidades.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">USAJobs</name>
 			<link lang="es">https://www.usajobs.gov/</link>
-			<description lang="es">Encuentre el trabajo adecuado en el gobierno federal</description></resource>
-	  </section>
+			<description lang="es">Encuentre el trabajo adecuado en el gobierno federal</description>
+		</resource>
+	</section>
 	<section section="health" lang="en">
 		<lang>en</lang>
 		<sectionname section="health" lang="en">Health</sectionname>
 		<resource lang="en">
 			<name lang="en">DAREBEE</name>
 			<link lang="en">https://darebee.com/</link>
-			<description lang="en">Fitness Made Easy - an independent global fitness resource</description></resource>
+			<description lang="en">Fitness Made Easy - an independent global fitness resource</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Health Insurance Marketplace</name>
 			<link lang="en">https://www.healthcare.gov/</link>
-			<description lang="en">The official site of the Health Insurance Marketplace. The Marketplace is a new way to find health coverage that fits your budget and meets your needs. With one application, you can see all your options and enroll.</description></resource>
+			<description lang="en">The official site of the Health Insurance Marketplace. The
+				Marketplace is a new way to find health coverage that fits your budget and meets
+				your needs. With one application, you can see all your options and enroll.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">STD Clinic at the Florida Department of Health in Osceola County</name>
-			<link lang="en">http://osceola.floridahealth.gov/programs-and-services/infectious-disease-services/std/index.html</link>
-			<description lang="en">The Florida Department of Health in Osceola County's STD clinic offers services at a reasonable and/or no cost basis to adults and adolescents, regardless of their citizenship status. Clinical services are provided for all clients including adolescents who are assured confidential STD clinical services by Florida Law.</description></resource>
+			<link lang="en">
+				http://osceola.floridahealth.gov/programs-and-services/infectious-disease-services/std/index.html</link>
+			<description lang="en">The Florida Department of Health in Osceola County's STD clinic
+				offers services at a reasonable and/or no cost basis to adults and adolescents,
+				regardless of their citizenship status. Clinical services are provided for all
+				clients including adolescents who are assured confidential STD clinical services by
+				Florida Law.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">PlannedParenthood</name>
 			<link lang="en">https://www.plannedparenthood.org/</link>
-			<description lang="en">Get care and answers about pregnancy, birth control, emergency contraception, STDs, and abortion.  </description></resource>
+			<description lang="en">Get care and answers about pregnancy, birth control, emergency
+				contraception, STDs, and abortion. </description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Disability Services</name>
 			<link lang="en">https://www.usa.gov/disability-services</link>
-			<description lang="en">Find information for people with disabilities, such as: benefits and insurance, caregiver support, financial assistance and support services, government and local disability programs, jobs and education, veterans disability benefits, and your legal disability rights.</description></resource>
+			<description lang="en">Find information for people with disabilities, such as: benefits
+				and insurance, caregiver support, financial assistance and support services,
+				government and local disability programs, jobs and education, veterans disability
+				benefits, and your legal disability rights.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">The Florida Department of Health</name>
 			<link lang="en">http://osceola.floridahealth.gov/</link>
-			<description lang="en">The Florida Department of Health works to protect, promote &amp; improve the health of all people in Florida through integrated state, county, &amp; community efforts.</description></resource>
+			<description lang="en">The Florida Department of Health works to protect, promote &amp;
+				improve the health of all people in Florida through integrated state, county, &amp;
+				community efforts.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Aspire Health Partners</name>
 			<link lang="en">https://aspirehealthpartners.com/</link>
-			<description lang="en">Florida’s largest behavioral health non-profit that provides a full continuum of behavioral healthcare services across five Central Florida counties: Brevard, Lake, Orange, Osceola and Seminole.</description></resource>
+			<description lang="en">Florida’s largest behavioral health non-profit that provides a
+				full continuum of behavioral healthcare services across five Central Florida
+				counties: Brevard, Lake, Orange, Osceola and Seminole.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Osceola Regional Medical Center</name>
 			<link lang="en">https://osceolaregional.com/</link>
-			<description lang="en">Hospital</description></resource>
+			<description lang="en">Hospital</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">AdventHealth Kissimmee</name>
 			<link lang="en">https://www.adventhealth.com/hospital/adventhealth-kissimmee</link>
-			<description lang="en">Hospital</description></resource>
+			<description lang="en">Hospital</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Saint Cloud Regional Medical Center</name>
 			<link lang="en">https://www.stcloudregional.com/</link>
-			<description lang="en">Hospital</description></resource>
+			<description lang="en">Hospital</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Nemours Children's Health System</name>
 			<link lang="en">https://www.nemours.org/</link>
-			<description lang="en">Pediatric hospital</description></resource>
+			<description lang="en">Pediatric hospital</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Arnold Palmer Hospital for Children</name>
 			<link lang="en">https://www.arnoldpalmerhospital.com/</link>
-			<description lang="en">Pediatric hospital</description></resource>
+			<description lang="en">Pediatric hospital</description>
+		</resource>
 		<resource lang="en">
 			<name lang="es">MedlinePlus</name>
 			<link lang="en">https://medlineplus.gov/</link>
-			<description lang="en">Health information from the U.S. National Library of Medicine</description></resource>
+			<description lang="en">Health information from the U.S. National Library of Medicine</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Free and Income Based Clinics in Kissimmee</name>
 			<link lang="en">https://www.freeclinics.com/cit/fl-kissimmee</link>
-			<description lang="en"></description></resource>
-    </section>
+			<description lang="en"></description>
+		</resource>
+	</section>
 	<section section="health" lang="es">
 		<lang>es</lang>
 		<sectionname section="health" lang="es">Salud</sectionname>
 		<resource lang="es">
 			<name lang="es">DAREBEE</name>
 			<link lang="es">https://darebee.com/</link>
-			<description lang="es">Fitness hecho fácil - un recurso de fitness global independiente</description></resource>
+			<description lang="es">Fitness hecho fácil - un recurso de fitness global independiente</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Mercado de Seguros de Salud</name>
 			<link lang="es">https://www.cuidadodesalud.gov/es/</link>
-			<description lang="es">El sitio web oficial del Mercado de Seguros de Salud a Bajo Costo. El mercado es una forma nueva de encontrar seguros de salud apropiados para su presupuesto y que llenen sus necesidades. Con una aplicación usted puede ver todas sus opciones y matricularse.</description></resource>
+			<description lang="es">El sitio web oficial del Mercado de Seguros de Salud a Bajo
+				Costo. El mercado es una forma nueva de encontrar seguros de salud apropiados para
+				su presupuesto y que llenen sus necesidades. Con una aplicación usted puede ver
+				todas sus opciones y matricularse.</description>
+		</resource>
 		<resource lang="es">
-			<name lang="es">Clínica de Infecciones de Transmisión Sexual del Departamento de Salud de Florida en el Condado de Osceola</name>
-			<link lang="es">http://osceola.floridahealth.gov/programs-and-services/infectious-disease-services/std/index.html</link>
-			<description lang="es">La Clínica de Infecciones de Transmisión Sexual del Departamento de Salud de Florida en el Condado de Osceola ofrece servicios a un costo razonable o de bajo costo a adultos y adolescentes, sin importar el estatus de ciudadanía. Los servicios clínicos se proveen a todos los clientes, incluyendo adolescentes, a los cuales se les asegura confidencialidad según la ley de Florida.</description></resource>
+			<name lang="es">Clínica de Infecciones de Transmisión Sexual del Departamento de Salud
+				de Florida en el Condado de Osceola</name>
+			<link lang="es">
+				http://osceola.floridahealth.gov/programs-and-services/infectious-disease-services/std/index.html</link>
+			<description lang="es">La Clínica de Infecciones de Transmisión Sexual del Departamento
+				de Salud de Florida en el Condado de Osceola ofrece servicios a un costo razonable o
+				de bajo costo a adultos y adolescentes, sin importar el estatus de ciudadanía. Los
+				servicios clínicos se proveen a todos los clientes, incluyendo adolescentes, a los
+				cuales se les asegura confidencialidad según la ley de Florida.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">PlannedParenthood</name>
 			<link lang="es">https://www.plannedparenthood.org/es</link>
-			<description lang="es">Obtenga cuidado médico y respuestas sobre el embarazo, métodos anticonceptivos, anticoncepción de emergencia, infecciones de transmisión sexual y abortos.</description></resource>
+			<description lang="es">Obtenga cuidado médico y respuestas sobre el embarazo, métodos
+				anticonceptivos, anticoncepción de emergencia, infecciones de transmisión sexual y
+				abortos.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Servicios para Personas con Discapacidades</name>
 			<link lang="es">https://www.usa.gov/disability-services</link>
-			<description lang="es">Encuentre información para personas con discapacidades, tal como: beneficios y seguros, apoyo al cuidador, ayuda económica y servicios de apoyo, programas de discapacidades locales y del gobierno, empleos y educación, beneficios de discapacidad para veteranos, y derechos de discapacidad legales.</description></resource>
+			<description lang="es">Encuentre información para personas con discapacidades, tal como:
+				beneficios y seguros, apoyo al cuidador, ayuda económica y servicios de apoyo,
+				programas de discapacidades locales y del gobierno, empleos y educación, beneficios
+				de discapacidad para veteranos, y derechos de discapacidad legales.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">EL Departamento de Salud de Florida</name>
 			<link lang="es">http://osceola.floridahealth.gov/</link>
-			<description lang="es">El Departamento de Salud trabaja para proteger, promover y mejorar la salud de todas las personas en Florida a través de esfuerzos integrados entre el estado, el condado y la comunidad.</description></resource>
+			<description lang="es">El Departamento de Salud trabaja para proteger, promover y
+				mejorar la salud de todas las personas en Florida a través de esfuerzos integrados
+				entre el estado, el condado y la comunidad.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Aspire Health Partners</name>
 			<link lang="es">https://aspirehealthpartners.com/</link>
-			<description lang="es">La organización de salud del comportamiento sin fines de lucro más grande de Florida provee un espectro completo de servicios de salud del comportamiento a través de 5 condados de Florida Central: Brevard, Lake, Orange, Osceola y Seminole.</description></resource>
+			<description lang="es">La organización de salud del comportamiento sin fines de lucro
+				más grande de Florida provee un espectro completo de servicios de salud del
+				comportamiento a través de 5 condados de Florida Central: Brevard, Lake, Orange,
+				Osceola y Seminole.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Centro Médico Regional de Osceola</name>
 			<link lang="es">https://osceolaregional.com/</link>
-			<description lang="es">Hospital</description></resource>
+			<description lang="es">Hospital</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">AdventHealth Kissimmee</name>
 			<link lang="es">https://www.adventhealth.com/hospital/adventhealth-kissimmee</link>
-			<description lang="es">Hospital</description></resource>
+			<description lang="es">Hospital</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Centro Médico Regional de Saint Cloud</name>
 			<link lang="es">https://www.stcloudregional.com/</link>
-			<description lang="es">Hospital</description></resource>
+			<description lang="es">Hospital</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Sistema de Salud para Niños Nemours</name>
 			<link lang="es">https://www.nemours.org/</link>
-			<description lang="es">Hospital pediátrico</description></resource>
+			<description lang="es">Hospital pediátrico</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Hospital para Niños Arnold Palmer</name>
 			<link lang="es">https://www.arnoldpalmerhospital.com/</link>
-			<description lang="es">Hospital pediátrico</description></resource>
+			<description lang="es">Hospital pediátrico</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">MedlinePlus</name>
 			<link lang="es">https://medlineplus.gov/spanish/</link>
-			<description lang="es">Información de salud de la Biblioteca Nacional de Medicina de Estados Unidos</description></resource>
+			<description lang="es">Información de salud de la Biblioteca Nacional de Medicina de
+				Estados Unidos</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Clínicas de salud gratuitas y basadas en ingreso en Kissimmee</name>
 			<link lang="es">https://www.freeclinics.com/cit/fl-kissimmee</link>
-			<description lang="es"></description></resource>
+			<description lang="es"></description>
+		</resource>
 	</section>
 	<section section="housing" lang="en">
 		<lang>en</lang>
 		<sectionname section="housing" lang="en">Housing</sectionname>
 		<resource lang="en">
 			<name lang="en">Section 8 Program</name>
-			<link lang="en">https://www.osceola.org/agencies-departments/human-services/housing/section-8-program/index.stml</link>
-			<description lang="en">The Section 8 Program is a federal rent subsidy which assists participants with monthly rental payments.</description></resource>
+			<link lang="en">
+				https://www.osceola.org/agencies-departments/human-services/housing/section-8-program/index.stml</link>
+			<description lang="en">The Section 8 Program is a federal rent subsidy which assists
+				participants with monthly rental payments.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Get Help If You’re Currently or About to Be Homeless</name>
 			<link lang="en">https://www.usa.gov/housing-help-audiences</link>
-			<description lang="en">If you’re facing homelessness, these tips can help you prepare for and work through the situation.</description></resource>
+			<description lang="en">If you’re facing homelessness, these tips can help you prepare
+				for and work through the situation.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Airbnb</name>
 			<link lang="en">https://www.airbnb.com/</link>
-			<description lang="en">Rent short or long term</description></resource>
+			<description lang="en">Rent short or long term</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Disaster Shelters</name>
 			<link lang="en">https://www.floridadisaster.org/planprepare/shelters/</link>
-			<description lang="en">Florida Division of Emergency Management</description></resource>
+			<description lang="en">Florida Division of Emergency Management</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Osceola County Property Appraiser</name>
 			<link lang="en">https://www.property-appraiser.org/</link>
-			<description lang="en">The Property Appraiser assesses all property according to its “just value”.</description></resource>
-    </section>
+			<description lang="en">The Property Appraiser assesses all property according to its
+				“just value”.</description>
+		</resource>
+	</section>
 	<section section="housing" lang="es">
 		<lang>es</lang>
 		<sectionname section="housing" lang="es">Vivienda</sectionname>
 		<resource lang="es">
 			<name lang="es">Programa de Sección 8</name>
-			<link lang="es">https://www.osceola.org/agencies-departments/human-services/housing/section-8-program/index.stml</link>
-			<description lang="es">El programa de Sección 8 es un subsidio federal de renta que ayuda a los participantes con pagos mensuales para la renta.</description></resource>
+			<link lang="es">
+				https://www.osceola.org/agencies-departments/human-services/housing/section-8-program/index.stml</link>
+			<description lang="es">El programa de Sección 8 es un subsidio federal de renta que
+				ayuda a los participantes con pagos mensuales para la renta.</description>
+		</resource>
 		<resource lang="es">
-			<name lang="es">Ayuda con asuntos de vivienda si eres indigente o a punto de ser indigente</name>
+			<name lang="es">Ayuda con asuntos de vivienda si eres indigente o a punto de ser
+				indigente</name>
 			<link lang="es">https://www.usa.gov/espanol/ayuda-asuntos-vivienda</link>
-			<description lang="es">Ayuda para encontrar vivienda para grupos con necesidades específicas.</description></resource>
+			<description lang="es">Ayuda para encontrar vivienda para grupos con necesidades
+				específicas.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Airbnb</name>
 			<link lang="es">https://es.airbnb.com/</link>
-			<description lang="es">Renta a corto o a largo plazo</description></resource>
+			<description lang="es">Renta a corto o a largo plazo</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Refugios de Desastres</name>
 			<link lang="es">https://www.floridadisaster.org/planprepare/shelters/</link>
-			<description lang="es">División de Manejo de Emergencias de Florida</description></resource>
+			<description lang="es">División de Manejo de Emergencias de Florida</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Tasador de Propiedades del Condado de Osceola</name>
 			<link lang="es">https://www.property-appraiser.org/</link>
-			<description lang="es">El Tasador de Propiedades evalúa todos los bienes de acuerdo a su “valor justo”.</description></resource>
+			<description lang="es">El Tasador de Propiedades evalúa todos los bienes de acuerdo a su
+				“valor justo”.</description>
+		</resource>
 	</section>
 	<section section="legal" lang="en">
 		<lang>en</lang>
@@ -591,103 +954,159 @@
 		<resource lang="en">
 			<name lang="en">Legal Aid Society of Osceola</name>
 			<link lang="en">https://osceolabar.org/laso/</link>
-			<description lang="en">The Legal Aid Society of Osceola County was created by the Osceola County Bar Association and currently helps residents of Osceola get access to legal services.</description></resource>
+			<description lang="en">The Legal Aid Society of Osceola County was created by the
+				Osceola County Bar Association and currently helps residents of Osceola get access
+				to legal services.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Office of the Public Defender - 9th Judicial Circuit Orange and Osceola</name>
 			<link lang="en">http://www.myfloridapd.com/</link>
-			<description lang="en">The majority of their work focuses on representing people in court. Their trained staff also connects clients with programs dealing with substance abuse, anger management and a host of other issues aimed at keeping people from returning to court.</description></resource>
+			<description lang="en">The majority of their work focuses on representing people in
+				court. Their trained staff also connects clients with programs dealing with
+				substance abuse, anger management and a host of other issues aimed at keeping people
+				from returning to court.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Florida Department of Juvenile Justice (DJJ)</name>
 			<link lang="en">http://www.djj.state.fl.us/</link>
-			<description lang="en">The mission of DJJ is to increase public safety by reducing juvenile delinquency through effective prevention, intervention and treatment services that strengthen families and turn around the lives of troubled youth.</description></resource>
+			<description lang="en">The mission of DJJ is to increase public safety by reducing
+				juvenile delinquency through effective prevention, intervention and treatment
+				services that strengthen families and turn around the lives of troubled youth.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Seal and Expunge Process, Florida Department of Law Enforcement (FDLE)</name>
-			<link lang="en">https://www.fdle.state.fl.us/Seal-and-Expunge-Process/Seal-and-Expunge-Home.aspx</link>
-			<description lang="en">Seal or expunge criminal history record</description></resource>
+			<link lang="en">
+				https://www.fdle.state.fl.us/Seal-and-Expunge-Process/Seal-and-Expunge-Home.aspx</link>
+			<description lang="en">Seal or expunge criminal history record</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Osceola County Courthouse</name>
 			<link lang="en">https://www.ninthcircuit.org/about/courthouses/osceola-county-courthouse</link>
-			<description lang="en">The facility houses the Courts, Court Administration, the Clerk of Court, the State Attorney, the Public Defender, and ancillary services of the Sheriff.</description></resource>
+			<description lang="en">The facility houses the Courts, Court Administration, the Clerk
+				of Court, the State Attorney, the Public Defender, and ancillary services of the
+				Sheriff.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Florida Traffic Watch</name>
 			<link lang="en">https://floridatrafficwatch.org/</link>
-			<description lang="en">Driving License Notifications To Your Phone. Free service to the residents of the following counties: Miami-Dade, Broward, Palm Beach, Orange</description></resource>
+			<description lang="en">Driving License Notifications To Your Phone. Free service to the
+				residents of the following counties: Miami-Dade, Broward, Palm Beach, Orange</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">e-Notify, Florida’s Court Event Notification System</name>
 			<link lang="en">https://enotify.flcourts.org/</link>
-			<description lang="en">Text and e-mail reminders about your upcoming court events</description></resource>
+			<description lang="en">Text and e-mail reminders about your upcoming court events</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Osceola County Sheriff's Office</name>
 			<link lang="en">https://www.osceolasheriff.org/</link>
-			<description lang="en">The Osceola County Sheriff's Office offers a wide range of services. In addition to protecting life and property, the agency is responsible for enforcing court orders, administering writs of execution, maintaining courtroom security, investigating crimes, registering sex offenders, predators and felons in our county and many other functions as designated by state law.</description></resource>
+			<description lang="en">The Osceola County Sheriff's Office offers a wide range of
+				services. In addition to protecting life and property, the agency is responsible for
+				enforcing court orders, administering writs of execution, maintaining courtroom
+				security, investigating crimes, registering sex offenders, predators and felons in
+				our county and many other functions as designated by state law.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Osceola County Corrections</name>
 			<link lang="en">https://www.osceola.org/agencies-departments/corrections/index.stml</link>
-			<description lang="en">County jail</description></resource>
+			<description lang="en">County jail</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Florida Department of Corrections</name>
 			<link lang="en">http://www.dc.state.fl.us/</link>
-			<description lang="en">State prisons</description></resource>
+			<description lang="en">State prisons</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Federal Bureau of Prisons</name>
 			<link lang="en">https://www.bop.gov/</link>
-			<description lang="en">Federal prisons</description></resource>
+			<description lang="en">Federal prisons</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Sex Offender Registry Websites</name>
 			<link lang="en">https://www.fbi.gov/scams-and-safety/sex-offender-registry</link>
-			<description lang="en">State and national websites</description></resource>
-    </section>
+			<description lang="en">State and national websites</description>
+		</resource>
+	</section>
 	<section section="legal" lang="es">
 		<lang>es</lang>
 		<sectionname section="legal" lang="es">Servicios Legales</sectionname>
 		<resource lang="es">
 			<name lang="es">Sociedad de Asistencia Legal de Osceola</name>
 			<link lang="es">https://osceolabar.org/laso/</link>
-			<description lang="es">La Sociedad de Asistencia Legal de Osceola fue creada por el Colegio de Abogados del Condado de Osceola y actualmente asiste a los residentes de Osceola a obtener acceso a servicios legales.</description></resource>
+			<description lang="es">La Sociedad de Asistencia Legal de Osceola fue creada por el
+				Colegio de Abogados del Condado de Osceola y actualmente asiste a los residentes de
+				Osceola a obtener acceso a servicios legales.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Oficina del Defensor Público – 9no Circuito Judicial: Orange y Osceola</name>
 			<link lang="es">http://www.myfloridapd.com/</link>
-			<description lang="es">La mayoría del trabajo que la Oficina del Defensor Público realiza se enfoca en representar a la gente en la corte. El personal también conecta los clientes con programas para el abuso de sustancias, manejo de la ira y muchos otros problemas dirigidos a prevenir que las personas regresen a la corte.</description></resource>
+			<description lang="es">La mayoría del trabajo que la Oficina del Defensor Público
+				realiza se enfoca en representar a la gente en la corte. El personal también conecta
+				los clientes con programas para el abuso de sustancias, manejo de la ira y muchos
+				otros problemas dirigidos a prevenir que las personas regresen a la corte.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Departamento de Justicia Juvenil de Florida (DJJ)</name>
 			<link lang="es">http://www.djj.state.fl.us/</link>
-			<description lang="es">La misión del DJJ es aumentar la seguridad pública al reducir la delincuencia juvenil a través de la prevención efectiva, intervenciones y servicios de tratamiento que fortalecen familias y transforman jóvenes problemáticos.</description></resource>
+			<description lang="es">La misión del DJJ es aumentar la seguridad pública al reducir la
+				delincuencia juvenil a través de la prevención efectiva, intervenciones y servicios
+				de tratamiento que fortalecen familias y transforman jóvenes problemáticos.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Proceso de Sellar y Eliminar, Agencia Policial de Florida (FDLE)</name>
-			<link lang="es">https://www.fdle.state.fl.us/Seal-and-Expunge-Process/Seal-and-Expunge-Home.aspx</link>
-			<description lang="es">Selle y elimine su historial criminal</description></resource>
+			<link lang="es">
+				https://www.fdle.state.fl.us/Seal-and-Expunge-Process/Seal-and-Expunge-Home.aspx</link>
+			<description lang="es">Selle y elimine su historial criminal</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Juzgado del Condado de Osceola</name>
 			<link lang="es">https://www.ninthcircuit.org/about/courthouses/osceola-county-courthouse</link>
-			<description lang="es">Las instalaciones alojan las cortes, la administración de las cortes, el Secretario de la Corte, el Defensor Público y servicios auxiliares del Sheriff.</description></resource>
+			<description lang="es">Las instalaciones alojan las cortes, la administración de las
+				cortes, el Secretario de la Corte, el Defensor Público y servicios auxiliares del
+				Sheriff.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Florida Traffic Watch</name>
 			<link lang="es">https://floridatrafficwatch.org/</link>
-			<description lang="es">Reciba notificaciones sobre su licencia de conducir en su móvil. Servicio gratis para residentes de los siguientes condados: Miami-Dade, Broward, Palm Beach, Orange.</description></resource>
+			<description lang="es">Reciba notificaciones sobre su licencia de conducir en su móvil.
+				Servicio gratis para residentes de los siguientes condados: Miami-Dade, Broward,
+				Palm Beach, Orange.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">e-Notify, Sistema de notificaciones de eventos en las cortes de Florida</name>
 			<link lang="es">https://enotify.flcourts.org/</link>
-			<description lang="es">Recordatorios por texto y correo electrónico sobre sus citas pendientes en el tribunal</description></resource>
+			<description lang="es">Recordatorios por texto y correo electrónico sobre sus citas
+				pendientes en el tribunal</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Oficina del Sheriff del Condado de Osceola</name>
 			<link lang="es">https://www.osceolasheriff.org/#</link>
-			<description lang="es">La Oficina del Sheriff del Condado de Osceola ofrece una gama de servicios. En adición a proteger vidas y propiedades, la agencia es responsable por enforzar órdenes de la corte, administrar órdenes de ejecución, mantener seguridad en la sala de corte, investigar crímenes, registrar ofensores sexuales, depredadores y felones en el condado y muchas otras funciones designadas por la ley.</description></resource>
+			<description lang="es">La Oficina del Sheriff del Condado de Osceola ofrece una gama de
+				servicios. En adición a proteger vidas y propiedades, la agencia es responsable por
+				enforzar órdenes de la corte, administrar órdenes de ejecución, mantener seguridad
+				en la sala de corte, investigar crímenes, registrar ofensores sexuales, depredadores
+				y felones en el condado y muchas otras funciones designadas por la ley.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Departamento de Corrección del Condado de Osceola</name>
 			<link lang="es">https://www.osceola.org/agencies-departments/corrections/index.stml</link>
-			<description lang="es">Cárcel del condado</description></resource>
+			<description lang="es">Cárcel del condado</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Departamento de Corrección de Florida</name>
 			<link lang="es">http://www.dc.state.fl.us/</link>
-			<description lang="es">Prisiones estatales</description></resource>
+			<description lang="es">Prisiones estatales</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Agencia Federal de Prisiones</name>
 			<link lang="es">https://www.bop.gov/</link>
-			<description lang="es">Prisiones federales</description></resource>
+			<description lang="es">Prisiones federales</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Buscadores de Delincuentes Sexuales y Depredadores</name>
 			<link lang="es">https://www.fbi.gov/scams-and-safety/sex-offender-registry</link>
-			<description lang="es">Sitios web estatales y nacional</description></resource>
+			<description lang="es">Sitios web estatales y nacional</description>
+		</resource>
 	</section>
 	<section section="transportation" lang="en">
 		<lang>en</lang>
@@ -695,87 +1114,127 @@
 		<resource lang="en">
 			<name lang="en">SunRail</name>
 			<link lang="en">https://sunrail.com/</link>
-			<description lang="en">SunRail is a rail service with 16 stations through Volusia, Seminole, Orange and Osceola counties.</description></resource>
+			<description lang="en">SunRail is a rail service with 16 stations through Volusia,
+				Seminole, Orange and Osceola counties.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Lynx</name>
 			<link lang="en">https://www.golynx.com/</link>
-			<description lang="en">Lynx buses provide daily public transportation for Orange, Seminole and Osceola counties. Small portion of Lake and Polk counties are also served.</description></resource>
+			<description lang="en">Lynx buses provide daily public transportation for Orange,
+				Seminole and Osceola counties. Small portion of Lake and Polk counties are also
+				served.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Uber</name>
 			<link lang="en">https://www.uber.com/</link>
-			<description lang="en">Request a ride</description></resource>
+			<description lang="en">Request a ride</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Lyft</name>
 			<link lang="en">https://www.lyft.com/</link>
-			<description lang="en">Request a ride</description></resource>
+			<description lang="en">Request a ride</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Driver License and Motor Vehicle Service Centers</name>
 			<link lang="en">https://www.flhsmv.gov/locations/osceola/</link>
-			<description lang="en">Service centers in Osceola County</description></resource>
+			<description lang="en">Service centers in Osceola County</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Osceola County Tax Collector</name>
 			<link lang="en">https://osceolataxcollector.org/</link>
-			<description lang="en">Driver license, driving skill test, and motor vehicle registration</description></resource>
+			<description lang="en">Driver license, driving skill test, and motor vehicle
+				registration</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Used Car Buying Guide, Consumer Reports</name>
 			<link lang="en">https://www.consumerreports.org/buying-a-car/used-car-buying-guide/</link>
-			<description lang="en">Used vehicles are often the best values you'll find in the automotive market.</description></resource>
+			<description lang="en">Used vehicles are often the best values you'll find in the
+				automotive market.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Guide to Buying a New Car, Consumer Reports</name>
 			<link lang="en">https://www.consumerreports.org/buying-a-car/new-car-buying-guide/</link>
-			<description lang="en">Consumer Reports can help guide you through the new car buying experience. They give you the essential information you need to choose, buy, finance, and maintain a new car.</description></resource>
+			<description lang="en">Consumer Reports can help guide you through the new car buying
+				experience. They give you the essential information you need to choose, buy,
+				finance, and maintain a new car.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Kelley Blue Book</name>
 			<link lang="en">https://www.kbb.com/</link>
-			<description lang="en">KBB.com gives you everything you need to research a new, certified (CPO) or used car, compare cars, find cars for sale and make a well-informed decision.</description></resource>
+			<description lang="en">KBB.com gives you everything you need to research a new,
+				certified (CPO) or used car, compare cars, find cars for sale and make a
+				well-informed decision.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">The Best Cheap Car Insurance for 2020</name>
 			<link lang="en">https://www.nerdwallet.com/blog/insurance/best-cheap-car-insurance/</link>
-			<description lang="en">One of the best ways to get cheap car insurance is by comparing car insurance quotes and companies.</description></resource>
-    </section>
+			<description lang="en">One of the best ways to get cheap car insurance is by comparing
+				car insurance quotes and companies.</description>
+		</resource>
+	</section>
 	<section section="transportation" lang="es">
 		<lang>es</lang>
 		<sectionname section="transportation" lang="es">Transportación</sectionname>
 		<resource lang="es">
 			<name lang="es">SunRail</name>
 			<link lang="es">https://sunrail.com/es/</link>
-			<description lang="es">El SunRail es un servicio ferroviario con 16 estaciones en los condados de Volusia, Seminole, Orange y Osceola.</description></resource>
+			<description lang="es">El SunRail es un servicio ferroviario con 16 estaciones en los
+				condados de Volusia, Seminole, Orange y Osceola.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Lynx</name>
 			<link lang="es">https://www.golynx.com/</link>
-			<description lang="es">Los autobuses de Lynx proveen transportación pública diaria para los condados de Orange, Seminole y Osceola. Porciones pequeñas de los condados de Lake y Polk también son servidas.</description></resource>
+			<description lang="es">Los autobuses de Lynx proveen transportación pública diaria para
+				los condados de Orange, Seminole y Osceola. Porciones pequeñas de los condados de
+				Lake y Polk también son servidas.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Uber</name>
 			<link lang="es">https://www.uber.com/us/es/</link>
-			<description lang="es">Obtenga un viaje ahora</description></resource>
+			<description lang="es">Obtenga un viaje ahora</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Lyft</name>
 			<link lang="es">https://www.lyft.com/</link>
-			<description lang="es">Obtenga un viaje ahora</description></resource>
+			<description lang="es">Obtenga un viaje ahora</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Licencia de Conducir y Centros de Servicio de Vehículos Motorizados</name>
 			<link lang="es">https://www.flhsmv.gov/locations/osceola-es/</link>
-			<description lang="es">Centros de servicio en el Condado de Osceola</description></resource>
+			<description lang="es">Centros de servicio en el Condado de Osceola</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Recaudador de Impuestos del Condado de Osceola</name>
 			<link lang="es">https://osceolataxcollector.org/</link>
-			<description lang="es">Licencia de conducir, examen de destrezas de conducir, y registración de veículos de motor</description></resource>
+			<description lang="es">Licencia de conducir, examen de destrezas de conducir, y
+				registración de veículos de motor</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Guía para comprar un auto usado, Consumer Reports</name>
 			<link lang="es">https://www.consumerreports.org/buying-a-car/used-car-buying-guide/</link>
-			<description lang="es">Los vehículos usados a menudo ofrecen el mejor valor que puede encontrar en el mercado automotriz.</description></resource>
+			<description lang="es">Los vehículos usados a menudo ofrecen el mejor valor que puede
+				encontrar en el mercado automotriz.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Guía para comprar un auto nuevo, Consumer Reports</name>
 			<link lang="es">https://www.consumerreports.org/buying-a-car/new-car-buying-guide/</link>
-			<description lang="es">Consumer Reports le puede ayudar a guiarle através de su experiencia de comprar un auto. Ellos les dan la información esencial que usted necesita para escoger, comprar, financiar y mantener un auto nuevo.</description></resource>
+			<description lang="es">Consumer Reports le puede ayudar a guiarle através de su
+				experiencia de comprar un auto. Ellos les dan la información esencial que usted
+				necesita para escoger, comprar, financiar y mantener un auto nuevo.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Kelley Blue Book</name>
 			<link lang="es">https://www.kbb.com/</link>
-			<description lang="es">KBB.com ofrece todo lo que necesita para investigar un auto nuevo, certificado (CPO) o usado, comparar autos, encontrar autos en venta y tomas desiciones informadas.</description></resource>
+			<description lang="es">KBB.com ofrece todo lo que necesita para investigar un auto
+				nuevo, certificado (CPO) o usado, comparar autos, encontrar autos en venta y tomas
+				desiciones informadas.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">El mejor seguro de autos más barato del 2020</name>
 			<link lang="es">https://www.nerdwallet.com/blog/insurance/best-cheap-car-insurance/</link>
-			<description lang="es">Una de las mejores formas de obtener un seguro de auto barato es comparar cotizaciones y compañías.</description></resource>
+			<description lang="es">Una de las mejores formas de obtener un seguro de auto barato es
+				comparar cotizaciones y compañías.</description>
+		</resource>
 	</section>
 	<section section="travel" lang="en">
 		<lang>en</lang>
@@ -783,27 +1242,42 @@
 		<resource lang="en">
 			<name lang="en">Amtrak</name>
 			<link lang="en">https://www.amtrak.com/</link>
-			<description lang="en">The National Railroad Passenger Corporation, Amtrak, is a national rail passenger operator.</description></resource>
+			<description lang="en">The National Railroad Passenger Corporation, Amtrak, is a
+				national rail passenger operator.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Greyhound</name>
 			<link lang="en">https://www.greyhound.com/</link>
-			<description lang="en">Affordable long distance travel in North America</description></resource>
+			<description lang="en">Affordable long distance travel in North America</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">RedCoach</name>
 			<link lang="en">https://www.redcoachusa.com/</link>
-			<description lang="en">RedCoach offers three different routes that stop at nearly every key city in the Sunshine State as well as Atlanta, in Georgia. You can reach Miami, Jacksonville, West Palm Beach, Tampa, Gainesville, Tallahassee, Fort Pierce, Orlando, Fort Myers, Ocala, and Fort Lauderdale, to name a few. </description></resource>
+			<description lang="en">RedCoach offers three different routes that stop at nearly every
+				key city in the Sunshine State as well as Atlanta, in Georgia. You can reach Miami,
+				Jacksonville, West Palm Beach, Tampa, Gainesville, Tallahassee, Fort Pierce,
+				Orlando, Fort Myers, Ocala, and Fort Lauderdale, to name a few. </description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">USA Rest Stop Locator</name>
 			<link lang="en">http://www.usareststops.com/</link>
-			<description lang="en">Easily find all rest stops through the entire United States on your iOS or Android device.</description></resource>
+			<description lang="en">Easily find all rest stops through the entire United States on
+				your iOS or Android device.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Mobile Passport Control</name>
 			<link lang="en">https://www.cbp.gov/travel/us-citizens/mobile-passport-control</link>
-			<description lang="en">Mobile Passport Control streamlines your U.S. Customs and Border Protection processing experience. Just fill out your profile and answer CBP’s questions – then go straight to the “Mobile Passport Control” lane at the airport!</description></resource>
+			<description lang="en">Mobile Passport Control streamlines your U.S. Customs and Border
+				Protection processing experience. Just fill out your profile and answer CBP’s
+				questions – then go straight to the “Mobile Passport Control” lane at the airport!</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Smart Traveler Enrollment Program(STEP)</name>
 			<link lang="en">https://step.state.gov/step/</link>
-			<description lang="en">The Smart Traveler Enrollment Program (STEP) is a free service to allow U.S. citizens and nationals traveling and living abroad to enroll their trip with the nearest U.S. Embassy or Consulate.</description></resource>
+			<description lang="en">The Smart Traveler Enrollment Program (STEP) is a free service to
+				allow U.S. citizens and nationals traveling and living abroad to enroll their trip
+				with the nearest U.S. Embassy or Consulate.</description>
+		</resource>
 	</section>
 	<section section="travel" lang="es">
 		<lang>es</lang>
@@ -811,27 +1285,44 @@
 		<resource lang="es">
 			<name lang="es">Amtrak</name>
 			<link lang="es">https://espanol.amtrak.com/</link>
-			<description lang="es">Amtrak, una Corporación Nacional de Ferrocarriles de Pasajeros, es un operador nacional de ferrocarriles de pasajeros.</description></resource>
+			<description lang="es">Amtrak, una Corporación Nacional de Ferrocarriles de Pasajeros,
+				es un operador nacional de ferrocarriles de pasajeros.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Greyhound</name>
 			<link lang="es">https://www.greyhound.com/</link>
-			<description lang="es">Viajes económicos a larga distancia en América del Norte</description></resource>
+			<description lang="es">Viajes económicos a larga distancia en América del Norte</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">RedCoach</name>
 			<link lang="es">https://www.redcoachusa.com/es/</link>
-			<description lang="es">RedCoach afrece tres rutas differentes con paradas en casi todas las ciudades claves en Florida, así como también Atlanta, Georgia. Puedes llegar a Miami, Jacksonville, West Palm Beach, Tampa, Gainesville, Tallahassee, Fort Pierce, Orlando, Fort Myers, Ocala, y Fort Lauderdale, entre otras ciudades.</description></resource>
+			<description lang="es">RedCoach afrece tres rutas differentes con paradas en casi todas
+				las ciudades claves en Florida, así como también Atlanta, Georgia. Puedes llegar a
+				Miami, Jacksonville, West Palm Beach, Tampa, Gainesville, Tallahassee, Fort Pierce,
+				Orlando, Fort Myers, Ocala, y Fort Lauderdale, entre otras ciudades.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Localizador de paradas de descanso en Estados Unidos</name>
 			<link lang="es">http://www.usareststops.com/</link>
-			<description lang="es">Encuentre todas las paradas de descanso en todo el país de Estados Unidos en su dispositivo móvil iOS o Android.</description></resource>
+			<description lang="es">Encuentre todas las paradas de descanso en todo el país de
+				Estados Unidos en su dispositivo móvil iOS o Android.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Control de Pasaporte Móvil</name>
 			<link lang="es">https://www.cbp.gov/travel/us-citizens/mobile-passport-control</link>
-			<description lang="es">Control de Pasaporte Móvil optimiza su experiencia del procesamiento de las Aduanas y Protección Fronteriza de Estados Unidos (CBP). Simplemente llene su perfil y conteste las preguntas del CBP. Luego vaya a la fila en el aeropuerto rotulada “Mobile Passport Control”.</description></resource>
+			<description lang="es">Control de Pasaporte Móvil optimiza su experiencia del
+				procesamiento de las Aduanas y Protección Fronteriza de Estados Unidos (CBP).
+				Simplemente llene su perfil y conteste las preguntas del CBP. Luego vaya a la fila
+				en el aeropuerto rotulada “Mobile Passport Control”.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Smart Traveler Enrollment Program(STEP)</name>
 			<link lang="es">https://step.state.gov/step/</link>
-			<description lang="es">EL Programa de Inscripción de Smart Traveler es un servicio gratuito que les permite a los ciudadanos y nacionales estadounidenses que viajan y viven en el extranjero inscribir su viaje con la embajada o consulado estadounidense más cercanos.</description></resource>
+			<description lang="es">EL Programa de Inscripción de Smart Traveler es un servicio
+				gratuito que les permite a los ciudadanos y nacionales estadounidenses que viajan y
+				viven en el extranjero inscribir su viaje con la embajada o consulado estadounidense
+				más cercanos.</description>
+		</resource>
 	</section>
 	<section section="vitaldocs" lang="en">
 		<lang>en</lang>
@@ -839,39 +1330,56 @@
 		<resource lang="en">
 			<name lang="en">IDignity Osceola</name>
 			<link lang="en">https://osceola.idignity.org/</link>
-			<description lang="en">IDignity provides assistance in obtaining Florida ID cards and licenses, birth certificates, Social Security cards, replacement citizenship or immigration records and other documents needed to obtain an ID/license. There is no charge for our services to those in need.</description></resource>
+			<description lang="en">IDignity provides assistance in obtaining Florida ID cards and
+				licenses, birth certificates, Social Security cards, replacement citizenship or
+				immigration records and other documents needed to obtain an ID/license. There is no
+				charge for our services to those in need.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Vote Osceola</name>
-			<link lang="en">https://www.voteosceola.com/en-us/Voter-Information/Check-Your-Voter-Status</link>
-			<description lang="en">Voter Information in Osceola County</description></resource>
+			<link lang="en">
+				https://www.voteosceola.com/en-us/Voter-Information/Check-Your-Voter-Status</link>
+			<description lang="en">Voter Information in Osceola County</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Florida Online Voter Registration System</name>
 			<link lang="en">https://registertovoteflorida.gov/</link>
-			<description lang="en">This system can be used to submit an application online for new registration or to make changes to your existing registration record or to prefill a voter registration application form.</description></resource>
+			<description lang="en">This system can be used to submit an application online for new
+				registration or to make changes to your existing registration record or to prefill a
+				voter registration application form.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Vote.gov</name>
 			<link lang="en">https://vote.gov/</link>
-			<description lang="en">Register to vote</description></resource>
+			<description lang="en">Register to vote</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Osceola County Tax Collector</name>
 			<link lang="en">https://osceolataxcollector.org/</link>
-			<description lang="en">Florida birth certificates</description></resource>
+			<description lang="en">Florida birth certificates</description>
+		</resource>
 		<resource lang="en">
-			<name lang="en">Office of Vital Statistics, Florida Department of Health in Osceola County</name>
+			<name lang="en">Office of Vital Statistics, Florida Department of Health in Osceola
+				County</name>
 			<link lang="en">http://osceola.floridahealth.gov/certificates/index.html</link>
-			<description lang="en">Birth certificates, death certificates</description></resource>
+			<description lang="en">Birth certificates, death certificates</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Social Security Administration</name>
 			<link lang="en">https://www.ssa.gov/</link>
-			<description lang="en">Social security card</description></resource>
+			<description lang="en">Social security card</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">U.S. Passport</name>
 			<link lang="en">https://travel.state.gov/content/travel/en/passports.html/</link>
-			<description lang="en">Apply for or renew your passport</description></resource>
+			<description lang="en">Apply for or renew your passport</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Other vital documents</name>
 			<link lang="en">https://www.usa.gov/replace-vital-documents</link>
-			<description lang="en">Driver licence, ID card, social security card, Medicaid card, U.S. passport, permanent resident (green) card, U.S. military ID</description></resource>
+			<description lang="en">Driver licence, ID card, social security card, Medicaid card,
+				U.S. passport, permanent resident (green) card, U.S. military ID</description>
+		</resource>
 	</section>
 	<section section="vitaldocs" lang="es">
 		<lang>es</lang>
@@ -879,39 +1387,58 @@
 		<resource lang="es">
 			<name lang="es">IDignity Osceola</name>
 			<link lang="es">https://osceola.idignity.org/</link>
-			<description lang="es">IDignity provee asistencia para obtener licencias y tarjetas de identificación de Florida, certificados de nacimiento, tarjetas ded Seguro Social, reemplazo de documentos de ciudadanío o inmigración y otros documentos necesarios para obtener licencias y tarjetas de identificación. Los servicios son gratuitos para las personas necesitadas.</description></resource>
+			<description lang="es">IDignity provee asistencia para obtener licencias y tarjetas de
+				identificación de Florida, certificados de nacimiento, tarjetas ded Seguro Social,
+				reemplazo de documentos de ciudadanío o inmigración y otros documentos necesarios
+				para obtener licencias y tarjetas de identificación. Los servicios son gratuitos
+				para las personas necesitadas.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Vote Osceola</name>
-			<link lang="es">https://www.voteosceola.com/es-us/Informacin-del-Elector/Verifique-Su-Estatus-Electoral</link>
-			<description lang="es">Información sobre votqantes en el Condado de Osceola</description></resource>
+			<link lang="es">
+				https://www.voteosceola.com/es-us/Informacin-del-Elector/Verifique-Su-Estatus-Electoral</link>
+			<description lang="es">Información sobre votqantes en el Condado de Osceola</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Sistema de solicitud de inscripción como votante de Florida</name>
 			<link lang="es">https://registertovoteflorida.gov/</link>
-			<description lang="es">Este sistema se puede utilizar para subministrar en línea una solicitud de inscripción como votante, para actualizar un registro de inscripción o para rellenar un formulario de solicitud de inscripción como votante.</description></resource>
+			<description lang="es">Este sistema se puede utilizar para subministrar en línea una
+				solicitud de inscripción como votante, para actualizar un registro de inscripción o
+				para rellenar un formulario de solicitud de inscripción como votante.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Vote.gov en Español</name>
 			<link lang="es">https://vote.gov/es/</link>
-			<description lang="es">Inscríbase para votar</description></resource>
+			<description lang="es">Inscríbase para votar</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Recaudador de Impuestos del Condado de Osceola</name>
 			<link lang="es">https://osceolataxcollector.org/</link>
-			<description lang="es">Certificados de nacimentos de Florida</description></resource>
+			<description lang="es">Certificados de nacimentos de Florida</description>
+		</resource>
 		<resource lang="es">
-			<name lang="es">Oficina de Asuntos Demográficos, Departamento de Salud de Florida en el Condado de Osceola</name>
+			<name lang="es">Oficina de Asuntos Demográficos, Departamento de Salud de Florida en el
+				Condado de Osceola</name>
 			<link lang="es">http://osceola.floridahealth.gov/certificates/index.html</link>
-			<description lang="es">Certificados de nacimentos, certificados de defunción</description></resource>
+			<description lang="es">Certificados de nacimentos, certificados de defunción</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Administración del Seguro Social</name>
 			<link lang="es">https://www.ssa.gov/espanol/</link>
-			<description lang="es">Tarjeta de seguro social</description></resource>
+			<description lang="es">Tarjeta de seguro social</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Pasaporte de Estados Unidos</name>
 			<link lang="es">https://travel.state.gov/content/travel/es/pasaportes.html</link>
-			<description lang="es">Aplique or renueve su pasaporte</description></resource>
+			<description lang="es">Aplique or renueve su pasaporte</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Otros documentos importantes</name>
 			<link lang="es">https://www.usa.gov/replace-vital-documents</link>
-			<description lang="es">Licencia de conducir, identificación, tarjeta de seguro social, tarjeta de Medicaid, pasaporte de Estados Unidos, tarjeta de residente permanente (green card), tarjeta de identificación militar de Estados Unidos</description></resource>
+			<description lang="es">Licencia de conducir, identificación, tarjeta de seguro social,
+				tarjeta de Medicaid, pasaporte de Estados Unidos, tarjeta de residente permanente
+				(green card), tarjeta de identificación militar de Estados Unidos</description>
+		</resource>
 	</section>
 	<section section="miscellaneous" lang="en">
 		<lang>en</lang>
@@ -919,35 +1446,52 @@
 		<resource lang="en">
 			<name lang="en">The Osceola Library System</name>
 			<link lang="en">http://www.osceolalibrary.org/</link>
-			<description lang="en">The Library has six branches, a collection of over 275,000 volumes, and serves over 120,000 library customers.</description></resource>
+			<description lang="en">The Library has six branches, a collection of over 275,000
+				volumes, and serves over 120,000 library customers.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">The Right Service at the Right Time</name>
 			<link lang="en">http://rightservicefl.org</link>
-			<description lang="en">Search for a service in all counties</description></resource>
+			<description lang="en">Search for a service in all counties</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">Change of Address</name>
 			<link lang="en">https://moversguide.usps.com/mgo/disclaimer</link>
-			<description lang="en">United States Postal Service (USPS)</description></resource>
+			<description lang="en">United States Postal Service (USPS)</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">2-1-1 Help Line, Heart of Florida United Way</name>
 			<link lang="en">https://www.hfuw.org/gethelp/</link>
-			<description lang="en">2-1-1 is free and completely confidential, available 24/7. You can access 2-1-1 by phone, email, chat or text (just text your zip code to 898-211). Reaching out will get you connected to a multilingual 2-1-1 specialist in your area who can put you in touch with local organizations providing critical services to improve and save lives.</description></resource>
+			<description lang="en">2-1-1 is free and completely confidential, available 24/7. You
+				can access 2-1-1 by phone, email, chat or text (just text your zip code to 898-211).
+				Reaching out will get you connected to a multilingual 2-1-1 specialist in your area
+				who can put you in touch with local organizations providing critical services to
+				improve and save lives.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">National Suicide Prevention Lifeline</name>
 			<link lang="en">https://suicidepreventionlifeline.org/</link>
-			<description lang="en">Call 1-800-273-8255. The National Suicide Prevention Lifeline is a United States-based suicide prevention network of 161 crisis centers that provides a 24/7, toll-free hotline available to anyone in suicidal crisis or emotional distress.</description></resource>
+			<description lang="en">Call 1-800-273-8255. The National Suicide Prevention Lifeline is
+				a United States-based suicide prevention network of 161 crisis centers that provides
+				a 24/7, toll-free hotline available to anyone in suicidal crisis or emotional
+				distress.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">National Domestic Violence Hotline</name>
 			<link lang="en">https://www.thehotline.org/</link>
-			<description lang="en">Call 1-800-799-7233, 1-800-787-3224 (TTY). Advocates are available 24/7 in more than 200 languages. All calls are free and confidential.</description></resource>
+			<description lang="en">Call 1-800-799-7233, 1-800-787-3224 (TTY). Advocates are
+				available 24/7 in more than 200 languages. All calls are free and confidential.</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">MyFlorida</name>
 			<link lang="en">http://www.myflorida.com/</link>
-			<description lang="en">The Official Page for Sunshine State Government</description></resource>
+			<description lang="en">The Official Page for Sunshine State Government</description>
+		</resource>
 		<resource lang="en">
 			<name lang="en">login.gov</name>
 			<link lang="en">https://login.gov/</link>
-			<description lang="en">Simple, secure access to government services online</description></resource>
+			<description lang="en">Simple, secure access to government services online</description>
+		</resource>
 	</section>
 	<section section="miscellaneous" lang="es">
 		<lang>es</lang>
@@ -955,34 +1499,52 @@
 		<resource lang="es">
 			<name lang="es">El Sistema de Bibliotecas de Osceola</name>
 			<link lang="es">http://www.osceolalibrary.org/</link>
-			<description lang="es">La Biblioteca cuenta con seis sucursales, una colección de más de 275,000 volúmenes, y atiende a más de 120,000 clientes de la biblioteca.</description></resource>
+			<description lang="es">La Biblioteca cuenta con seis sucursales, una colección de más de
+				275,000 volúmenes, y atiende a más de 120,000 clientes de la biblioteca.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">El Servicio Adecuado en el Momento Adecuado</name>
 			<link lang="es">http://rightservicefl.org/</link>
-			<description lang="es">Busca servicios en todos los condados</description></resource>
+			<description lang="es">Busca servicios en todos los condados</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Cambie su dirección</name>
 			<link lang="es">https://moversguide.usps.com/mgo/disclaimer</link>
-			<description lang="es">Servicio Postal de Estados Unidos (USPS)</description></resource>
+			<description lang="es">Servicio Postal de Estados Unidos (USPS)</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Línea de ayuda 2-1-1, Heart of Florida United Way</name>
 			<link lang="es">https://www.hfuw.org/gethelp/</link>
-			<description lang="es">El 2-1-1 es gratis, completamente confidencial y disponible 24/7. Puede acceder 2-1-1 por teléfono, correo electrónico, chat o texto (simplemente envie su código postal  al 898-211). Al contactarse se conectará con un especialista 2-1-1 multilingual en su área que le puede poner en contacto con organizaciones locales que proveen servicios críticos que mejoran y salvan vidas.</description></resource>
+			<description lang="es">El 2-1-1 es gratis, completamente confidencial y disponible 24/7.
+				Puede acceder 2-1-1 por teléfono, correo electrónico, chat o texto (simplemente
+				envie su código postal al 898-211). Al contactarse se conectará con un especialista
+				2-1-1 multilingual en su área que le puede poner en contacto con organizaciones
+				locales que proveen servicios críticos que mejoran y salvan vidas.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Red Nacional de Prevención del Suicidio</name>
 			<link lang="es">https://suicidepreventionlifeline.org/help-yourself/en-espanol/</link>
-			<description lang="es">Llame 1-888-628-9454. Red Nacional de Prevención del Suicidio es una red de prevención basada en los Estados Unidos que cuenta con 161 centros de crisis que proveen una línea directa gratuita disponible 24/7 a cualquier persona en crisis de suicidio o aflicción emocional.</description></resource>
+			<description lang="es">Llame 1-888-628-9454. Red Nacional de Prevención del Suicidio es
+				una red de prevención basada en los Estados Unidos que cuenta con 161 centros de
+				crisis que proveen una línea directa gratuita disponible 24/7 a cualquier persona en
+				crisis de suicidio o aflicción emocional.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">Línea Telefónica de Ayuda contra la Violencia Doméstica</name>
 			<link lang="es">https://espanol.thehotline.org/</link>
-			<description lang="es">Llame 1-800-799-7233, 1-800-787-3224 (TTY). Los asesores están disponibles 24/7 en más de 200 lenguages. Todas las llamadas son gratuitas y confidenciales.</description></resource>
+			<description lang="es">Llame 1-800-799-7233, 1-800-787-3224 (TTY). Los asesores están
+				disponibles 24/7 en más de 200 lenguages. Todas las llamadas son gratuitas y
+				confidenciales.</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">MyFlorida</name>
 			<link lang="es">http://www.myflorida.com/</link>
-			<description lang="es">La Página Oficial de Gobierno del Estado del Sol</description></resource>
+			<description lang="es">La Página Oficial de Gobierno del Estado del Sol</description>
+		</resource>
 		<resource lang="es">
 			<name lang="es">login.gov</name>
 			<link lang="es">https://login.gov/es/</link>
-			<description lang="es">Acceso simple y seguro a los servicios en línea del Gobierno</description></resource>
+			<description lang="es">Acceso simple y seguro a los servicios en línea del Gobierno</description>
+		</resource>
 	</section>
 </resources>

@@ -1,0 +1,9 @@
+# Command-line tools only; not for web access. (They also refuse to run
+# outside the CLI.) No need to upload this folder to InfinityFree.
+<IfModule mod_authz_core.c>
+	Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+	Order allow,deny
+	Deny from all
+</IfModule>
