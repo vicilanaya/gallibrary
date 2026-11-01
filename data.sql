@@ -1,4 +1,4 @@
--- GAL Resource Library data, exported 2026-11-01 21:16 UTC
+-- GAL Resource Library data, exported 2026-11-01 21:49 UTC
 -- Import AFTER schema.sql, into empty tables.
 
 SET NAMES utf8mb4;
@@ -53,7 +53,7 @@ INSERT INTO resources (id, section_id, name, link, description, sort_order) VALU
 (22, 3, 'Osceola Technical College (oTECH)', 'https://otech.osceolaschools.net/', 'Career and technical education and dual enrollment', 60),
 (23, 3, 'Accelerated Skills Training Programs', 'https://valenciacollege.edu/academics/accelerated-skills-training/', 'Valencia College’s Accelerated Skills Training Programs focus on\n				intensive, hands-on training designed to help you enter a new career field or\n				advance your current skillset. You’ll have the opportunity to earn\n				industry-recognized credentials, train in essential workplace skills and receive job\n				placement support.', 70),
 (24, 3, 'District Postsecondary Institutions', 'http://www.fldoe.org/academics/career-adult-edu/dist-ps-instit.stml', 'Florida Department of Education', 80),
-(25, 3, 'Apprenticeship Toolbox', 'http://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/apprenticeship-toolbox/various-links.stml', 'Florida Department of Education', 90),
+(25, 3, 'Apprenticeship Programs', 'https://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/', 'Florida Department of Education', 90),
 (26, 3, 'The Florida College System (FCS)', 'https://www.fldoe.org/schools/higher-ed/fl-college-system/', '28 colleges; low-cost, high-quality certificate and degree\n				programs', 100),
 (27, 3, 'FloridaShines: Online Courses', 'https://www.floridashines.org/learn-online', 'Search online courses offered at Florida\'s public colleges and universities.', 110),
 (28, 3, 'State University System of Florida', 'https://www.flbog.edu/', '12 institutions make it the second largest public university\n				system in the country', 120),
@@ -66,7 +66,7 @@ INSERT INTO resources (id, section_id, name, link, description, sort_order) VALU
 (35, 4, 'Colegio Técnico de Osceola (oTECH)', 'https://otech.osceolaschools.net/', 'Educación técnica y de carrera y matrícula doble', 60),
 (36, 4, 'Programas Acelerados de Adiestramiento en Destrezas', 'https://valenciacollege.edu/academics/accelerated-skills-training/', 'Los Programas Acelerados de Adiestramiento en Destrezas de\n				Valencia College se enfocan en entrenamiento prácticos e intensivos diseñados para\n				ayudarle a entrar a una carrera nueva o avanzar su colección actual de destrezas.\n				Usted tendrá la oportunidad de ganarse credenciales reconocidas en la industria,\n				adiestrarse en destrezas esenciales en el lugar de trabajo y recibir apoyo en su\n				colocación.', 70),
 (37, 4, 'Instituciones Terciarias de Distrito', 'http://www.fldoe.org/academics/career-adult-edu/dist-ps-instit.stml', 'Departamento de Educación de Florida', 80),
-(38, 4, 'Caja de herrameintas para aprendices', 'http://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/apprenticeship-toolbox/various-links.stml', 'Departamento de Educación de Florida', 90),
+(38, 4, 'Programas de Aprendizaje', 'https://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/', 'Departamento de Educación de Florida', 90),
 (39, 4, 'Sistema de Colegios de Florida (FCS)', 'https://www.fldoe.org/schools/higher-ed/fl-college-system/', '28 collegios; programas de grados y certificados económicos y de\n				alta calidad', 100),
 (40, 4, 'FloridaShines: Cursos en Línea', 'https://www.floridashines.org/learn-online', 'Busque cursos en línea ofrecidos por los colegios y universidades públicas de Florida.', 110),
 (41, 4, 'Sistema Universitario del Estado de Florida', 'https://www.flbog.edu/', '12 instituciones lo hacen el segundo sistema universitario\n				público más grande del país', 120),
@@ -183,7 +183,7 @@ INSERT INTO resources (id, section_id, name, link, description, sort_order) VALU
 (151, 14, 'Juzgado Jon B. Morgan del Condado de Osceola', 'https://ninthcircuit.org/resources', 'Las instalaciones alojan las cortes, la administración de las\n				cortes, el Secretario de la Corte, el Defensor Público y servicios auxiliares del\n				Sheriff.', 50);
 INSERT INTO resources (id, section_id, name, link, description, sort_order) VALUES
 (153, 14, 'e-Notify, Sistema de notificaciones de eventos en las cortes de Florida', 'https://enotify.flcourts.org/', 'Recordatorios por texto y correo electrónico sobre sus citas\n				pendientes en el tribunal', 70),
-(154, 14, 'Oficina del Sheriff del Condado de Osceola', 'https://www.osceolasheriff.org/#', 'La Oficina del Sheriff del Condado de Osceola ofrece una gama de\n				servicios. En adición a proteger vidas y propiedades, la agencia es responsable por\n				enforzar órdenes de la corte, administrar órdenes de ejecución, mantener seguridad\n				en la sala de corte, investigar crímenes, registrar ofensores sexuales, depredadores\n				y felones en el condado y muchas otras funciones designadas por la ley.', 80),
+(154, 14, 'Oficina del Sheriff del Condado de Osceola', 'https://www.osceolasheriff.org/', 'La Oficina del Sheriff del Condado de Osceola ofrece una gama de\n				servicios. En adición a proteger vidas y propiedades, la agencia es responsable por\n				enforzar órdenes de la corte, administrar órdenes de ejecución, mantener seguridad\n				en la sala de corte, investigar crímenes, registrar ofensores sexuales, depredadores\n				y felones en el condado y muchas otras funciones designadas por la ley.', 80),
 (155, 14, 'Departamento de Corrección del Condado de Osceola', 'https://www.osceola.org/Services/Corrections-and-Jail-Services', 'Cárcel del condado', 90),
 (156, 14, 'Departamento de Corrección de Florida', 'https://www.fdc.myflorida.com/', 'Prisiones estatales', 100),
 (157, 14, 'Agencia Federal de Prisiones', 'https://www.bop.gov/', 'Prisiones federales', 110),
@@ -221,23 +221,23 @@ INSERT INTO resources (id, section_id, name, link, description, sort_order) VALU
 (189, 18, 'Control de Pasaporte Móvil', 'https://www.cbp.gov/travel/us-citizens/mobile-passport-control', 'Control de Pasaporte Móvil optimiza su experiencia del\n				procesamiento de las Aduanas y Protección Fronteriza de Estados Unidos (CBP).\n				Simplemente llene su perfil y conteste las preguntas del CBP. Luego vaya a la fila\n				en el aeropuerto rotulada “Mobile Passport Control”.', 50),
 (190, 18, 'Smart Traveler Enrollment Program(STEP)', 'https://step.state.gov/step/', 'EL Programa de Inscripción de Smart Traveler es un servicio\n				gratuito que les permite a los ciudadanos y nacionales estadounidenses que viajan y\n				viven en el extranjero inscribir su viaje con la embajada o consulado estadounidense\n				más cercanos.', 60),
 (191, 19, 'IDignity', 'https://idignity.org/', 'IDignity provides assistance in obtaining Florida ID cards and\n				licenses, birth certificates, Social Security cards, replacement citizenship or\n				immigration records and other documents needed to obtain an ID/license. There is no\n				charge for our services to those in need.', 10),
-(192, 19, 'Vote Osceola', 'https://www.voteosceola.com/en-us/Voter-Information/Check-Your-Voter-Status', 'Voter Information in Osceola County', 20),
+(192, 19, 'Vote Osceola', 'https://www.voteosceola.gov/en-us/', 'Voter Information in Osceola County', 20),
 (193, 19, 'Florida Online Voter Registration System', 'https://registertovoteflorida.gov/', 'This system can be used to submit an application online for new\n				registration or to make changes to your existing registration record or to prefill a\n				voter registration application form.', 30),
 (194, 19, 'Vote.gov', 'https://vote.gov/', 'Register to vote', 40),
 (195, 19, 'Osceola County Tax Collector', 'https://osceolataxcollector.org/', 'Florida birth certificates', 50),
 (196, 19, 'Office of Vital Statistics, Florida Department of Health in Osceola\n				County', 'https://osceola.floridahealth.gov/certificates/', 'Birth certificates, death certificates', 60),
 (197, 19, 'Social Security Administration', 'https://www.ssa.gov/', 'Social security card', 70),
-(198, 19, 'U.S. Passport', 'https://travel.state.gov/content/travel/en/passports.html/', 'Apply for or renew your passport', 80),
+(198, 19, 'U.S. Passport', 'https://travel.state.gov/en/passports.html', 'Apply for or renew your passport', 80),
 (199, 19, 'Other vital documents', 'https://www.usa.gov/replace-vital-documents', 'Driver licence, ID card, social security card, Medicaid card,\n				U.S. passport, permanent resident (green) card, U.S. military ID', 90),
 (200, 20, 'IDignity', 'https://idignity.org/', 'IDignity provee asistencia para obtener licencias y tarjetas de\n				identificación de Florida, certificados de nacimiento, tarjetas ded Seguro Social,\n				reemplazo de documentos de ciudadanío o inmigración y otros documentos necesarios\n				para obtener licencias y tarjetas de identificación. Los servicios son gratuitos\n				para las personas necesitadas.', 10),
-(201, 20, 'Vote Osceola', 'https://www.voteosceola.com/es-us/Informacin-del-Elector/Verifique-Su-Estatus-Electoral', 'Información sobre votqantes en el Condado de Osceola', 20),
+(201, 20, 'Vote Osceola', 'https://www.voteosceola.gov/es-us/', 'Información sobre votqantes en el Condado de Osceola', 20),
 (202, 20, 'Sistema de solicitud de inscripción como votante de Florida', 'https://registertovoteflorida.gov/', 'Este sistema se puede utilizar para subministrar en línea una\n				solicitud de inscripción como votante, para actualizar un registro de inscripción o\n				para rellenar un formulario de solicitud de inscripción como votante.', 30);
 INSERT INTO resources (id, section_id, name, link, description, sort_order) VALUES
 (203, 20, 'Vote.gov en Español', 'https://vote.gov/es/', 'Inscríbase para votar', 40),
 (204, 20, 'Recaudador de Impuestos del Condado de Osceola', 'https://osceolataxcollector.org/', 'Certificados de nacimentos de Florida', 50),
 (205, 20, 'Oficina de Asuntos Demográficos, Departamento de Salud de Florida en el\n				Condado de Osceola', 'https://osceola.floridahealth.gov/certificates/', 'Certificados de nacimentos, certificados de defunción', 60),
 (206, 20, 'Administración del Seguro Social', 'https://www.ssa.gov/es', 'Tarjeta de seguro social', 70),
-(207, 20, 'Pasaporte de Estados Unidos', 'https://travel.state.gov/content/travel/es/pasaportes.html', 'Aplique or renueve su pasaporte', 80),
+(207, 20, 'Pasaporte de Estados Unidos', 'https://travel.state.gov/es/pasaportes.html', 'Aplique or renueve su pasaporte', 80),
 (208, 20, 'Otros documentos importantes', 'https://www.usa.gov/replace-vital-documents', 'Licencia de conducir, identificación, tarjeta de seguro social,\n				tarjeta de Medicaid, pasaporte de Estados Unidos, tarjeta de residente permanente\n				(green card), tarjeta de identificación militar de Estados Unidos', 90),
 (209, 21, 'The Osceola Library System', 'https://www.osceolalibrary.org/', 'The Library has six branches, a collection of over 275,000\n				volumes, and serves over 120,000 library customers.', 10),
 (210, 21, 'The Right Service at the Right Time', 'https://guides.ocls.org/therightservice', 'Search for a service in all counties', 20),

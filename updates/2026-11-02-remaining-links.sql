@@ -63,4 +63,31 @@ UPDATE resources SET
     description = 'Busque cursos en línea ofrecidos por los colegios y universidades públicas de Florida.'
 WHERE id = 40 AND link = 'https://www.floridacollegesystem.com/students/programs/online_programs.aspx';
 
+-- 6. Links checked in a browser by the site owner (these sites block automated
+--    checks). If you already ran this file before this section was added,
+--    running it again only applies these.
+UPDATE resources SET link = 'https://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/'
+WHERE id IN (25, 38) AND link = 'http://www.fldoe.org/academics/career-adult-edu/apprenticeship-programs/apprenticeship-toolbox/various-links.stml';
+
+-- The new link is the general Apprenticeship Programs page, so rename to match.
+UPDATE resources SET name = 'Apprenticeship Programs'
+WHERE id = 25 AND name = 'Apprenticeship Toolbox';
+UPDATE resources SET name = 'Programas de Aprendizaje'
+WHERE id = 38 AND name = 'Caja de herrameintas para aprendices';
+
+UPDATE resources SET link = 'https://www.osceolasheriff.org/'
+WHERE id = 154 AND link = 'https://www.osceolasheriff.org/#';
+
+UPDATE resources SET link = 'https://www.voteosceola.gov/en-us/'
+WHERE id = 192 AND link = 'https://www.voteosceola.com/en-us/Voter-Information/Check-Your-Voter-Status';
+
+UPDATE resources SET link = 'https://www.voteosceola.gov/es-us/'
+WHERE id = 201 AND link = 'https://www.voteosceola.com/es-us/Informacin-del-Elector/Verifique-Su-Estatus-Electoral';
+
+UPDATE resources SET link = 'https://travel.state.gov/en/passports.html'
+WHERE id = 198 AND link = 'https://travel.state.gov/content/travel/en/passports.html/';
+
+UPDATE resources SET link = 'https://travel.state.gov/es/pasaportes.html'
+WHERE id = 207 AND link = 'https://travel.state.gov/content/travel/es/pasaportes.html';
+
 COMMIT;
