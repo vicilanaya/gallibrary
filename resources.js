@@ -1,66 +1,136 @@
-"use strict";
-$(document).ready(function () {
-  // set spanish to hide by default at page load
-  $("[lang=es]").hide();
+/*
+ * GAL Resource Library - page behavior (no libraries needed).
+ *
+ * Language: elements marked lang="en" / lang="es" are shown or hidden by CSS
+ * depending on the "show-es" class on <html>. The choice is remembered in
+ * localStorage and reflected in the address bar as ?lang=es so the link can
+ * be shared. This file is loaded in <head> so the saved language is applied
+ * before the page is drawn (no flash of the wrong language).
+ */
+(function () {
+  "use strict";
 
-  // hide spanish, show english when english is clicked
-  $("#english").click(function (event) {
-    $("[lang=es]").hide();
-    $("[lang=en]").show();
+  var LANGS = ["en", "es"];
+  var STORAGE_KEY = "gal-lang";
+  var root = document.documentElement;
 
-    // cancel default link behavior
-    event.preventDefault();
-  });
+  function isLang(value) {
+    return LANGS.indexOf(value) !== -1;
+  }
 
-  // hide english, show spanish when spanish is clicked
-  $("#spanish").click(function (event) {
-    $("[lang=en]").hide();
-    $("[lang=es]").show();
+  function urlLang() {
+    var value = new URLSearchParams(window.location.search).get("lang");
+    return isLang(value) ? value : null;
+  }
 
-    // cancel default link behavior
-    event.preventDefault();
-  });
+  function storedLang() {
+    try {
+      var value = window.localStorage.getItem(STORAGE_KEY);
+      return isLang(value) ? value : null;
+    } catch (e) {
+      return null; // storage blocked (private mode, settings)
+    }
+  }
 
-  // open print dialog box when print is clicked
-  $("#print").click(function (event) {
-    window.print();
+  function currentLang() {
+    return root.classList.contains("show-es") ? "es" : "en";
+  }
 
-    // cancel default link behavior
-    event.preventDefault();
-  });
+  // Show one language: update <html lang>, the CSS class and the buttons.
+  function applyLang(lang) {
+    root.lang = lang;
+    root.classList.toggle("show-es", lang === "es");
+    var buttons = document.querySelectorAll(".lang-switch");
+    for (var i = 0; i < buttons.length; i++) {
+      buttons[i].setAttribute(
+        "aria-pressed",
+        buttons[i].getAttribute("data-lang") === lang ? "true" : "false",
+      );
+    }
+  }
 
-  // keep old links working: section headings used to have their display
-  // name as id (e.g. #Education, #Educación, #Social Services). Headings now
+  // A visitor's explicit choice: apply, remember, and put it in the address bar.
+  function chooseLang(lang) {
+    applyLang(lang);
+    try {
+      window.localStorage.setItem(STORAGE_KEY, lang);
+    } catch (e) {
+      // not saved; the page still switches
+    }
+    var url = new URL(window.location.href);
+    url.searchParams.set("lang", lang);
+    window.history.replaceState(null, "", url.toString());
+  }
+
+  // A link in the address bar wins, then the saved choice, then the server's default.
+  applyLang(
+    urlLang() || storedLang() || (isLang(root.lang) ? root.lang : "en"),
+  );
+
+  // Find the element a #hash points to. Section headings used to have their
+  // display name as id (#Education, #Educación, #Social Services); they now
   // use slug ids (#education, #education-es) and keep the old name in
-  // data-legacy-id, so scroll to it when the hash doesn't match an id.
-  function scrollToLegacyAnchor() {
+  // data-legacy-id, so old links still work.
+  function hashTarget() {
     var hash = window.location.hash.slice(1);
     if (!hash) {
-      return;
+      return null;
     }
     try {
       hash = decodeURIComponent(hash);
     } catch (e) {
+      return null;
+    }
+    var el = document.getElementById(hash);
+    if (el) {
+      return el;
+    }
+    var headings = document.querySelectorAll("h2[data-legacy-id]");
+    for (var i = 0; i < headings.length; i++) {
+      if (headings[i].getAttribute("data-legacy-id") === hash) {
+        return headings[i];
+      }
+    }
+    return null;
+  }
+
+  // If the link points into the other language (e.g. #education-es while
+  // English is showing), switch language first, then scroll to it.
+  function followHash() {
+    var target = hashTarget();
+    if (!target) {
       return;
     }
-    if (document.getElementById(hash)) {
-      return; // a current id; the browser already handled it
+    var owner = target.closest("[lang]");
+    if (
+      owner &&
+      owner !== root &&
+      isLang(owner.lang) &&
+      owner.lang !== currentLang()
+    ) {
+      applyLang(owner.lang);
     }
-    $("h2[data-legacy-id]").each(function () {
-      if (this.getAttribute("data-legacy-id") === hash) {
-        this.scrollIntoView();
-        return false; // stop at the first match
-      }
-    });
+    target.scrollIntoView();
   }
-  scrollToLegacyAnchor();
-  $(window).on("hashchange", scrollToLegacyAnchor);
 
-  // get current year for copyrigt statement in footer
-  // function getThisYear() {
-  // var date = new Date();
-  // var year = date.getFullYear();
-  // document.write(year);
-  // return year;
-  // }
-}); // end ready
+  document.addEventListener("DOMContentLoaded", function () {
+    applyLang(currentLang()); // sync the buttons now that they exist
+
+    var buttons = document.querySelectorAll(".lang-switch");
+    for (var i = 0; i < buttons.length; i++) {
+      buttons[i].addEventListener("click", function () {
+        chooseLang(this.getAttribute("data-lang"));
+      });
+    }
+
+    var print = document.getElementById("print");
+    if (print) {
+      print.addEventListener("click", function () {
+        window.print();
+      });
+    }
+
+    followHash();
+    window.addEventListener("hashchange", followHash);
+  });
+})();

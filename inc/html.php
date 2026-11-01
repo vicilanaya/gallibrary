@@ -23,6 +23,18 @@ function safe_url(string $url): string
 }
 
 /**
+ * URL for a CSS/JS file with a version number that changes whenever the file
+ * changes (its modification time), so browsers never keep using an old copy.
+ * Example: resources.css?v=1793541234
+ */
+function asset_url(string $file): string
+{
+    $path = dirname(__DIR__) . '/' . $file;
+    $version = is_file($path) ? (string) filemtime($path) : '0';
+    return $file . '?v=' . $version;
+}
+
+/**
  * Anchor id for a section heading: "education" for English,
  * "education-es" for Spanish (and "<slug>-<lang>" for any other language).
  */
