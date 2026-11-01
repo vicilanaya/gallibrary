@@ -42,6 +42,7 @@ header('Content-Type: text/html; charset=utf-8');
 		<meta name="robots" content="index, follow"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		
+		<link rel="icon" href="favicon-large-white.ico" type="image/x-icon"/>
 		<link rel="stylesheet" type="text/css" href="resources.css" />
 		<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 		<script src="resources.js"></script>
