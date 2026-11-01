@@ -95,10 +95,11 @@ Changes show on the site immediately (reload the page).
    ```powershell
    php tools/import_xml.php            # --replace to wipe and re-import
    php tools/check_db.php              # shows connection and row counts
-   php tests/run_tests.php             # compares the database with resources.xml and checks the page
+   php tests/run_tests.php             # checks the data, the rendered page, CSS and JS
    ```
-   `run_tests.php` compares against `resources.xml`, so it only passes while the
-   database still matches the XML.
+   `php tests/run_tests.php --xml` also compares the database row by row with
+   `resources.xml`; that only passes right after `import_xml.php`, because the
+   live content has been updated since (see `updates/`).
 5. Serve the project folder with Apache. Add this at the end of
    `C:\xampp\apache\conf\httpd.conf`, then Stop/Start Apache:
    ```apache
@@ -123,9 +124,32 @@ First time only:
 
 Files to upload to `htdocs` (FTP or the online File Manager):
 `index.php`, `config.php`, `inc/` (with its `.htaccess`), `resources.css`,
-`resources.js`, `logosvg.svg`, `.htaccess`. Keep or delete the old
+`resources.js`, `logosvg.svg`, `favicon-large-white.ico`, `.htaccess`. Keep or delete the old
 `resources.xml`/`resources.xsl` on the host; the `.htaccess` redirects them to the home page.
-Do not upload `tools/`, `tests/`, `*.sql`, `README.md` or `.git`.
+Do not upload `tools/`, `tests/`, `updates/`, `*.sql`, `README.md` or `.git`.
+
+## Checking links
+
+Websites move and close. Every few months, run:
+
+```powershell
+php tools/check_links.php           # lists broken, moved and http-only links
+php tools/check_links.php --all     # also lists the links that are fine
+php tools/check_links.php https://example.org/page   # status and page title of specific URLs
+```
+
+It checks the local database, so first load a fresh export of the live
+database if you've edited content in phpMyAdmin. "BLOCKED?" usually means the
+site refuses robots; open those in a browser. Fix links in phpMyAdmin, or
+collect the fixes in an SQL file under `updates/` (see
+`updates/2026-11-01-links.sql`) and run it in phpMyAdmin's SQL tab.
+
+## Language and sharing
+
+- The page starts in English. `?lang=es` (e.g. `https://gallibrary.rf.gd/?lang=es`)
+  opens it in Spanish, which is handy for sharing.
+- A visitor's choice is remembered in their browser.
+- Links to a Spanish section (e.g. `#education-es`) switch to Spanish automatically.
 
 Later updates: upload only the changed files. Content changes are made in
 phpMyAdmin and need no upload.
