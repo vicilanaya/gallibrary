@@ -7,6 +7,31 @@ DirectoryIndex index.php
 # No directory listings.
 Options -Indexes
 
+# Send every visitor to https://. InfinityFree sits behind a proxy, so the
+# proxy headers are checked too; without them the redirect loops forever
+# (https://forum.infinityfree.com/t/forcing-https/104180).
+# Local development (localhost / 127.0.0.1) is left on http://.
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1|\[::1\])(:[0-9]+)?$ [NC]
+	RewriteCond %{HTTP:X-Forwarded-Proto} !https
+	RewriteCond %{HTTPS} off
+	RewriteCond %{HTTP:CF-Visitor} !https
+	RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# Basic security headers.
+<IfModule mod_headers.c>
+	# Browsers must not guess file types (e.g. run a text file as script).
+	Header always set X-Content-Type-Options "nosniff"
+	# Other sites can't show this site inside a frame (clickjacking).
+	Header always set X-Frame-Options "SAMEORIGIN"
+	# Sites you link to see only "gallibrary.rf.gd", not the full page address.
+	Header always set Referrer-Policy "strict-origin-when-cross-origin"
+	# The site never needs camera, microphone or location.
+	Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+</IfModule>
+
 # The old XML page is archived; send old links to the PHP page instead.
 RedirectMatch 301 ^(.*/)resources\.(xml|xsl)$ $1
 
